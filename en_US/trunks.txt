@@ -102,3 +102,5 @@ trunks.cos.warning = The action you are about to perform may create security vul
 trunks.cos.warning.title = Warning
 trunks.cos.warning.confirm = I understand and confirm
 trunks.cos.warning.cancel = Cancel my change
+trunks.dial_profile_id = Dial Profile
+trunks.dial_profile_id.tooltip = Profile with the dial options to use when this trunk is dialed.

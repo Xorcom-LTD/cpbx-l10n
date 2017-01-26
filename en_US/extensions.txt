@@ -185,3 +185,5 @@ extensions.deny.invalid = Deny is invalid. Please type IP address with Subnet ma
 extensions.permit.invalid = Permit is invalid. Please type IP address with Subnet mask. You may use CIDR notation. (Example: 192.168.40.38/16)
 extensions.name.invalid = Extension Name %s cannot contain the "," character
 module.extensions = Extensions
+extensions.dial_profile_id = Dial Profile
+extensions.dial_profile_id.tooltip = Allows you to select the profile to use with the dial options to apply to your incoming calls.
