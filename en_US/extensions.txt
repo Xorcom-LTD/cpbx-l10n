@@ -73,6 +73,7 @@ extensions.fax_auto_send.tooltip = Fax will be sent to email when received.
 extensions.fax_enabled = Fax Enabled
 extensions.fax_enabled.tooltip = Enable/Disable fax
 extensions.features_password = Features Password
+extensions.features_password.invalid = Feature Password is invalid. Use only numbers and the "*" (asterisk) symbol.
 extensions.features_password.tooltip = Password to access certain PBX features.
 extensions.followme = Follow Me
 extensions.followme_numbers = Follow Me List

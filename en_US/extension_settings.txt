@@ -55,6 +55,7 @@ extension_settings.status.tooltip = Enable / Disable
 extension_settings.time_group_id = Time Group
 extension_settings.time_group_id.tooltip = The time Group will allow matching times will be activated this feature.
 extension_settings.vm_password = Voicemail Password
+extension_settings.vm_password.invalid = Voicemail Password is invalid. Use only numbers and the "*" (asterisk) symbol.
 extension_settings.vm_password.tooltip = Voicemail Password
 extension_settings.white_list = Boss Secretary White List
 extension_settings.white_list.extension = Number

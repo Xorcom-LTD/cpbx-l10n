@@ -15,6 +15,7 @@ nightmode.validate.mod_dest_override = Destination Module when enabled is requir
 nightmode.validate.normal_dest = Destination when disabled is required
 nightmode.validate.override_dest = Destination when enabled is required
 nightmode.password = Optional Password
+nightmode.password.invalid = Password is invalid. Use only numbers and the "*" (asterisk) symbol.
 nightmode.password.tooltip = Optional password to protect this night mode.
 nightmode.state = State
 nightmode.state.tooltip = Check to invert the night mode.

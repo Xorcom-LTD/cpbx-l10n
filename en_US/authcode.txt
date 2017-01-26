@@ -6,6 +6,7 @@ authcode.auth_alias.unique = Alias must be unique
 authcode.class_of_service_id = Class of Service
 authcode.class_of_service_id.tooltip = Class of service is used to route the call
 authcode.code = Code
+authcode.code.invalid = Authorization code is invalid. Use only numbers and the "*" (asterisk) symbol.
 authcode.code.tooltip = Authorization code number.
 authcode.description = Description
 authcode.description.tooltip = Short description to identify this authorization code.

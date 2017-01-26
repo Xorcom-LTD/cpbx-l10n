@@ -8,5 +8,6 @@ speeddial.description.tooltip = Name identifying this Speed Dial
 speeddial.dnumber = Destination Number
 speeddial.dnumber.tooltip = Number to dial.
 speeddial.extension = Speed Dial Code
+speeddial.extension.invalid = Speed Dial Code is invalid. Use only numbers and the "*" (asterisk) symbol.
 speeddial.extension.tooltip = Code to activate this speed dial. Code should be unique to the system, i.e. must not be used anywhere else in the system.
 speeddial.general = General
