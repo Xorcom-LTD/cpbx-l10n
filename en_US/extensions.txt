@@ -170,6 +170,7 @@ extensions.unlink_device = Unlink Device
 extensions.update = Update
 extensions.user = Device User
 extensions.user.invalid = User Device must be unique
+extensions.user.invalid.spaces = User Device must not contain spaces
 extensions.user_image = User Image
 extensions.user_portal = User Portal
 extensions.vm_email = Voicemail Email Address

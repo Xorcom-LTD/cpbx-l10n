@@ -51,6 +51,7 @@ hot_desking.technology.tooltip = Type of technology for this device
 hot_desking.user = User Device
 hot_desking.user_unique.invalid = User Device already exists
 hot_desking.user.invalid = Please enter a valid User Device
+hot_desking.user.invalid.spaces = User Device must not conatin spaces
 hot_desking.user.tooltip = User for this Device.
 hot_desking.voicemail_uri = Voicemail URI
 hot_desking.voicemail_uri.tooltip = If the phone's Msgs button should dial a SIP URI rather than opening the visual voicemail application, this option specifies what URI the Msgs button should dial. Setting this option on a phone's primary line will disable visual voicemail.
