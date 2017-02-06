@@ -9,6 +9,7 @@ paging.extensions = Extensions
 paging.extensions.invalid = Please select at least one extension
 paging.extensions.tooltip = List of the extension(s) to dial.
 paging.extension = Code
+paging.extension.invalid = Paging Code is invalid. Only *,#,+ and numbers are allowed.
 paging.extension.tooltip = Number to reach this service
 paging.general = General
 paging.ignore = Ignore Forward Call

@@ -5,6 +5,7 @@ dpma_extlines.cid = CID Name/Number
 dpma_extlines.cid.tooltip = Caller ID field to use for this line.
 dpma_extlines.cid_name = CID Name
 dpma_extlines.cid_number = CID Number
+dpma_extlines.cid_number.invalid = CID Number is invalid. Only *,#,+ and numbers are allowed.
 dpma_extlines.general = General
 dpma_extlines.line_label = Line Label
 dpma_extlines.line_label.placeholder = My External Line

@@ -95,6 +95,7 @@ trunks.trkcustom.type.peer = Peer
 trunks.trkcustom.type.user = User
 trunks.trkcustom.value = Value
 trunks.trunk_cid = Trunk CID
+trunks.trunk_cid_number.invalid = Trunk CID is invalid. Only *,#,+ and numbers are allowed.
 trunks.trunk_cid.tooltip = Caller ID for this trunk.
 trunks.trunk_cid_name = Trunk CID Name
 trunks.trunk_cid_number = Trunk CID Number

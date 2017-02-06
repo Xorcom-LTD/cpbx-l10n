@@ -2,6 +2,7 @@ menu.nightmode = Night Mode
 module.nightmode = Night Mode
 nightmode = Night Mode
 nightmode.code = Toggle Code
+nightmode.code.invalid = Toggle Code is invalid. Only *,#,+ and numbers are allowed.
 nightmode.code.tooltip = Code to dial to change the night mode state via phone.
 nightmode.description = Description
 nightmode.description.tooltip = Short description to identify this night mode.
