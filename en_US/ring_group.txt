@@ -20,6 +20,7 @@ ring_group.prefix.invalid = Please write a valid CID Name Prefix. Underscore, da
 ring_group.prefix.tooltip = Prefix to append to this ring group
 ring_group.ringtime = Ring Time
 ring_group.ringtime.tooltip = Ring Time in seconds, MAX 160 seconds.
+ring_group.ringtime.values = Ring Time value must be between 5 and 160 seconds.
 ring_group.select_extensions = Select Extensions
 ring_group.strategy = Ring Strategy
 ring_group.strategy.one_by_one = One by One
