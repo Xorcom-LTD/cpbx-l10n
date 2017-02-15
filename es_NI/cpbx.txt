@@ -1,4 +1,0 @@
-cpbx.licenses_title.warning = WARNING! LICENSE INVALID
-cpbx.licenses_content.warning = The license of this system is not valid and your <b>PBX may not function properly</b>.<br/>The reason may be that the license has expired, that the system is not licensed or that it has no access to the licensing server. Please contact your system administrator.
-cpbx.licenses_confirm.warning = Confirm
-cpbx.ombu_allowed_extensions = Ha llegado a su límite de licencia d% de extensiones. <br/>Para comprar licencia para más extensiones, póngase en contacto con su distribuidor.

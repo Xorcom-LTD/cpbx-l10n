@@ -1,2 +1,0 @@
-vm_bodytext = Ha recibido un mensaje de correo de voz de ${VM_DUR} de duración desde ${VM_CALLERID} a ${VM_DATE}.\nA Una grabación de este mensaje se adjunta a este correo electrónico, también se puede escuchar la misma marcando *97 desde su propia extensión, o marcando *98 desde cualquier otra extensión
-vm_subject = Correo de voz Número ${VM_MSGNUM} para el buzón ${VM_MAILBOX} de ${VM_CALLERID} recibido ${VM_DATE}
