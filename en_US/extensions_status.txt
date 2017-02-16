@@ -52,6 +52,7 @@ extensions_status.devices = Devices
 extensions_status.devices.tooltip = Show all the devices associated to this extension.
 extensions_status.channel = Channel {0}
 extensions_status.device_info = Devices Info
+extensions_status.device_info.channel = Channel
 extensions_status.device_info.description = Description
 extensions_status.device_info.status = Status
 extensions_status.device_info.unknown = Unknown
