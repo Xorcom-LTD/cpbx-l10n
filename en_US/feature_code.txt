@@ -73,3 +73,4 @@ feature_code.voice-mail = Voicemail
 feature_code.recordings_announcements = Recordings & Announcements
 menu.feature_codes = Feature Codes
 module.feature_code = Feature Codes
+feature_code.send_vm_msg = Send Voicemail Message

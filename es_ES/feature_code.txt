@@ -73,3 +73,4 @@ feature_code.voice-mail = Correo de Voz
 feature_code.recordings_announcements = Grabaciones y anuncios
 menu.feature_codes = Códigos de Funciones
 module.feature_code = Códigos de Funciones
+feature_code.send_vm_msg = Enviar Mensaje de Voz
