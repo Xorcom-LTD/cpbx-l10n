@@ -1,0 +1,15 @@
+menu.pickup_groups = Groupe d'interception
+module.pickup_group = Groupe d'interception
+pickup_group = Groupe d'interception
+pickup_group.allow_pickup = Autoriser interception
+pickup_group.allow_pickup.tooltip = Autorise à intercepter les membres de ce groupe
+pickup_group.description = Description
+pickup_group.description.tooltip = Courte description de ce groupe d'interception
+pickup_group.extension = Extension
+pickup_group.extension.tooltip = Extension membre de ce groupe, ou autorisée à intercepter, ou les deux
+pickup_group.extension_id.duplicate = L'extension existe déjà et ne peut être utilisée deux fois
+pickup_group.extension_id.empty = Vous devez au moins ajouter un membre à ce groupe
+pickup_group.general = Général
+pickup_group.member = Membre
+pickup_group.member.tooltip = Indique si cette extension est membre de groupe d'interception
+pickup_group.no_options = L'extension doit être désignée comme membre et/ou comme autorisée à intercepter.

@@ -1,0 +1,16 @@
+menu.pin_lists = Liste de codes PIN
+module.pin = Liste de codes PIN
+pin = Liste de codes PIN
+pin.general = Général
+pin.confirm_delete = Etes vous sur de vouloir supprimer cette liste de codes PIN ?
+pin.delete = Supprimer
+pin.description = Description
+pin.description.invalid = La description est obligatoire
+pin.description.tooltip = Une courte description pour cette liste de codes PIN
+pin.none = Aucun
+pin.passwords = Liste de codes PIN
+pin.passwords.duplicate = Code PIN dupliqué
+pin.passwords.empty = Vous devez au moins saisir un code PIN
+pin.passwords.invalid = Code PIN invalide. Utilisez uniquement des nombres et "*". Un code PIN par ligne
+pin.passwords.tooltip = Liste des codes PIN qui peuvent être utilisés. Les codes PIN sont composés de chiffres et du caractère "*". Vous pouvez spécifier plusieurs codes (1 par ligne)
+pin.pin_list_not_found = Pas de liste de code PIN à supprimer

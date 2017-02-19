@@ -1,0 +1,12 @@
+menu.speed_dialing = Numérotation rapide
+module.speeddial = Numérotation rapide
+speeddial = Numérotation rapide
+speeddial.class_of_service_id = Classe de Service
+speeddial.class_of_service_id.tooltip = Classe de service a utilisé pour appeler avec cette numérotation rapide
+speeddial.description = Description
+speeddial.description.tooltip = Nom de cette numérotation abrégé
+speeddial.dnumber = Numéro de destination
+speeddial.dnumber.tooltip = Numéro rapide.
+speeddial.extension = Code de numéro rapide
+speeddial.extension.tooltip = Code pour activer cette numérotation rapide. Le code doit être unique sur le système.
+speeddial.general = Général

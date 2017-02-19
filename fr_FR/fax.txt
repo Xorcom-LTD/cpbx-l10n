@@ -1,0 +1,2 @@
+fax.fax_process.fax_arrived = Un FAX est arrivé pour {0} de la part de {1}
+fax.fax_process.subject_new_fax = Un nouveau FAX est arrivé sur votre IPBX.

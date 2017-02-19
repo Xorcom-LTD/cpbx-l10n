@@ -1,0 +1,35 @@
+dashboard.asterisk = Asterisk
+dashboard.asterisk_uptime = Uptime Asterisk
+dashboard.available = Disponible
+dashboard.current_time = Heure courante
+dashboard.dahdi = DAHDi
+dashboard.days =
+	[0]
+	[one] 1 jour
+	*[other] {0} jours
+dashboard.fail2ban = Fail2Ban
+dashboard.general = Informations système
+dashboard.hard_disk = Informations disque dur
+dashboard.hours =
+	[0]
+	[one] , 1 heure
+	*[other] , {0} heures
+dashboard.minutes =
+	[0]
+	[one] , 1 minute
+	*[other] , {0} minutes
+dashboard.network_usage = Utilisation réseau
+dashboard.seconds =
+	[0]
+	[one] , 1 seconde
+	*[other] , {0} secondes
+dashboard.server_uptime = Uptime serveur
+dashboard.services_status = Status services
+dashboard.ssh = SSH
+dashboard.system_usage = Utilisation système
+dashboard.time = Heure
+dashboard.uptime_format = {dashboard.days[0]}{dashboard.hours[1]}{dashboard.minutes[2]}{dashboard.seconds[3]}
+dashboard.used = Utilisé
+dashboard.unavailable = Non/A
+menu.dashboard = Infos système
+module.dashboard = Infos système

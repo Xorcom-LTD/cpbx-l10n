@@ -1,0 +1,15 @@
+extension_time_group.default.description = Profil horaire de portail utilisateur %s
+extension_time_group.general = Général
+extension_time_group.no_extension = Vous n'avez pas d'extension associée à ce portail utilisateur
+extension_time_group.schedules = Horaires
+extension_time_group.schedules.mday_end = Dernier jour du mois
+extension_time_group.schedules.mday_start = Premier jour du mois
+extension_time_group.schedules.month_end = Mois de fin
+extension_time_group.schedules.month_start = Mois de début
+extension_time_group.schedules.tend = Heure de fin
+extension_time_group.schedules.tstart = Heure de début
+extension_time_group.schedules.wday_end = Jour de fin de semaine
+extension_time_group.schedules.wday_start = Jour de début de semaine
+extension_time_group.select_time = -- Choisir un profil horaire --
+menu.my_time_group = Mon profil horaire
+module.extension_timegroup = Mon profil horaire

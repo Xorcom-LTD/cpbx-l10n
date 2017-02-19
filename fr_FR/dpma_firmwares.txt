@@ -1,0 +1,13 @@
+dpma_firmwares = DPMA Firmwares
+dpma_firmwares.description = Description
+dpma_firmwares.description.tooltip = Short description to identify this firmware.
+dpma_firmwares.dpma_model_id = Phone Model
+dpma_firmwares.dpma_model_id.tooltip = Defines the phone model for this firmware. A firmware applies to only one model.
+dpma_firmwares.general = General
+dpma_firmwares.model = Model
+dpma_firmwares.public_firmware = Public Firmware
+dpma_firmwares.public_firmware.tooltip = Whether or not we will include a fallback address (based on the network's public_firmware_url_prefix) to retrieve this firmware if the phone can not reach the file specified here.
+dpma_firmwares.version = Firmware Version
+dpma_firmwares.version.tooltip = Sets the version string identifier for a particular firmware. The string is the version of the firmware, not counting the final underscore, model, underscore, "firmware," and ".eff" suffix.
+menu.firmwares = Firmwares
+module.dpma_firmwares = DPMA Firmwares

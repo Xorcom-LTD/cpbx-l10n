@@ -1,0 +1,5 @@
+dahdi_settings.general = Général
+dahdi_settings.save = Sauvegarder
+dahdi_settings.tonezone = Tonalité géographique
+dahdi_settings.tonezone.tooltip = Tonalité géographique pour tous les utilisateurs
+module.dahdi_settings = Paramètres de téléphonie

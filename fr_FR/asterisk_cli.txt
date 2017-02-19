@@ -1,0 +1,5 @@
+asterisk_cli.commands_updated = Liste des commandes mise à jour avec succès
+asterisk_cli.general = Général
+asterisk_cli.input-cmd.placeholder = Saisir une commande ici
+menu.asterisk_cli = CLI Asterisk
+module.asterisk_cli = CLI Asterisk

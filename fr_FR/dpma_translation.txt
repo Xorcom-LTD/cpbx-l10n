@@ -1,0 +1,9 @@
+dpma_translation = DPMA Translations
+dpma_translation.customOptions.param = Parameter
+dpma_translation.customOptions.value = Value
+dpma_translation.description = Description
+dpma_translation.description.tooltip = A short description for identify this translation.
+dpma_translation.general = General
+dpma_translation.translation_options = Translation Options
+menu.translations = Translations
+module.dpma_translation = DPMA Translations

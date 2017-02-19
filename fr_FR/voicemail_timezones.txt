@@ -1,0 +1,14 @@
+menu.voicemail_timezones = Fuseau horaire de la boite vocale
+module.voicemail_timezones = Fuseau horaire de la boite vocale
+voicemail_timezones = Fuseau horaire de la boite vocale
+voicemail_timezones.confirm_delete = Êtes-vous sûr de vouloir supprimer ce fuseau horaire?
+voicemail_timezones.delete = Supprimer
+voicemail_timezones.general = Général
+voicemail_timezones.none = Pas de sélections
+voicemail_timezones.timezone = Fuseau horaire
+voicemail_timezones.timezone.tooltip = Fuseau horaire à choisir.
+voicemail_timezones.tzdefinition = Time Definition
+voicemail_timezones.tzname = Nom
+voicemail_timezones.tzname.tooltip = Nom du fuseau horaire
+voicemail_timezones.voicemail_timezone_id = Fuseau horaire
+voicemail_timezones.voicemail_timezone_id.tooltip = Fuseau horaire pour cette boite vocale. Si pas de sélection, le fuseau horaire défii est celui des paramètres généraux. Non utilisé si la date et l'heure ne sonts pas diffusées.

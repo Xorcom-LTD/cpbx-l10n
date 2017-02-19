@@ -1,0 +1,10 @@
+menu.announcements = Prédécroché
+module.preannoun = Prédécroché
+preannoun = Prédécroché
+preannoun.description = Description
+preannoun.description.tooltip = Description qui identifie ce Prédécroché
+preannoun.destination = Déstination après lécture du Prédécroché %s
+preannoun.general = Général
+preannoun.mod_dest = Module de destination
+preannoun.recording_id = Enregistrement personnalisé
+preannoun.recording_id.tooltip = Enregistrement à jouer dans ce Prédécroché

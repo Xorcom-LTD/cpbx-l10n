@@ -1,0 +1,15 @@
+menu.queue_vips = File d'attente VIP
+module.queues_vip = File d'attente VIP
+queues_vip = File d'attente VIP
+queues_vip.confirm_delete = Etes vous sur de vouloir supprimer cette liste de VIP ?
+queues_vip.delete = Supprimer
+queues_vip.description = Description
+queues_vip.description.tooltip = Description courte identifiant cette liste de correspondants VIP
+queues_vip.general = Général
+queues_vip.list = Liste des VIP
+queues_vip.list.duplicate = La liste de VIP ne peut pas contenir deux fois le meme numéro
+queues_vip.list.empty = Vous devez spécifier au moins un numéro VIP
+queues_vip.list.invalid = Numéro invalide dans la liste. Utilisez un numéro par ligne, et uniquement des nombres. 
+queues_vip.list.tooltip = Insérez la liste des numéros VIP. Un numéro par ligne
+queues_vip.none = Aucun
+queues_vip.not_found = La liste VIP n'existe pas.

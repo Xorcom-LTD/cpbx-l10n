@@ -1,0 +1,16 @@
+menu.voicemail_broadcast_groups = Boite vocale de groupe
+module.vmgroup = Boite vocale de groupe
+vmgroup = Boite vocale de groupe
+vmgroup.description = Description
+vmgroup.description.invalid = La description ne peut être vide.
+vmgroup.description.tooltip = Courte description de cette boite vocale de groupe.
+vmgroup.extension = Code
+vmgroup.extension.invalid = Le numéro d'appel ne peut être vide.
+vmgroup.extension.tooltip = The number to dial in order to broadcast a voicemail to multiple extensions.
+vmgroup.general = Général
+vmgroup.no_extensions = Pas d'extension sélectionné
+vmgroup.password = Mot de passe
+vmgroup.password.invalid = Le mot de passe ne peut-être vide et ne doit pas contenir le symbole dièse ('#').
+vmgroup.password.tooltip = Mot de passe pour sécuriser cette boite vocale de groupe
+vmgroup.vmglist = Extensions
+vmgroup.vmglist.tooltip = Liste des extensions vers lequel le message vocal sera envoyé. Note: les extensions doivent avoir leur boite vocale activée.

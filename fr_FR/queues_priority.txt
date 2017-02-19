@@ -1,0 +1,10 @@
+menu.queue_priorities = Priorité files d'attentes
+module.queues_priority = Priorité files d'attentes
+queues_priority = Priorité files d'attentes
+queues_priority.description = Description
+queues_priority.description.tooltip = Description courte identifiant cette priorité de file d'attente
+queues_priority.destination = Destination
+queues_priority.general = Général
+queues_priority.mod_dest = Module de destination
+queues_priority.priority = Priorité
+queues_priority.priority.tooltip = La priorité à définir pour la file d'attente. Plus la priorité est haute, plus l'appel sera traité en priorité.
