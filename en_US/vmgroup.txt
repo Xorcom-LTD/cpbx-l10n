@@ -8,6 +8,7 @@ vmgroup.extension = Code
 vmgroup.extension.invalid = Number to Dial cannot be empty
 vmgroup.extension.tooltip = The number to dial in order to broadcast a voicemail to multiple extensions.
 vmgroup.general = General
+vmgroup.invalid.already_exists = Invalid Voicemail Group number {0}. The number is in use by {1} module.
 vmgroup.no_extensions = No extensions selected
 vmgroup.password = Password
 vmgroup.password.error = Password cannot be empty and may use only numbers and the "*" (asterisk) symbol.

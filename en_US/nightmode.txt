@@ -9,6 +9,7 @@ nightmode.description.tooltip = Short description to identify this night mode.
 nightmode.general = General
 nightmode.globalmode = Ignore global mode
 nightmode.globalmode.tooltip = This means that it will not be affected by the state of global night mode.
+nightmode.invalid.already_exists = Invalid Nightmode number {0}. The number is in use by {1} module.
 nightmode.normal_dest = Destination when Disabled
 nightmode.override_dest = Destination when Enabled
 nightmode.validate.mod_dest_normal = Destination Module when disabled is required

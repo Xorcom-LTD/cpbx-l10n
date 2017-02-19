@@ -6,6 +6,7 @@ custom_app.extension = Code
 custom_app.extension.invalid = Custom Application Code is invalid. Only *,#,+ and numbers are allowed.
 custom_app.extension.tooltip = Code to activate custom application. Code should be unique to the system, i.e. must not be used anywhere else in the system for an extension, feature code, queue, etc.
 custom_app.general = General
+custom_app.invalid.already_exists = Invalid Custom Application number {0}. The number is in use by {1} module.
 custom_app.mod_dest = Destination Module
 custom_app.mod_dest.custom = Custom
 custom_app.mod_dest.select = Select Module

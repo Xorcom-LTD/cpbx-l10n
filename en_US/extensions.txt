@@ -95,6 +95,7 @@ extensions.internal_cid_number = Number
 extensions.internal_cid_number.invalid = Please enter a valid Internal Caller ID. Only *,#,+ and numbers are allowed
 extensions.internal_rec = Internal
 extensions.internal_rec.tooltip = Record internal calls.
+extensions.invalid.already_exists = Invalid Extension number {0}. The number is in use by {1} module.
 extensions.invalid.cos = Class of Service is invalid. Make sure the Class of Service exists.
 extensions.invalid.email = Email "%s" is invalid. Make sure email address is correct.
 extensions.invalid.extension = Extension number <b>%s</b> is invalid. Must contain digits only

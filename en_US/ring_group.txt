@@ -8,6 +8,7 @@ ring_group.extension = Code
 ring_group.extension.invalid = Extensions is required
 ring_group.extension.tooltip = Number to dial to reach this service.
 ring_group.general = General
+ring_group.invalid.already_exists = Invalid Ring Group number {0}. The number is in use by {1} module.
 ring_group.last_destination = Last Destination
 ring_group.last_destination.tooltip = Destination to execute if none of the extensions were reached
 ring_group.list = Extensions

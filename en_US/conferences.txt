@@ -22,6 +22,7 @@ conferences.extension = Code
 conferences.extension.invalid = Conference code is invalid. Only *,#,+ and numbers are allowed.
 conferences.extension.tooltip = Number to dial to reach this service.
 conferences.general = General
+conferences.invalid.already_exists = Invalid Conference number {0}. The number is in use by {1} module.
 conferences.language = Language
 conferences.language.tooltip = Set the language used for announcements to the conference.
 conferences.max_members = Max Members

@@ -46,6 +46,7 @@ queues.extension_id = Extension
 queues.extension_id.tooltip = Member Extension.
 queues.final_dest = Last Destination
 queues.general = General
+queues.invalid.already_exists = Invalid Queue number {0}. The number is in use by {1} module.
 queues.invalid.announcement = Invalid Announcement. Make sure that Announcement exists
 queues.invalid.ivr = Invalid IVR. Make sure that IVR exists
 queues.invalid.music_group = Invalid Music on Hold. Make sure that Music on Hold exists
