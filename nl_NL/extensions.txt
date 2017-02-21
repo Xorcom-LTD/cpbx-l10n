@@ -46,7 +46,6 @@ extensions.dictate_format.tooltip = Opnameformaat
 extensions.dictation = Dictaten
 extensions.did_number = DID-nummer
 extensions.did_number.tooltip = Het DID-nummer voor inkomende oproepen, d.w.z. de inkomende route die moet worden gekoppeld aan deze extensie.
-extensions.dpma_phone_id.invalid = Om automatisch DPMA-telefoons aan te maken zijn een standaardnetwerk en -profiel nodig.
 extensions.email = E-mailadres
 extensions.email.tooltip = Het e-mailadres waarnaar de serviceberichten worden verzonden.
 extensions.enable_callee_prompt = Melding aan Gebelde

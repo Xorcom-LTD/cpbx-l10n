@@ -46,7 +46,6 @@ extensions.dictate_format.tooltip = Recording format
 extensions.dictation = Dictation
 extensions.did_number = DID Number
 extensions.did_number.tooltip = The DID number for incoming calls, i.e. the inbound route that should be associated with this extension.
-extensions.dpma_phone_id.invalid = Automatic DPMA phone creation requires a default network and profile.
 extensions.email = 邮箱地址
 extensions.email.tooltip = Email address to where the services messages will be sent.
 extensions.enable_callee_prompt = Prompt Callee

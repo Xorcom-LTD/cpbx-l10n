@@ -50,7 +50,6 @@ extensions.did_number.tooltip = El número DID para las llamadas entrantes, por 
 extensions.did_number.invalid = El número DID debe ser único. El número DID %s se usa en el/los módulo/s %s.
 extensions.diversion_hints = Hints para desvío
 extensions.diversion_hints.tooltip = Generar Hints para desvíos (No Molestar, Desvío de llamadas, Asistente Personal y Jefe / Secretaria)
-extensions.dpma_phone_id.invalid = Creación automática de teléfono DMPA requiere una red y el perfil predeterminado.
 extensions.email = Correo Electrónico
 extensions.email.tooltip = Dirección de Correo Electrónico a la que se enviarán los mensajes de los servicios.
 extensions.enable_callee_prompt = Mensaje del Destinatario

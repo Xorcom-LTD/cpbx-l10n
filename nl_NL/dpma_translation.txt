@@ -1,9 +1,0 @@
-dpma_translation = DPMA-omzettingen
-dpma_translation.customOptions.param = Parameter
-dpma_translation.customOptions.value = Waarde
-dpma_translation.description = Omschrijving
-dpma_translation.description.tooltip = Korte omschrijving voor deze omzetting.
-dpma_translation.general = Algemeen
-dpma_translation.translation_options = Omzettingsopties
-menu.translations = Omzettingen
-module.dpma_translation = DPMA-omzettingen
