@@ -1,11 +1,11 @@
 menu.create_template = Créer modèle
 menu.device_mapping = Affectation d'équipement
-menu.endpoint_manager = Gestionnaire d'équipement
+menu.endpoint_manager = Gestion d'équipement
 menu.host_settings = Paramètres de l'hôte
 module.epm_device_mapping = Affectation d'équipement
 module.epm_host_settings = Paramètres de l'hôte
 module.epm_template = Créer modèle
-module.endpoint = Gestionnaire d'équipement
+module.endpoint = Gestion d'équipement
 epm.update = Rafraichir
 epm.delete = Supprimer
 epm.cancel = Annuler

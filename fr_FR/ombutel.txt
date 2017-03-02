@@ -1,4 +1,4 @@
-menu.admin = Administration
+menu.admin = Admin
 menu.applications =  Applications
 menu.callcenter = Centre d'appel
 menu.cdr =  CDR
@@ -12,8 +12,8 @@ menu.pbx_settings = Paramètres PBX
 menu.portal = Portail utilisateur
 menu.reports = Rapports
 menu.security = Sécurité
-menu.settings = Paramètres
-menu.system_settings = Paramètres système
+menu.settings = Params.
+menu.system_settings = Paramètres sys.
 menu.technology_settings = Paramètres technologies
 menu.tools = Outils
 module.ombutel = Ombutel

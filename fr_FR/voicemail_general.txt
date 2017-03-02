@@ -1,5 +1,5 @@
-menu.voicemail_settings = Paramètres de la boite vocale
-module.voicemail_general = Paramètres de la boite vocale
+menu.voicemail_settings = Paramètres boite vocale
+module.voicemail_general = Paramètres boite vocale
 voicemail_general.backupdeleted = Messages vocal dans la corbeille
 voicemail_general.backupdeleted.tooltip = Nombre maximum de message vocal dans le dossier Corbeille.
 voicemail_general.emailbody = Contenu de l'email
