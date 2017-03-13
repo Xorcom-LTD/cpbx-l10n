@@ -1,10 +1,10 @@
 emailsettings = Paramètres email
 emailsettings.address.invalid = Une adresse email valide doit être définie
 emailsettings.address_used_from_address = Cette adresse email sera utilisée comme expéditeur
-emailsettings.auth = Autentification
-emailsettings.auth.0 = Pas d'autentification
-emailsettings.auth.1 = Utiliser l'autentification
-emailsettings.auth.tooltip = Choisissez l'autentification si votre fournisseur mail vous demande une identifiant avant envoi de l'email
+emailsettings.auth = Identification
+emailsettings.auth.0 = Pas d'identification
+emailsettings.auth.1 = Utiliser l'identification
+emailsettings.auth.tooltip = Choisissez d'utiliser une identification si votre fournisseur mail vous demande une identifiant avant envoi de l'email.
 emailsettings.domain = Domaine
 emailsettings.domain.tooltip = Ce paramètre défini le domaine parent du nom d'hôte. (Ex: masociete.com si le nom d'hote est ipbx.masociete.com)
 emailsettings.email.placeholder = Saisir une adresse email pour réaliser un test d'envoi
