@@ -1,9 +1,9 @@
-feature_category = Catégorie code de fonction
+feature_category = Restrictions codes de fonction
 feature_category.all_features = Tous les codes
 feature_category.available_features = Codes disponibles
 feature_category.description = Description
 feature_category.description.tooltip = Nom identifiant cette catégorie de code de fonctions (doit être unique)
 feature_category.enabled_features = Codes de fonctions activés
 feature_category.general = Général
-menu.feature_categories = Catégorie code de fonction
-module.feature_category = Catégorie code de fonction
+menu.feature_categories = Restrictions codes de fonction
+module.feature_category = Restrictions codes de fonction

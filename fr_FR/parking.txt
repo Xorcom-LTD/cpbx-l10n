@@ -1,6 +1,6 @@
-menu.parking = Parking
-module.parking = Parking
-parking = Parking
+menu.parking = Parkage
+module.parking = Parkage
+parking = Parkage
 parking.both = Les deux
 parking.callee = Appelé
 parking.caller = Appelant
@@ -42,4 +42,4 @@ parking.parkingtime.placeholder = Valeur en secondes
 parking.parkingtime.tooltip = Nombre de secondes de parkage maximum avant de revenir vers l'expéditeur.
 parking.parkpos = Emplacements de parkage
 parking.parkpos.tooltip = Intervalle d'emplacement à utiliser pour le parkage
-parking.timeout_destination = Destination de délai écoulé
+parking.timeout_destination = Destination en cas de délai d'attente écoulé
