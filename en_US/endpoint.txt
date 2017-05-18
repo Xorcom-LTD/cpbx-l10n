@@ -104,6 +104,7 @@ epm.template.templates = Templates
 epm.template.warn.no_provisioner = No provisioner available for {0} {1}
 epm.template.delete = Delete
 epm.template.warn.confirm_delete = Are you sure, that you want delete this template?
+epm.template.warn.remove_template = This template is in use and cannot be deleted.
 epm.template.template_name = Template Name {0}
 epm.template.template_name.tooltip = Helps to simplify maintenance: each template should be identified with a unique name.
 epm.template.brand = Brand {0}
