@@ -121,6 +121,7 @@ extensions.nospy.tooltip = Do not let other extensions to spy on this extension.
 extensions.notes = Notes
 extensions.notes.tooltip = Any notes that you want to associate with this contact. This is a free-text field.
 extensions.no_limit = No Limit
+extensions.number_length.invalid = Extension cannot be less than 2 digits
 extensions.organization = Organization
 extensions.organization.tooltip = Sets an organization for a contact.
 extensions.outgoing_rec = Outgoing
