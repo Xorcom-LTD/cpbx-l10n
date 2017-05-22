@@ -48,6 +48,7 @@ profiles_iax_transfer_no = No
 profiles_iax_transfer_tooltip = Allow transfers from this device.
 profiles_iax_transfer_yes = Yes
 profiles_iax_transfer_ =
+profiles_in_use_by = Cannot delete {0} profile. It is used by at least one device ({1}).\nUse Export Extensions to see the full list where this profile is used.
 profiles_name = Name
 profiles_name_duplicate = Duplicate profile name.
 profiles_name_invalid = No profile name specified.
