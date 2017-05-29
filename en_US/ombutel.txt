@@ -184,7 +184,8 @@ ombutel.logout = Logout
 ombutel.user = User
 ombutel.lock = Lock
 ombutel.about = About
-ombutel.version = Version {0}
+; [product name] version [version number]
+ombutel.version = {0} Version {1}
 ombutel.registered_by = Registered By
 ombutel.register_now = Register Now
 ombutel.registered_by.help = Allows you to register your installation and subscribe to newsletter.
