@@ -1,10 +1,10 @@
 accountcode = Customer Codes
 accountcode.code = Customer Code
-accountcode.code.tooltip = Customer code number.
+accountcode.code.tooltip = Customer code number
 accountcode.description = Description
-accountcode.description.tooltip = Short description to identify this customer code.
+accountcode.description.tooltip = Free-text description to identify this customer code
 accountcode.enabled = Enabled
-accountcode.enabled.tooltip = Enable/Disable This customer code.
+accountcode.enabled.tooltip = Toggle to enable/disable this customer code
 accountcode.general = General
 accountcode.not_found = Customer code number not found
 accountcode.search = Search
