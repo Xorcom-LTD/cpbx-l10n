@@ -33,3 +33,4 @@ users.validate.blank_username = Login Name cannot be empty and must be at least 
 users.validate.blank_password = Password cannot be empty
 users.validate.profile = User profile is invalid
 users.validate.displayname = Full Name is cannot be empty
+users.change_language = Change Language

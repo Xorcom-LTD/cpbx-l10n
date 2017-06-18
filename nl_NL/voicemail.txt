@@ -1,0 +1,2 @@
+vm_bodytext = U heeft een ${VM_DUR} lang voicemailbericht ontvangen van ${VM_CALLERID} om ${VM_DATE}.\nIn de bijlage van deze e-mail vindt u een kopie ervan en u kunt het ook beluisteren door *97 te bellen vanaf uw eigen toestel of *98 vanaf elk ander toestel.
+vm_subject = Voicemail nummer ${VM_MSGNUM} voor mailbox ${VM_MAILBOX}, ontvangen van ${VM_CALLERID} om ${VM_DATE}

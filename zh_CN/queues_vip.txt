@@ -1,0 +1,15 @@
+menu.queue_vips = 队列 VIPs
+module.queues_vip = 队列 VIPs
+queues_vip = 队列 VIP
+queues_vip.confirm_delete = Are you sure you want to delete this queue VIPs list?
+queues_vip.delete = 删除
+queues_vip.description = 描述
+queues_vip.description.tooltip = Short description to identify this queue VIP.
+queues_vip.general = 基本设置
+queues_vip.list = VIP 列表
+queues_vip.list.duplicate = Queue VIP List cannot contain duplicate numbers.
+queues_vip.list.empty = At least one number must exist in the VIP List.
+queues_vip.list.invalid = Invalid number in the Queue VIP list. Use only numbers. Separate each number with a new line.
+queues_vip.list.tooltip = Insert list of numbers. Each number should be on a separate line.
+queues_vip.none = 无
+queues_vip.not_found = Requested queue VIPs list does not exist.

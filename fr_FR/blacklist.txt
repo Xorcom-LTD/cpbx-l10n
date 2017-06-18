@@ -1,0 +1,11 @@
+blacklist = Liste noire
+blacklist.description = Description
+blacklist.description.tooltip = Description courte du numéro ajouté à la liste noire
+blacklist.general = Général
+blacklist.not_found = Liste noire non trouvée
+blacklist.number = Numéro appelant (CID)
+blacklist.number.tooltip = Numéro à inclure à la liste noire
+blacklist.numebr.invalid = Le numéro est invalide. Il doit contenir des chiffres et/ou les symboles "-", "_", ".", "!", "~", "*", " ' ", "(", ")", "&", "=", "+", "$", ",", ";", "?", "/".
+blacklist.search = Rechercher
+menu.blacklist = Liste noire
+module.blacklist = Liste noire

@@ -1,0 +1,15 @@
+extension_time_group.default.description = Portal Grupo Horario %s
+extension_time_group.general = General
+extension_time_group.no_extension = Usted no tiene una extensión para el usuario del portal
+extension_time_group.schedules = Horarios
+extension_time_group.schedules.mday_end = Día Mes Fin
+extension_time_group.schedules.mday_start = Día Mes Inicio
+extension_time_group.schedules.month_end = Mes Fin
+extension_time_group.schedules.month_start = Mes Inicio
+extension_time_group.schedules.tend = Hora Fin
+extension_time_group.schedules.tstart = Hora Inicio
+extension_time_group.schedules.wday_end = Día Semana Fin
+extension_time_group.schedules.wday_start = Día Semana Inicio
+extension_time_group.select_time = -- Seleccione una hora --
+menu.my_time_group = Mi Grupo Horario
+module.extension_timegroup = Mi Grupo Horario

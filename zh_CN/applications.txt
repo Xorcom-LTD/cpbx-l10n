@@ -1,0 +1,14 @@
+applications = 应用模块
+applications.application_deleted = 成功删除 Application key
+applications.confirm_delete = 您确认要删除 application key?
+applications.delete = 删除
+applications.maintenance = 维护
+applications.displayname = 应用模块名称
+applications.displayname.invalid = 应用程序名称不能为空。
+applications.displayname.tooltip = 应用程序名称。
+applications.general = 基本设置
+applications.key = Key
+applications.key.invalid = Application key 不能为空，必须是有效的。
+applications.key.tooltip = Base64-encoded application key.
+menu.applications = 应用程序
+module.applications = 应用程序

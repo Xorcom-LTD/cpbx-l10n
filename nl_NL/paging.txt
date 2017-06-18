@@ -1,0 +1,26 @@
+menu.paging_and_intercom = Oppiepen & Intercom
+module.paging = Oppiepen & Intercom
+paging = Oppiepen & Intercom
+paging.description = Omschrijving
+parking.description.tooltip = Korte omschrijving voor dit oppiepen
+paging.duplex = Duplex Audio
+paging.duplex.tooltip = Om gebruik te maken van deze optie, die ook wel eens "talkback paging" genoemd wordt, moet de apparatuur die wordt opgepiept audio kunnen terugsturen terwijl ze audio ontvangt. Doorgaans hoeft u dit niet te gebruiken, tenzij u daar specifiek nood aan heeft.
+paging.extensions = Extensies
+paging.extensions.invalid = Gelieve ten minste één extensie te selecteren
+paging.extensions.tooltip = Lijst van de extensie(s) die moet(en) worden gekozen.
+paging.extension = Code
+paging.extension.tooltip = Nummer om deze service te bereiken.
+paging.general = Algemeen
+paging.ignore = Gesprek Doorverbinden Negeren
+paging.ignore.tooltip = Pogingen om het gesprek door te verbinden negeren
+paging.quiet = Stille Modus
+paging.quiet.tooltip = Stil, de beller krijgt geen biep te horen
+paging.record = Oppiepen Opnemen
+paging.record.tooltip = Het oppiepen in een bestand opnemen
+paging.seconds =
+	[een] Eén Seconde
+	[andere] {0} Seconden
+paging.skip_busy = Bezet overslaan
+paging.skip_busy.tooltip = Kiest een kanaal enkel als de staat van het toestel NIET_INGEBRUIK is. Deze optie is waarschijnlijk enkel nuttig (en betrouwbaar) op kanalen bestemd voor SIP en dan nog kan het zijn dat ze niet werkt als er op één lijn meerdere oproepen worden toestaan. Vertrouw dus niet in alle gevallen op deze optie.
+paging.timeout = Time-out
+paging.timeout.tooltip = Bepaalt hoe lang een systeem een oproep zal proberen verbinden. Na deze tijdsduur zullen alle intercomoproepen die niet beantwoord werden door het systeem worden afgebroken.

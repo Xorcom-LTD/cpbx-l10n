@@ -1,6 +1,7 @@
 accountcode = Customer Codes
 accountcode.code = Customer Code
-accountcode.code.tooltip = Customer code number
+accountcode.code.invalid = Customer code is invalid. Use only numbers and the "*" (asterisk) symbol.
+accountcode.code.tooltip = Customer code number.
 accountcode.description = Description
 accountcode.description.tooltip = Free-text description to identify this customer code
 accountcode.enabled = Enabled

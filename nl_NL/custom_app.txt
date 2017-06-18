@@ -1,0 +1,15 @@
+custom_app = Aangepaste Toepassingen
+custom_app.description = Naam
+custom_app.description.tooltip = Naam van deze Aangepaste Toepassing.
+custom_app.destination = Ontvanger
+custom_app.extension = Code
+custom_app.extension.tooltip = Code om de aangepaste toepassing te activeren. De code moet uniek zijn voor het systeem; hij mag dus niet elders in het systeem voor een extensie, functiecode, wachtrij enz. worden gebruikt.
+custom_app.general = Algemeen
+custom_app.mod_dest = Ontvangende module
+custom_app.mod_dest.custom = Aangepast
+custom_app.mod_dest.select = Module Selecteren
+custom_app.mod_dest.terminate_call = Oproep Beëindigen
+custom_app.status = Ingeschakeld
+custom_app.status.tooltip = Deze Aangepaste Toepassing Inschakelen/Uitschakelen
+menu.custom_applications = Aangepaste Toepassingen
+module.custom_app = Aangepaste Toepassingen

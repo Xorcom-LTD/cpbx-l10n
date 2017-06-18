@@ -1,0 +1,11 @@
+extension_voicemail.general = 基本设置
+extension_voicemail.listen_record = 播放录音
+extension_voicemail.no_extension = You don't have an extension for the portal user
+extension_voicemail.voicemail = 语音邮箱
+extension_voicemail.voicemail.caller_id = Caller ID
+extension_voicemail.voicemail.date = 日期
+extension_voicemail.voicemail.duration = 时长(Seconds)
+extension_voicemail.voicemail.folder = 文件夹
+extension_voicemail.voicemail.origin = Voicemail Origin
+menu.my_voicemail = 我的邮箱
+module.extension_voicemail = 我的邮箱

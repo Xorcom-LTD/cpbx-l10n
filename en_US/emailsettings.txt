@@ -1,5 +1,6 @@
 emailsettings = Email Settings
 emailsettings.address.invalid = Valid E-Mail address must be set
+emailsettings.address_used_from_address = The address entered here will be set as the "From:" address
 emailsettings.auth = Authentication
 emailsettings.auth.0 = No Authentication
 emailsettings.auth.1 = Use Authentication

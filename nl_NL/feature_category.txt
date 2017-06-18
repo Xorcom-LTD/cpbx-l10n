@@ -1,0 +1,9 @@
+feature_category = Functiecategorie
+feature_category.all_features = Alle Functies
+feature_category.available_features = Beschikbare Functies
+feature_category.description = Omschrijving
+feature_category.description.tooltip = Naam van deze functiecategorie (Moet uniek zijn).
+feature_category.enabled_features = Ingeschakelde Functies
+feature_category.general = Algemeen
+menu.feature_categories = Functiecategorieën
+module.feature_category = Functiecategorieën

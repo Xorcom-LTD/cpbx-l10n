@@ -1,0 +1,10 @@
+blacklist = Zwarte lijst
+blacklist.description = Omschrijving
+blacklist.description.tooltip = Korte omschrijving voor het nummer dat in de zwarte lijst moet worden opgenomen.
+blacklist.general = Algemeen
+blacklist.not_found = Zwarte lijst niet gevonden
+blacklist.number = Beller-id-nummer
+blacklist.number.tooltip = Nummer dat in de zwarte lijst moet worden opgenomen.
+blacklist.search = Zoeken
+menu.blacklist = Zwarte lijst
+module.blacklist = Zwarte lijst

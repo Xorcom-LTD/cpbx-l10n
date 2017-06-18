@@ -45,5 +45,7 @@ ivr.timeout_tries = Timeout Tries
 ivr.timeout_tries.tooltip = Number of times to try when no DTMF is received.
 ivr.welcome_msg_id = Welcome Message
 ivr.welcome_msg_id.tooltip = Welcome message to be played.
+ivr.instructions_msg_id = Instructions Message
+ivr.instructions_msg_id.tooltip = Message to be played after the welcome message. This message is useful for avoid to repeat the welcome message on invalid/timeout event.
 menu.ivr = IVR
 module.ivr = IVR

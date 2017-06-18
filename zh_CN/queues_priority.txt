@@ -1,0 +1,10 @@
+menu.queue_priorities = 队列优先级
+module.queues_priority = 队列优先级
+queues_priority = 队列优先级
+queues_priority.description = 描述
+queues_priority.description.tooltip = Short description for identify this queue priority.
+queues_priority.destination = 目的地
+queues_priority.general = 基本设置
+queues_priority.mod_dest = 目的地模块
+queues_priority.priority = 优先级
+queues_priority.priority.tooltip = The Queue Priority to set.

@@ -1,0 +1,26 @@
+menu.paging_and_intercom = 广播&对讲
+module.paging = 广播&对讲
+paging = 广播&对讲
+paging.description = 描述
+paging.description.tooltip = Short description to identify this paging
+paging.duplex = 双工语音
+paging.duplex.tooltip = Sometimes referred to as "talkback paging," the use of this option implies that the equipment that receives the page has the ability to transmit audio back at the same time as it is receiving audio. Generally, you would not want to use this unless you had a specific need for it.
+paging.extensions = 分机
+paging.extensions.invalid = Please select at least one extension
+paging.extensions.tooltip = List of the extension(s) to dial.
+paging.extension = 代码
+paging.extension.tooltip = Number to reach this service
+paging.general = 基本设置
+paging.ignore = 忽略前转
+paging.ignore.tooltip = Ignore attempts to forward the call
+paging.quiet = 退出模式
+paging.quiet.tooltip = Quiet, do not play beep to caller
+paging.record = 广播录音
+paging.record.tooltip = Record the page into a file
+paging.seconds =
+	[one] One Second
+	[other] {0} Seconds
+paging.skip_busy = 调过忙状态
+paging.skip_busy.tooltip = Dials a channel only if the device state is NOT_INUSE. This option is likely only useful (and reliable) on SIP-bound channels, and even so may not work if a single line is allowed multiple calls on it. Therefore, don't rely on this option in all cases.
+paging.timeout = 超时
+paging.timeout.tooltip = Specify the length of time that the system will attempt to connect a call. After this duration, any intercom calls that have not been answered will be hung up by the system.

@@ -1,0 +1,12 @@
+languages = 语言
+languages.description = 描述
+languages.description.tooltip = Short description to identify this language.
+languages.destination = 目的地
+languages.general = 基本设置
+languages.langcode = 语言设置
+languages.langcode.tooltip = 通道使用语言。
+languages.mod_dest = 模块目的地
+languages.name = 名称
+languages.name.tooltip = Short name (must be unique).
+menu.languages = 语言
+module.languages = 语言

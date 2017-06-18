@@ -1,0 +1,16 @@
+menu.voicemail_broadcast_groups = Voicemailuitzendgroepen
+module.vmgroup = Voicemailuitzendgroepen
+vmgroup = Voicemailuitzendgroepen
+vmgroup.description = Omschrijving
+vmgroup.description.invalid = Omschrijving mag niet leeg zijn
+vmgroup.description.tooltip = Korte omschrijving van deze Voicemailuitzendgroep.
+vmgroup.extension = Code
+vmgroup.extension.invalid = Te Kiezen Nummer kan niet leeg zijn
+vmgroup.extension.tooltip = Het nummer dat moet worden gekozen om een voicemail over meerdere extensies uit te zenden.
+vmgroup.general = Algemeen
+vmgroup.no_extensions = Geen extensies geselecteerd
+vmgroup.password = Wachtwoord
+vmgroup.password.invalid = Wachtwoord mag niet leeg zijn en mag geen hekje ('#') bevatten
+vmgroup.password.tooltip = Wachtwoord om deze Voicemailuitzendgroep te beveiligen.
+vmgroup.vmglist = Extensies
+vmgroup.vmglist.tooltip = Lijst van extensies waaraan een groepsvoicemail zal worden uitgezonden. Denk eraan dat enkel extensies met een actieve voicemail zullen worden weergegeven.

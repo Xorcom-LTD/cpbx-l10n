@@ -1,0 +1,12 @@
+accountcode = Account Codes
+accountcode.code = Account Code
+accountcode.code.tooltip = Account code number.
+accountcode.description = 描述
+accountcode.description.tooltip = Short description to identify this Account code.
+accountcode.enabled = 开启
+accountcode.enabled.tooltip = 开启/关闭 此 Account Code。
+accountcode.general = 基本设置
+accountcode.not_found = Account code number not found.
+accountcode.search = 查询
+module.accountcode = Account Codes
+menu.account_codes = Account Codes

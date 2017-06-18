@@ -1,0 +1,10 @@
+menu.announcements = Aankondigingen
+module.preannoun = Aankondigingen
+preannoun = Aankondigingen
+preannoun.description = Omschrijving
+preannoun.description.tooltip = Korte omschrijving voor deze Aankondiging.
+preannoun.destination = Ontvanger na het afspelen van aankondiging %s
+preannoun.general = Algemeen
+preannoun.mod_dest = Ontvanger Module
+preannoun.recording_id = Aangepaste Opname
+preannoun.recording_id.tooltip = Opname die moet worden afgespeeld bij deze Aankondiging.

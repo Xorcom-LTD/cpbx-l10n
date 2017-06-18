@@ -1,0 +1,13 @@
+logfiles_viewer.error = Fout
+logfiles_viewer.general = Algemeen
+logfiles_viewer.invalid_request = Ongeldig verzoek
+logfiles_viewer.lines = Lijnen
+logfiles_viewer.lines.tooltip = Aantal lijnen dat moet worden weergegeven
+logfiles_viewer.logfile = Logboekbestand
+logfiles_viewer.logfile.tooltip = Selecteer het logboekbestand dat u wilt zien
+logfiles_viewer.no_file_selected = Geen bestand geselecteerd
+logfiles_viewer.read_logfile = LogFile Lezen
+logfiles_viewer.select_logfile = --- Selecteer Een Logboekbestand ---
+logfiles_viewer.invalid_filename = Het aangevraagde logboekbestand kan niet worden gevonden
+menu.log_file_viewer = Logbestandviewer
+module.logfiles_viewer = Logbestandviewer

@@ -1,0 +1,17 @@
+menu.user_profiles = Gebruikersprofielen
+module.users_profiles = Gebruikersprofielen
+users_profiles = Gebruikersprofielen
+users_profiles.collapse_all = Alles Inklappen
+users_profiles.confirm_delete = Weet u zeker dat u dit profiel wilt verwijderen?
+users_profiles.delete = Verwijderen
+users_profiles.description = Profielnaam
+users_profiles.description.tooltip = Naam voor dit profiel.
+users_profiles.expand_all = Alles Uitklappen
+users_profiles.general = Algemeen
+users_profiles.module_access = Moduletoegang
+users_profiles.priv.add = Toegang
+users_profiles.priv.delete = Verwijderen
+users_profiles.priv.edit = Bewerken
+users_profiles.priv.view = Bekijken
+users_profiles.superadmin = Privileges Toekennen
+users_profiles.superadmin.tooltip = Toegang tot alle Modules verlenen.

@@ -1,0 +1,16 @@
+menu.time_conditions = 时间条件
+module.time_conditions = 时间条件
+time_conditions = 时间条件
+time_conditions.cancel = 取消
+time_conditions.delete = 删除
+time_conditions.description = 描述
+time_conditions.description.tooltip = Short description to identify this Time Condition.
+time_conditions.falsegoto = Destination if time does not match %s
+time_conditions.general = 时间条件
+time_conditions.modfalse = 模块错误
+time_conditions.modtrue = 模块正确
+time_conditions.save = 保存
+time_conditions.time_group_id = 时间组
+time_conditions.time_group_id.tooltip = Select a Time Group created under Time Groups. Matching times will be sent to matching destination.
+time_conditions.truegoto = 如果匹配%s，则路由目的地
+time_conditions.update = 更新

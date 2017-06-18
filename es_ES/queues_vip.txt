@@ -1,0 +1,15 @@
+menu.queue_vips = Colas VIP
+module.queues_vip = Colas VIP
+queues_vip = Colas VIP
+queues_vip.confirm_delete = ¿Está seguro de que quiere borrar esta lista VIP en cola?
+queues_vip.delete = Eliminar
+queues_vip.description = Descripción
+queues_vip.description.tooltip = Breve descripción para identificar este lista VIP en cola.
+queues_vip.general = General
+queues_vip.list = Lista VIP
+queues_vip.list.duplicate = Lista VIP en cola no puede contener números duplicados.
+queues_vip.list.empty = Al menos un número debe existir en la Lista VIP.
+queues_vip.list.invalid = Número no válido en la lista VIP en cola. Utilice sólo números. Separar cada número en una nueva línea.
+queues_vip.list.tooltip = Lista de números a insertar. Cada número debe estar en una línea separada.
+queues_vip.none = Ninguna
+queues_vip.not_found = No existe lista VIP en cola solicitada.

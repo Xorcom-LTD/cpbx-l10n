@@ -1,0 +1,10 @@
+menu.announcements = 播报
+module.preannoun = 播报
+preannoun = 播报
+preannoun.description = 描述
+preannoun.description.tooltip = Short description to identify this Announcement.
+preannoun.destination = Destination after playing announcement %s
+preannoun.general = 基本设置
+preannoun.mod_dest = 模块目的地
+preannoun.recording_id = 自定义录音
+preannoun.recording_id.tooltip = Recording to play on this Announcement.

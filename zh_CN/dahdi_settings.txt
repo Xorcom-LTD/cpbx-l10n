@@ -1,0 +1,5 @@
+dahdi_settings.general = 基本设置
+dahdi_settings.save = 保存
+dahdi_settings.tonezone = 语音指示设置区
+dahdi_settings.tonezone.tooltip = Default tone zone for all users/peers
+module.dahdi_settings = 通信能力设置

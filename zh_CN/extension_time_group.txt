@@ -1,0 +1,15 @@
+extension_time_group.default.description = 入口时间组(%s)
+extension_time_group.general = 基本设置
+extension_time_group.no_extension = You don't have an extension for the portal user
+extension_time_group.schedules = 时间表
+extension_time_group.schedules.mday_end = Month Day Finish
+extension_time_group.schedules.mday_start = Month Day Start
+extension_time_group.schedules.month_end = Month Finish
+extension_time_group.schedules.month_start = Month Start
+extension_time_group.schedules.tend = 完成时间
+extension_time_group.schedules.tstart = 起始时间
+extension_time_group.schedules.wday_end = Week Day Finish
+extension_time_group.schedules.wday_start = Week Day Start
+extension_time_group.select_time = -- 选择一个时间 --
+menu.my_time_group = 我的时间组
+module.extension_timegroup = 我的时间组

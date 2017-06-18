@@ -1,0 +1,11 @@
+ars = Routeselectie
+ars.all_outbound_routes = -- Alle Uitgaande Routes --
+ars.description = Omschrijving
+ars.description.tooltip = Een korte omschrijving van deze Routeselectie
+ars.enabled = Ingeschakeld
+ars.general = Algemeen
+ars.members = Leden Routeselectie
+ars.outbound_route_id = Uitgaande Route
+ars.time_group_id = Tijdsgroep
+menu.route_selections = Routeselecties
+module.ars = Routeselecties

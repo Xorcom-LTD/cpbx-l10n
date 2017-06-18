@@ -1,0 +1,17 @@
+class_of_service = Class of Service
+class_of_service.ars_id = Routeselectie
+class_of_service.ars_id.tooltip = Te gebruiken routes voor deze Class of Service.
+class_of_service.badnumber = Slechte Ontvanger
+class_of_service.configurations = Configuraties
+class_of_service.cos = Class of Service
+class_of_service.cos.tooltip = Naam Class of Service (Moet Uniek zijn). Alfanumerieke waarden met liggend streepje en underscore zijn toegestaan.
+class_of_service.description = Naam
+class_of_service.description.tooltip = Korte omschrijving van deze Class of Service.
+class_of_service.dialrule_id = Belbeperkingen
+class_of_service.dialrule_id.tooltip = Vastgestelde belbeperkingsregels voor deze Class of Service.
+class_of_service.feature_code_category_id = Functiecategorie
+class_of_service.feature_code_category_id.tooltip = Toegelaten functies voor deze Class of Service.
+class_of_service.general = Algemeen
+class_of_service.lastdest = Laatste Ontvanger
+menu.class_of_service = Class of Service
+module.class_of_service = Class of Service

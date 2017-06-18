@@ -1,0 +1,10 @@
+menu.queue_priorities = Prioridad en Cola
+module.queues_priority = Prioridad en Cola
+queues_priority = Prioridad en Cola
+queues_priority.description = Descripción
+queues_priority.description.tooltip = Breve descripción para identificar esta prioridad en cola.
+queues_priority.destination = Destino
+queues_priority.general = General
+queues_priority.mod_dest = Módulo de Destino
+queues_priority.priority = Prioridad
+queues_priority.priority.tooltip = La prioridad en la cola a establecer.

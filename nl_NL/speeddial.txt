@@ -1,0 +1,12 @@
+menu.speed_dialing = Snelkeuze
+module.speeddial = Snelkeuze
+speeddial = Snelkeuze
+speeddial.class_of_service_id = Class of Service
+speeddial.class_of_service_id.tooltip = Class of Service die moet worden gebruikt om deze snelkeuze te kiezen
+speeddial.description = Omschrijving
+speeddial.description.tooltip = Naam voor deze Snelkeuze
+speeddial.dnumber = Nummer Ontvanger
+speeddial.dnumber.tooltip = Te kiezen nummer.
+speeddial.extension = Snelkeuzecode
+speeddial.extension.tooltip = Code om deze snelkeuze te activeren. De code moet uniek zijn voor het systeem; hij mag dus niet elders in het systeem worden gebruikt.
+speeddial.general = Algemeen

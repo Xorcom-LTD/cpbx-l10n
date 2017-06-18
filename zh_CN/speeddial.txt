@@ -1,0 +1,12 @@
+menu.speed_dialing = 快速拨号
+module.speeddial = 快速拨号
+speeddial = 快速拨号
+speeddial.class_of_service_id = 服务级别
+speeddial.class_of_service_id.tooltip = Class of Service to use for dial this speed dial
+speeddial.description = 描述
+speeddial.description.tooltip = Name identifying this Speed Dial
+speeddial.dnumber = 目的地号码
+speeddial.dnumber.tooltip = 拨打号码
+speeddial.extension = 快速拨号码
+speeddial.extension.tooltip = Code to activate this speed dial. Code should be unique to the system, i.e. must not be used anywhere else in the system.
+speeddial.general = 基本设置

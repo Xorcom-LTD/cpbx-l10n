@@ -1,0 +1,5 @@
+dahdi_settings.general = Algemeen
+dahdi_settings.save = Opslaan
+dahdi_settings.tonezone = Toonzone
+dahdi_settings.tonezone.tooltip = Standaardtoonzone voor alle gebruikers/peers
+module.dahdi_settings = Telefonie-instellingen

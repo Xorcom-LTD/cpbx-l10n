@@ -1,0 +1,10 @@
+blacklist = 黑名单
+blacklist.description = 描述
+blacklist.description.tooltip = 描述。
+blacklist.general = 基本设置
+blacklist.not_found = 没有发现黑名单
+blacklist.number = CID Number
+blacklist.number.tooltip = 此号码必须在黑名单中。
+blacklist.search = 查询
+menu.blacklist = 黑名单
+module.blacklist = 黑名单

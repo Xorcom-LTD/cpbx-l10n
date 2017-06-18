@@ -1,0 +1,15 @@
+menu.queue_vips = Wachtrij-vips
+module.queues_vip = Wachtrij-vips
+queues_vip = Vips Wachtrijen
+queues_vip.confirm_delete = Weet u zeker dat u deze lijst van vips voor de wachtrij wilt verwijderen?
+queues_vip.delete = Verwijderen
+queues_vip.description = Omschrijving
+queues_vip.description.tooltip = Korte omschrijving voor deze vip voor de wachtrij.
+queues_vip.general = Algemeen
+queues_vip.list = Viplijst
+queues_vip.list.duplicate = viplijst voor wachtrij mag geen dubbele nummers bevatten.
+queues_vip.list.empty = De viplijst moet ten minste één nummer bevatten.
+queues_vip.list.invalid = Ongeldig nummer in de viplijst voor de Wachtrij. Enkel nummers gebruiken. Scheid alle nummers van elkaar met een nieuwe regel.
+queues_vip.list.tooltip = Voeg een lijst met nummers in. Elk nummer moet op een aparte regel staan.
+queues_vip.none = Geen
+queues_vip.not_found = De aangevraagde viplijst voor de wachtrij bestaat niet.

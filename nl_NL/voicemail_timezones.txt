@@ -1,0 +1,14 @@
+menu.voicemail_timezones = Tijdzones Voicemail
+module.voicemail_timezones = Tijdzones Voicemail
+voicemail_timezones = Tijdzones Voicemail
+voicemail_timezones.confirm_delete = Weet u zeker dat u deze tijdzone wilt verwijderen?
+voicemail_timezones.delete = Verwijderen
+voicemail_timezones.general = Algemeen
+voicemail_timezones.none = Geen
+voicemail_timezones.timezone = Tijdzone
+voicemail_timezones.timezone.tooltip = Te selecteren tijdzone.
+voicemail_timezones.tzdefinition = Tijdsdefinitie
+voicemail_timezones.tzname = Naam
+voicemail_timezones.tzname.tooltip = Korte naam voor deze tijdzone.
+voicemail_timezones.voicemail_timezone_id = Zone Berichten
+voicemail_timezones.voicemail_timezone_id.tooltip = Tijdzone uit Zone Berichten. Indien ingesteld op 'neen', wordt die van de sectie algemene instellingen genomen. Niet relevant als Envelope 'neen’ is.

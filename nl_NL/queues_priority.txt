@@ -1,0 +1,10 @@
+menu.queue_priorities = Wachtrijprioriteiten
+module.queues_priority = Wachtrijprioriteiten
+queues_priority = Prioriteiten Wachtrijen
+queues_priority.description = Omschrijving
+queues_priority.description.tooltip = Korte omschrijving voor deze prioriteit voor de wachtrij.
+queues_priority.destination = Ontvanger
+queues_priority.general = Algemeen
+queues_priority.mod_dest = Ontvangende Module
+queues_priority.priority = Prioriteit
+queues_priority.priority.tooltip = De Prioriteit voor de Wachtrij die moet worden ingesteld.

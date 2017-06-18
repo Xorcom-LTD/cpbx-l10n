@@ -1,0 +1,12 @@
+languages = Talen
+languages.description = Omschrijving
+languages.description.tooltip = Korte omschrijving voor deze taal.
+languages.destination = Ontvanger
+languages.general = Algemeen
+languages.langcode = Taal
+languages.langcode.tooltip = Kanaaltaal die moet worden ingesteld.
+languages.mod_dest = Ontvanger Module
+languages.name = Naam
+languages.name.tooltip = Korte naam (moet uniek zijn).
+menu.languages = Talen
+module.languages = Talen

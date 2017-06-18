@@ -1,0 +1,2 @@
+one = n==1
+other = n!=1

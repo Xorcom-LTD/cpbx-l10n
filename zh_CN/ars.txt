@@ -1,0 +1,11 @@
+ars = 路由选择
+ars.all_outbound_routes = -- 所有呼出路由 --
+ars.description = 模式
+ars.description.tooltip = 路由描述
+ars.enabled = 开启
+ars.general = 基本设置
+ars.members = 路由选择号
+ars.outbound_route_id = 呼出路由
+ars.time_group_id = 时间组
+menu.route_selections = 路由选项
+module.ars = 路由选项

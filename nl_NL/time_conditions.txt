@@ -1,0 +1,16 @@
+menu.time_conditions = Tijdsvoorwaarden
+module.time_conditions = Tijdsvoorwaarden
+time_conditions = Tijdsvoorwaarden
+time_conditions.cancel = Annuleren
+time_conditions.delete = Verwijderen
+time_conditions.description = Omschrijving
+time_conditions.description.tooltip = Korte omschrijving van deze Tijdsvoorwaarde.
+time_conditions.falsegoto = Ontvanger als tijd niet overeenstemt met %s
+time_conditions.general = Tijdsvoorwaarden
+time_conditions.modfalse = Module Niet Waar
+time_conditions.modtrue = Module Waar
+time_conditions.save = Opslaan
+time_conditions.time_group_id = Tijdsgroep
+time_conditions.time_group_id.tooltip = Selecteer een aangemaakte Tijdsgroep onder Tijdsgroepen. Overeenstemmende tijden zullen naar een overeenstemmende ontvanger worden gestuurd.
+time_conditions.truegoto = Ontvanger als tijd overeenstemt met %s
+time_conditions.update = Bijwerken

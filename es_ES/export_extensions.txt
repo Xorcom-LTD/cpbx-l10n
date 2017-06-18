@@ -1,0 +1,10 @@
+menu.export_extensions = Exportar Extensiones
+module.export_extensions = Exportar Extensiones
+export_extensions = Exportar Extensiones
+export_extensions.add_extension = Agregar Extensiones
+export_extensions.extensions = Extensiones
+export_extensions.export_extensions.tooltip = Extensiones a exportar
+export_extensions.export_extensions = Exportar Extensiones
+export_extensions.general = General
+export_extensions.no_extensions_selected = No se se han seleccionado extensiones
+export_extensions.select_extensions = Seleccionar extensiones a exportar

@@ -1,0 +1,12 @@
+accountcode = Accountcodes
+accountcode.code = Accountcode
+accountcode.code.tooltip = Accountcodenummer.
+accountcode.description = Omschrijving
+accountcode.description.tooltip = Korte omschrijving van deze Accountcode.
+accountcode.enabled = Ingeschakeld
+accountcode.enabled.tooltip = Deze Accountcode inschakelen/uitschakelen.
+accountcode.general = Algemeen
+accountcode.not_found = Accountcodenummer niet gevonden.
+accountcode.search = Zoeken
+module.accountcode = Accountcodes
+menu.account_codes = Accountcodes

@@ -11,6 +11,7 @@ disa.digittimeout = Digit Timeout
 disa.digittimeout.tooltip = The maximum amount of time permitted between digits when the user is typing in an extension.
 disa.general = General
 disa.password = Password
+disa.password.invalid = Password is invalid. Use only numbers and the "*" (asterisk) symbol.
 disa.password.tooltip = Numeric access code that must be entered in order for the caller to be able to make calls out.
 disa.resptimeout = Response Timeout
 disa.resptimeout.tooltip = The maximum amount of time to wait for the first digit

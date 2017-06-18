@@ -1,0 +1,17 @@
+authcode = Autorisatiecodes
+authcode.auth_alias = Autorisatiealias
+authcode.auth_alias.invalid = Voer een geldige alias in. Cijfers, letters, het liggend streepje en de underscore zijn toegestaan
+authcode.auth_alias.tooltip = Alias om deze autorisatiecode te identificeren. Om veiligheidsredenen verschijnt deze en niet de auth-code op CDR-rapporten.
+authcode.class_of_service_id = Class of Service
+authcode.class_of_service_id.tooltip = Class of service wordt gebruikt om de oproep te routeren
+authcode.code = Autorisatiecode
+authcode.code.tooltip = Autorisatiecodenummer.
+authcode.description = Omschrijving
+authcode.description.tooltip = Korte omschrijving van deze autorisatiecode.
+authcode.enabled = Ingeschakeld
+authcode.enabled.tooltip = Deze autorisatiecode inschakelen/uitschakelen.
+authcode.general = Algemeen
+authcode.not_found = Autorisatiecode niet gevonden
+authcode.search = Zoeken
+menu.authorization_codes = Autorisatiecodes
+module.authcode = Autorisatiecodes

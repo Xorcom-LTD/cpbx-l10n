@@ -1,0 +1,17 @@
+authcode = Authorization Codes
+authcode.auth_alias = Authorization Alias
+authcode.auth_alias.invalid = Please enter a valid alias. Numbers, letters, dash and underscore are allowed
+authcode.auth_alias.tooltip = Alias to identify this authorization code. For security reasons this will appear on CDR reports instead of the auth code
+authcode.class_of_service_id = 服务级别
+authcode.class_of_service_id.tooltip = 使用服务级别路由呼叫
+authcode.code = 授权码
+authcode.code.tooltip = 授权码号。
+authcode.description = Description
+authcode.description.tooltip = Short description to identify this authorization code.
+authcode.enabled = 开启
+authcode.enabled.tooltip = Enable/Disable this authorization code.
+authcode.general = General
+authcode.not_found = Authorization code not found
+authcode.search = Search
+menu.authorization_codes = Authorization Codes
+module.authcode = Authorization Codes

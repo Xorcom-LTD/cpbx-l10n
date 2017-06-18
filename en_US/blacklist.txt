@@ -5,6 +5,7 @@ blacklist.general = General
 blacklist.not_found = Blacklist not found
 blacklist.number = CID Number
 blacklist.number.tooltip = Number to be included in the black list.
+blacklist.numebr.invalid = Number to blacklist is invalid. <br>Must contain digits, numbers and/or "-", "_", ".", "!", "~", "*", " ' ", "(", ")", "&", "=", "+", "$", ",", ";", "?", "/" signs.
 blacklist.search = Search
 menu.blacklist = Blacklist
 module.blacklist = Blacklist

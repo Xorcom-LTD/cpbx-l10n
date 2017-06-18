@@ -1,0 +1,16 @@
+menu.voicemail_broadcast_groups = 语音邮箱广播组
+module.vmgroup = 语音邮箱广播组
+vmgroup = 语音邮箱广播组
+vmgroup.description = 描述
+vmgroup.description.invalid = Description cannot be empty
+vmgroup.description.tooltip = Short description to identify this Voicemail Broadcast Group.
+vmgroup.extension = 代码
+vmgroup.extension.invalid = 拨打号码不能为空
+vmgroup.extension.tooltip = The number to dial in order to broadcast a voicemail to multiple extensions.
+vmgroup.general = 基本设置
+vmgroup.no_extensions = 无可选分机
+vmgroup.password = 密码
+vmgroup.password.invalid = Password cannot be empty and may not contain the pound ('#') symbol
+vmgroup.password.tooltip = Password to protect this Voicemail Broadcast Group.
+vmgroup.vmglist = 分机
+vmgroup.vmglist.tooltip = List of extensions to which group voicemail will be broadcast. Note that only extensions that have active voicemail will be displayed.

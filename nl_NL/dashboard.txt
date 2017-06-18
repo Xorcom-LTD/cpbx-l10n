@@ -1,0 +1,34 @@
+dashboard.asterisk = Asterisk
+dashboard.asterisk_uptime = Bedrijfstijd Asterisk
+dashboard.available = Beschikbaar
+dashboard.current_time = Huidige Tijd
+dashboard.dahdi = DAHDi
+dashboard.days =
+	[0]
+	[een] 1 dag
+	*[andere] {0} dagen
+dashboard.fail2ban = WerenMislukt
+dashboard.general = Systeemdashboard
+dashboard.hard_disk = Info Harde Schijf
+dashboard.hours =
+	[0]
+	[een] , 1 uur
+	*[andere] , {0} uur
+dashboard.minutes =
+	[0]
+	[een] , 1 minuut
+	*[andere] , {0} minuten
+dashboard.network_usage = Netwerkgebruik
+dashboard.seconds =
+	[0]
+	[een] , 1 seconde
+	*[andere] , {0} seconden
+dashboard.server_uptime = Bedrijfstijd Server
+dashboard.services_status = Status Diensten
+dashboard.ssh = SSH
+dashboard.system_usage = Systeemgebruik
+dashboard.time = Tijd
+dashboard.uptime_format = {dashboard.days[0]}{dashboard.hours[1]}{dashboard.minutes[2]}{dashboard.seconds[3]}
+dashboard.used = Gebruikt
+menu.dashboard = Dashboard
+module.dashboard = Dashboard

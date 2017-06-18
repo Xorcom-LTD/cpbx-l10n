@@ -1,0 +1,17 @@
+class_of_service = 服务基本
+class_of_service.ars_id = 路由选择
+class_of_service.ars_id.tooltip = Routes to use for this Class of Service.
+class_of_service.badnumber = 错误路由
+class_of_service.configurations = 配置
+class_of_service.cos = 服务级别
+class_of_service.cos.tooltip = Class of Service Name (Must be Unique). Alphanumeric values with dash and underscore are allowed.
+class_of_service.description = 名称
+class_of_service.description.tooltip = Short Description for identify this Class of Service.
+class_of_service.dialrule_id = 拨号限制
+class_of_service.dialrule_id.tooltip = Dial restriction rules set for this Class of Service.
+class_of_service.feature_code_category_id = 功能类别
+class_of_service.feature_code_category_id.tooltip = Features allowed for this Class of Service.
+class_of_service.general = 基本设置
+class_of_service.lastdest = 最后目的地
+menu.class_of_service = 服务级别
+module.class_of_service = 服务级别

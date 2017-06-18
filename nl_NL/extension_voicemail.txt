@@ -1,0 +1,11 @@
+extension_voicemail.general = Algemeen
+extension_voicemail.listen_record = Deze gegevens beluisteren
+extension_voicemail.no_extension = U heeft geen extensie voor de portaalgebruiker
+extension_voicemail.voicemail = Voicemails
+extension_voicemail.voicemail.caller_id = Beller-id
+extension_voicemail.voicemail.date = Datum
+extension_voicemail.voicemail.duration = Duur (Seconden)
+extension_voicemail.voicemail.folder = Map
+extension_voicemail.voicemail.origin = Oorsprong Voicemail
+menu.my_voicemail = Mijn Voicemail
+module.extension_voicemail = Mijn Voicemail

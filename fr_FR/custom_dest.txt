@@ -1,0 +1,10 @@
+custom_dest = Destinations personnalisées
+custom_dest.class_of_service_id = Classe de service
+custom_dest.class_of_service_id.tooltip = Classe de service à utiliser pour la numérotation
+custom_dest.description = Description
+custom_dest.description.tooltip = Nom identifiant cette destination personnalisée
+custom_dest.destination = Numéro à composer
+custom_dest.destination.tooltip = Numéro interne ou externe à composer
+custom_dest.general = Général
+menu.custom_destinations = Destinations personnalisées
+module.custom_dest = Destinations personnalisées

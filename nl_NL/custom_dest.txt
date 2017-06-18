@@ -1,0 +1,10 @@
+custom_dest = Aangepaste Ontvangers
+custom_dest.class_of_service_id = Class of Service
+custom_dest.class_of_service_id.tooltip = Class of Service om het nummer dat moet worden gebeld te doorzoeken
+custom_dest.description = Omschrijving
+custom_dest.description.tooltip = Naam die deze Aangepaste Ontvanger identificeert
+custom_dest.destination = Te Kiezen Nummer
+custom_dest.destination.tooltip = Intern of Extern te Kiezen Nummer
+custom_dest.general = Algemeen
+menu.custom_destinations = Aangepaste Ontvanger
+module.custom_dest = Aangepaste Ontvanger

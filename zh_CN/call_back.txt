@@ -1,0 +1,16 @@
+call_back = 回拨
+call_back.class_of_service_id = 服务级别
+call_back.class_of_service_id.tooltip = Class of Service to make the call
+call_back.delay = 延迟
+call_back.delay.tooltip = Delay (in seconds) before return call. Set 0 to make call immediately
+call_back.description = 描述
+call_back.description.tooltip = Short Description to identify this Call Back
+call_back.destination = 目的地
+call_back.dialnumber = 号码
+call_back.dialnumber.tooltip = The number upon which to initiate the call.
+call_back.dialprefix = 拨号前缀
+call_back.dialprefix.tooltip = Prepend prefix to the number to dial
+call_back.general = 基本设置
+call_back.mod_dest = 目的地模块
+menu.call_back = 回拨
+module.call_back = 回拨

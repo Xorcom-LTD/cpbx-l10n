@@ -1,0 +1,2 @@
+fax.fax_process.fax_arrived = 收到一个新传真。
+fax.fax_process.subject_new_fax = PBX Fax Service - 收到新传真

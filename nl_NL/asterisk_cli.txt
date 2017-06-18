@@ -1,0 +1,5 @@
+asterisk_cli.commands_updated = Alle Opdrachten Bijgewerkt
+asterisk_cli.general = Algemeen
+asterisk_cli.input-cmd.placeholder = Voer Opdracht Hier In!!
+menu.asterisk_cli = Asterisk CLI
+module.asterisk_cli = Asterisk CLI

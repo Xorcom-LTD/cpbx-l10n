@@ -1,0 +1,9 @@
+feature_category = 功能类别
+feature_category.all_features = 所有功能
+feature_category.available_features = 可用功能
+feature_category.description = 描述
+feature_category.description.tooltip = Name identifying this feature category (Must be unique).
+feature_category.enabled_features = 开启功能
+feature_category.general = 基本设置
+menu.feature_categories = 功能类别
+module.feature_category = 功能类别

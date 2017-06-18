@@ -1,0 +1,16 @@
+call_back = Terugbeloproep
+call_back.class_of_service_id = Class of Service
+call_back.class_of_service_id.tooltip = Class of Service om de oproep te maken
+call_back.delay = Uitstel
+call_back.delay.tooltip = Uitstel (in seconden) voor het terugbellen. Voer 0 in om onmiddellijk te bellen
+call_back.description = Omschrijving
+call_back.description.tooltip = Korte omschrijving van deze Terugbeloproep.
+call_back.destination = Ontvanger
+call_back.dialnumber = Nummer
+call_back.dialnumber.tooltip = Het nummer waardoor de oproep wordt geïnitieerd.
+call_back.dialprefix = Netnummer intoetsen
+call_back.dialprefix.tooltip = Voeg een netnummer toe aan het te kiezen nummer
+call_back.general = Algemeen
+call_back.mod_dest = Ontvangende Module
+menu.call_back = Terugbeloproep
+module.call_back = Terugbeloproep

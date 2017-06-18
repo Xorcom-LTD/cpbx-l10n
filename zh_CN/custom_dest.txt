@@ -1,0 +1,10 @@
+custom_dest = 自定义目的地
+custom_dest.class_of_service_id = 服务级别
+custom_dest.class_of_service_id.tooltip = 通过服务级别查询拨打号码
+custom_dest.description = 描述
+custom_dest.description.tooltip = Name identifying this Custom Destination
+custom_dest.destination = 拨打号码
+custom_dest.destination.tooltip = Internal or External Number to Dial
+custom_dest.general = 基本设置
+menu.custom_destinations = 自定义目的地
+module.custom_dest = 自定义目的地

@@ -1,0 +1,16 @@
+menu.pin_lists = 密码列表
+module.pin = 密码列表
+pin = 密码列表
+pin.general = 基本设置
+pin.confirm_delete = 您确认要删除此密码列表？
+pin.delete = 删除
+pin.description = 描述
+pin.description.invalid = Description is required
+pin.description.tooltip = A short a description for this PIN List.
+pin.none = 无
+pin.passwords = 密码列表
+pin.passwords.duplicate = 重复密码
+pin.passwords.empty = At least one PIN in the PIN List is required
+pin.passwords.invalid = Invalid PIN in the PIN List. Use only numbers and the "*" (asterisk) symbol. Separate each PIN by a new line
+pin.passwords.tooltip = List of PINs that can be used. A PIN may consist of any combination of numbers and the “*” (asterisk) symbol. If you want to add multiple PINs, you can do so by starting them by a new line.
+pin.pin_list_not_found = 无可删除的密码列表

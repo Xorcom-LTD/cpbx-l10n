@@ -1,0 +1,16 @@
+menu.pin_lists = Pinlijsten
+module.pin = Pinlijsten
+pin = Pinlijst
+pin.general = Algemeen
+pin.confirm_delete = Weet u zeker dat u deze Pinlijst wilt verwijderen?
+pin.delete = Verwijderen
+pin.description = Omschrijving
+pin.description.invalid = Er is een omschrijving vereist
+pin.description.tooltip = Een korte omschrijving voor deze Pinlijst.
+pin.none = Geen
+pin.passwords = Pinlijst
+pin.passwords.duplicate = Dubbele pins
+pin.passwords.empty = De Pinlijst moet ten minste één pin bevatten
+pin.passwords.invalid = Ongeldige pin in de Pinlijst. Gebruik enkel cijfers en het symbool "*" (asterisk). Scheid alle pins van elkaar met een nieuwe regel
+pin.passwords.tooltip = Lijst van pins die kunnen worden gebruikt. Een pin mag bestaan uit om het even welke combinatie van cijfers en het symbool ΓÇ£*ΓÇ¥ (asterisk). Als u meerdere pins wilt toevoegen, kunt u dat doen door ze telkens op een nieuwe regel in te voeren.
+pin.pin_list_not_found = Er is geen Pinlijst die kan worden verwijderd

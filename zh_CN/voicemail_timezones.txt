@@ -1,0 +1,14 @@
+menu.voicemail_timezones = 语音邮箱
+module.voicemail_timezones = 语音邮箱时区
+voicemail_timezones = 语音邮箱时区
+voicemail_timezones.confirm_delete = 您确定要删除此时区吗？
+voicemail_timezones.delete = 删除
+voicemail_timezones.general = 基本设置
+voicemail_timezones.none = 无
+voicemail_timezones.timezone = 时区
+voicemail_timezones.timezone.tooltip = 已选择时区
+voicemail_timezones.tzdefinition = 时间定义
+voicemail_timezones.tzname = 名称
+voicemail_timezones.tzname.tooltip = 时区名称
+voicemail_timezones.voicemail_timezone_id = 时区消息
+voicemail_timezones.voicemail_timezone_id.tooltip = Time-zone from Zone Messages, If set to 'no' it will be taken by general settings section. Irrelevant if Envelope is 'no'.

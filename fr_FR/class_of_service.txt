@@ -1,0 +1,17 @@
+class_of_service = Classe de service
+class_of_service.ars_id = Sélection de route
+class_of_service.ars_id.tooltip = Route à utiliser pour cette classe de service
+class_of_service.badnumber = Destination d'erreur
+class_of_service.configurations = Configurations
+class_of_service.cos = Classes de service
+class_of_service.cos.tooltip = Le nom de la classe de service (doit être unique). Les caractres alphanumériques, "/" et "_" sont autorisés.
+class_of_service.description = Description
+class_of_service.description.tooltip = Description courte identifiant cette classe de service
+class_of_service.dialrule_id = Restriction d'appels
+class_of_service.dialrule_id.tooltip = Règles de restriction d'appels pour cette classe de service.
+class_of_service.feature_code_category_id = Categorie de code de fonctions
+class_of_service.feature_code_category_id.tooltip = Codes de fonctions autorisés pour cette classe de service
+class_of_service.general = Général
+class_of_service.lastdest = Destination de secours
+menu.class_of_service = Classe de service
+module.class_of_service = Classe de service

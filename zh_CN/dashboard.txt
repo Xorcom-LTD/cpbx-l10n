@@ -1,0 +1,34 @@
+dashboard.asterisk = Asterisk
+dashboard.asterisk_uptime = Asterisk 运行时间
+dashboard.available = 可用
+dashboard.current_time = 当前时间
+dashboard.dahdi = DAHDi
+dashboard.days =
+	[0]
+	[one] 1 day
+	*[other] {0} days
+dashboard.fail2ban = Fail2Ban
+dashboard.general = 系统面板
+dashboard.hard_disk = 硬盘信息
+dashboard.hours =
+	[0]
+	[one] , 1 hour
+	*[other] , {0} hours
+dashboard.minutes =
+	[0]
+	[one] , 1 minute
+	*[other] , {0} minutes
+dashboard.network_usage = 网络使用情况
+dashboard.seconds =
+	[0]
+	[one] , 1 second
+	*[other] , {0} seconds
+dashboard.server_uptime = 服务器运行时间
+dashboard.services_status = 服务状态
+dashboard.ssh = SSH
+dashboard.system_usage = 系统使用情况
+dashboard.time = Time
+dashboard.uptime_format = {dashboard.days[0]}{dashboard.hours[1]}{dashboard.minutes[2]}{dashboard.seconds[3]}
+dashboard.used = 已使用
+menu.dashboard = 系统面板
+module.dashboard = 系统面板

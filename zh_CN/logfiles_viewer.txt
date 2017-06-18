@@ -1,0 +1,14 @@
+logfiles_viewer.error = 错误
+logfiles_viewer.general = 基本设置
+logfiles_viewer.invalid_request = 无效请求
+logfiles_viewer.lines = 行
+logfiles_viewer.lines.tooltip = 显示行数
+logfiles_viewer.logfile = 日志文件
+logfiles_viewer.logfile.tooltip = 选择需要查看的文件
+logfiles_viewer.no_file_selected = 没有选择文件
+logfiles_viewer.read_logfile = 读取日志文件
+logfiles_viewer.select_logfile = --- 选择一个日志文件 ---
+logfiles_viewer.invalid_filename = The requested log file cannot be found
+menu.log_file_viewer = 查看日志
+module.logfiles_viewer = 查看日志
+

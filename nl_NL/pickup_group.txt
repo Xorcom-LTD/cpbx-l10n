@@ -1,0 +1,15 @@
+menu.pickup_groups = Opneemgroepen
+module.pickup_group = Opneemgroepen
+pickup_group = Opneemgroepen
+pickup_group.allow_pickup = Opnemen Toestaan
+pickup_group.allow_pickup.tooltip = Opneemmedewerker van deze opneemgroep toelaten
+pickup_group.description = Omschrijving
+pickup_group.description.tooltip = Korte omschrijving voor deze opneemgroep.
+pickup_group.extension = Extensie
+pickup_group.extension.tooltip = Extensie die een lid moet zijn of moet worden toegestaan om een lid van deze opneemgroep op te nemen, of beide.
+pickup_group.extension_id.duplicate = Er zijn geen dubbele extensies toegelaten in opneemgroepen.
+pickup_group.extension_id.empty = U moet ten minste één extensie aan deze opneemgroep toevoegen.
+pickup_group.general = Algemeen
+pickup_group.member = Lid
+pickup_group.member.tooltip = Geef aan of deze extensie een lid van deze opneemgroep is
+pickup_group.no_options = Extensies moeten worden aangewezen als lid en/of toegestaan om op te nemen.

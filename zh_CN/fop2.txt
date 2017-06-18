@@ -1,0 +1,11 @@
+menu.fop2_menu = FOP2
+menu.fop2_submenu = FOP2
+menu.fop2 = FOP2
+menu.fop2_admin_submenu = FOP2 管理员
+menu.fop2_admin = FOP2 管理员
+module.fop2 = FOP2
+module.fop2_admin = FOP2 管理员
+fop2.general = 基本设置
+fop2_admin.general = 基本设置
+fop2.fop2 = FOP2
+fop2.fop2admin = FOP2 管理

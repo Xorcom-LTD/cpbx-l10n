@@ -1,0 +1,15 @@
+custom_app = 自定义应用程序
+custom_app.description = 名称
+custom_app.description.tooltip = Name identifying this Custom Application.
+custom_app.destination = 目的地
+custom_app.extension = 代码
+custom_app.extension.tooltip = Code to activate custom application. Code should be unique to the system, i.e. must not be used anywhere else in the system for an extension, feature code, queue, etc.
+custom_app.general = 基本设置
+custom_app.mod_dest = 目的地模块
+custom_app.mod_dest.custom = 自定义
+custom_app.mod_dest.select = 选择模块
+custom_app.mod_dest.terminate_call = 结束呼叫
+custom_app.status = 开启
+custom_app.status.tooltip = 开启/关闭 自定义应用
+menu.custom_applications = 自定义应用
+module.custom_app = 自定义应用

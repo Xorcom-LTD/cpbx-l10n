@@ -1,0 +1,14 @@
+app_access = Accès application
+app_access.application_deleted = Clef d'acces application supprimée avec succès
+app_access.confirm_delete = Etes vous sur de vouloir supprimer cette clef d'accès d'application ?
+app_access.delete = Supprimer
+app_access.maintenance = Maintenance
+app_access.displayname = Nom de l'application
+app_access.displayname.invalid = Le nom d'application ne peut être vide
+app_access.displayname.tooltip = Description pour cette clef d'application
+app_access.general = Général
+app_access.key = Clef
+app_access.key.invalid = La clef d'application ne peut être vide et doit être valide
+app_access.key.tooltip = Clef d'application encodée en Base64
+menu.app_access = Accès application
+module.app_access = Accès application
