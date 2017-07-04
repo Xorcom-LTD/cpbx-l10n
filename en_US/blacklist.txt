@@ -1,11 +1,11 @@
 blacklist = Blacklist
 blacklist.description = Description
-blacklist.description.tooltip = Short description for the number to be included in the black list.
+blacklist.description.tooltip = Free-text description of the blacklisted number
 blacklist.general = General
 blacklist.not_found = Blacklist not found
 blacklist.number = CID Number
-blacklist.number.tooltip = Number to be included in the black list.
-blacklist.numebr.invalid = Number to blacklist is invalid. <br>Must contain digits, numbers and/or "-", "_", ".", "!", "~", "*", " ' ", "(", ")", "&", "=", "+", "$", ",", ";", "?", "/" signs.
+blacklist.number.tooltip = CID number to be included in the blacklist. May consist of digits and "-", "_", ".", "!", "~", "*", " ' ", "(", ")", "&", "=", "+", "$", ",", ";", "?", "/" characters
+blacklist.numebr.invalid = Number to blacklist is invalid. <br>Must contain digits and "-", "_", ".", "!", "~", "*", " ' ", "(", ")", "&", "=", "+", "$", ",", ";", "?", "/" characters
 blacklist.search = Search
 menu.blacklist = Blacklist
 module.blacklist = Blacklist

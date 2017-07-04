@@ -1,7 +1,7 @@
 ars = Routes Selection
 ars.all_outbound_routes = -- All Outbound Routes --
 ars.description = Description
-ars.description.tooltip = A short description for identify this Route Selection
+ars.description.tooltip = A free-text description to identify this Route Selection
 ars.enabled = Enabled
 ars.general = General
 ars.members = Route Selection Members
