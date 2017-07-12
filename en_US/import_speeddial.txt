@@ -7,6 +7,7 @@ import_speeddial.cannot_remove = Speed Dial {0} cannot be removed
 import_speeddial.csv = CSV File
 import_speeddial.csv.tooltip = CSV File with Speed Dials to process
 import_speeddial.delete = Delete
+import_speeddial.description.mode = Mode. Can be either 'add' (to create a new speed dial or modify an existing speed dial) or 'delete' (to remove an existing speed dial).
 import_speeddial.dest_number.invalid = Destination number is invalid. Must contain only digits. Must be at least 2 digits long.
 import_speeddial.dest_number.too_short = Destination Number must be at least 2 digits long.
 import_speeddial.download_format = Download Format
