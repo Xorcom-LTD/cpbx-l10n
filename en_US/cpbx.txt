@@ -1,5 +1,9 @@
-cpbx.licenses.expire = {0} license is about to expire. Please contact your dealer for license renewal.
-cpbx.licenses.expire.subject = License expiration {0}
+cpbx.licenses.admin.expire = {0} license is about to expire. <br>Please contact your dealer for license renewal.
+cpbx.licenses.admin.expire.subject = License Expiration {0}
+cpbx.licenses.admin.grace = WARNING! License {0} has become invalid. <br>Contact your dealer to fix the issue as soon as possible. Within {1} days from initial notice, the license will cease to function.
+cpbx.licenses.admin.grace.subject = WARNING! License Invalid
+cpbx.licenses.admin.invalid = License {0} is invalid and your PBX may not function properly. The reason may be that the license has expired, that the system is not licensed or that it has no access to the licensing server.
+cpbx.licenses.admin.invalid.subject = WARNING! License is invalid
 cpbx.licenses_title.warning = WARNING! LICENSE INVALID
 cpbx.licenses_content.warning = The license of this system is not valid and your <b>PBX may not function properly</b>.<br/>The reason may be that the license has expired, that the system is not licensed or that it has no access to the licensing server. Please contact your system administrator.
 cpbx.licenses_confirm.warning = Confirm
