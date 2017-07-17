@@ -1,5 +1,5 @@
 extension_voicemail.confirm_delete = Are you sure that you want to delete this record?
-extension_voicemail.confirm_delete_all = Are you sure that you want to delete selected record(s)?
+extension_voicemail.confirm_delete_all = Are you sure that you want to delete the selected records?
 extension_voicemail.delete = Delete
 extension_voicemail.delete_selected_vm = Delete Selected Records
 extension_voicemail.deleted.ownership = Could not set ownership on "Deleted" folder
@@ -7,7 +7,7 @@ extension_voicemail.deleted.group_ownership = Could not set group ownership on "
 extension_voicemail.general = General
 extension_voicemail.listen_record = Listen this record
 extension_voicemail.no_extension = You don't have an extension for the portal user
-extension_voicemail.no_records = No selected Voicemail records
+extension_voicemail.no_records = No selected voicemail records
 extension_voicemail.notfound = Not found
 extension_voicemail.record_notfound = Record not found
 extension_voicemail.record_deleted = Record has been deleted
