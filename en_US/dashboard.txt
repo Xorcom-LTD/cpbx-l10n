@@ -33,3 +33,21 @@ dashboard.used = Used
 dashboard.unavailable = N/A
 menu.dashboard = Dashboard
 module.dashboard = Dashboard
+dashboard.cpu = CPU
+dashboard.memory = Memory
+dashboard.swap = Swap
+dashboard.loadavg = Load Average
+dashboard.active_calls = Active Calls
+dashboard.active_channels = Active Channels
+dashboard.net_units =
+	[0] {1} bytes
+	[1] {1}KB
+	[2] {1}MB
+	[3] {1}GB
+dashboard.net_format = RX: {0}/s, TX: {1}/s
+dashboard.service_activating = Activating
+dashboard.service_active = Active
+dashboard.service_deactivating = Deactivating
+dashboard.service_failed = Failed
+dashboard.service_inactive = Inactive
+dashboard.service_unknown = Unknown
