@@ -1,6 +1,10 @@
 ivr = IVR
 ivr.class_of_service_id = Class of Service
 ivr.class_of_service_id.tooltip = Choose a Class of Service for this IVR. If you choose "Extensions Only" Context, the caller will only be able to dial internal extensions numbers.
+ivr.cos.warning = The action you are about to perform may create security vulnerabilities. <b>Do not proceed unless you are sure you understand the logic of Class of Service for IVR.</b>
+ivr.cos.warning.title = Warning
+ivr.cos.warning.confirm = I understand and confirm
+ivr.cos.warning.cancel = Cancel my change
 ivr.description = Description
 ivr.description.tooltip = Short description to identify this IVR.
 ivr.disabled = Disabled
