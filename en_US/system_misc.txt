@@ -6,7 +6,9 @@ system_misc.cancel = Cancel
 system_misc.clock_status = Clock Status
 system_misc.confirm_system_poweroff = Are you sure that you want to power off the system?
 system_misc.confirm_system_restart = Are you sure that you want to restart the system?
+system_misc.disabled = Disabled
 system_misc.disk_used = %s => %s Used Of %s (%01.2f%%)
+system_misc.enabled = Enabled
 system_misc.fromemail = From Address
 system_misc.fromemail.tooltip = The address entered here will be set as the "From:" address
 system_misc.gb = %d GB
