@@ -21,6 +21,7 @@ inbound_route.enablerecording.tooltip = Enable Call Recording.
 inbound_route.faxdetection = Fax Detection
 inbound_route.faxdetection.tooltip = Fax Detection.
 inbound_route.fax_destination = Fax Destination
+inbound_route.fax_module.empty = Fax Destination module must be selected
 inbound_route.fax_mod_dest = Fax Module Destination
 inbound_route.fax_settings = Fax Settings
 inbound_route.general = General

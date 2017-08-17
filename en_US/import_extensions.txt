@@ -81,5 +81,6 @@ import_extensions.technology = Technology
 import_extensions.technology.not_match = Cannot change device technology for device %s
 import_extensions.technology.tooltip = Device Technology
 import_extensions.technology.invalid = Device Technology '%s' for device %s is invalid. Must be one of the following: SIP, IAX or FXS.
+import_extensions.validation.record_used_as_dest = Extension {0} cannot be removed. It is being used as destination by {1} module ({2}).
 menu.import_extensions = Import Extensions
 module.import_extensions = Import Extensions
