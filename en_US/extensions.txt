@@ -191,3 +191,5 @@ extensions.name.empty = Extension Name cannot be empty
 module.extensions = Extensions
 extensions.dial_profile_id = Dial Profile
 extensions.dial_profile_id.tooltip = Allows you to select the profile to use with the dial options to apply to your incoming calls.
+extensions.call_waiting = Call Waiting
+extensions.call_waiting.tooltip = If you uncheck this option, only one incoming call will be allowed to this extension.
