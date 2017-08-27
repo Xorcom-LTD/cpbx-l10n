@@ -108,9 +108,8 @@ fax.fax.to = To:
 fax.fax.recipient = Name:
 fax.fax.page_numebr = {0} (including coverpage)
 module.fax_settings = Fax Settings
-module.fax_view = My Faxes
+module.fax_view = Faxes
 module.fax = Fax Settings
 menu.fax_settings = Fax Settings
 menu.general_fax_settings = Fax Settings
-menu.my_faxes = My Faxes
-
+menu.faxes = Faxes

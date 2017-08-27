@@ -21,4 +21,5 @@ extension_cdr.src = From
 extension_cdr.to = To
 extension_cdr.to.invalid = To field must contain a valid date
 extension_cdr.to.tooltip = End report date.
-module.extension_cdr = My CDR
+module.extension_cdr = Call Logs
+menu.call_logs = Call Logs

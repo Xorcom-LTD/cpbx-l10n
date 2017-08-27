@@ -204,3 +204,4 @@ updated.no_packages = No packages available for update
 updates.updating = Updating System
 ombutel.actions = Actions
 ombutel.more = More
+menu.my_extension = My Extension
