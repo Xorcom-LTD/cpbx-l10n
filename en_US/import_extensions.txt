@@ -6,6 +6,7 @@ import_extensions.class_of_service_id.tooltip = Class of Service for the extensi
 import_extensions.csv = CSV File
 import_extensions.csv.tooltip = CSV File with the extension to process
 import_extensions.description.accountcode = Account Code is used to populate the 'account-code' field of the CDR.
+import_extensions.description.call_waiting = Enable/Disable call waiting
 import_extensions.description.channel = FXS channel for this device. Must be defined if 'technology' is fxs. Must contain only digits.
 import_extensions.description.class_of_service = Class of Service for the device. Use Class of Service name exactly as it appears on the Class of Service dialog. If left blank, default Class of Service will be used.
 import_extensions.description.device_description = Device description, purely informational and only used in the GUI.
