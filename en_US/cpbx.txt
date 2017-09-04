@@ -1,3 +1,7 @@
+cpbx.dahdi_reload_title = WARNING!
+cpbx.dahdi_reload_content = DAHDI reload is required. Currrent FXS calls may disconnect
+cpbx.dahdi_reload_confirm = Confirm
+cpbx.dahdi_reload_cancel = Cancel
 cpbx.licenses.admin.expire = {0} license is about to expire. <br>Please contact your dealer for license renewal.
 cpbx.licenses.admin.expire.subject = License Expiration {0}
 cpbx.licenses.admin.grace = WARNING! License {0} has become invalid. <br>Contact your dealer to fix the issue as soon as possible. Within {1} days from initial notice, the license will cease to function.
