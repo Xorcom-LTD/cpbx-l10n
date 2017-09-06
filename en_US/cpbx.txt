@@ -1,5 +1,5 @@
 cpbx.dahdi_reload_title = WARNING!
-cpbx.dahdi_reload_content = Reload will disconnect all active calls using telephony devices (FXS), as well as all active external calls using telephony trunk lines, such as FXO, E1/T1 or ISDN BRI.
+cpbx.dahdi_reload_content = Reload will disconnect all active calls on: <ul><li>FXS (analog extension) ports</li><li>FXO (analog line) ports</li><li>PRI E1/T1 or BRI ISDN digital ports</li></ul>VoIP calls will not be affected.
 cpbx.dahdi_reload_confirm = Confirm
 cpbx.dahdi_reload_cancel = Cancel
 cpbx.licenses.admin.expire = {0} license is about to expire. <br>Please contact your dealer for license renewal.
