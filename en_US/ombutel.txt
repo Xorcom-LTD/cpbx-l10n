@@ -217,3 +217,7 @@ destination.fwm = FWM
 ombutel.actions = Actions
 ombutel.more = More
 menu.my_extension = My Extension
+ombutel.fxs = FXS
+ombutel.sip = SIP
+ombutel.iax = IAX2
+ombutel.none = None
