@@ -90,6 +90,7 @@ epm.host_settings.ntp_server = NTP Server
 epm.host_settings.cancel = Cancel
 epm.host_settings.update = Update
 epm.host_settings.warn.cannot_remove = Host setting {0} is assigned to at least one template and cannot be removed
+epm.host_settings.warn.cannot_remove_default = {0} host setting cannot be removed
 epm.host_settings.warn.name_not_unique = Name must be unique
 epm.host_settings.warn.name_is_epmty = Name cannot be empty
 epm.host_settings.warn.hostname_is_epmty = Hostname/IP Address cannot be empty
