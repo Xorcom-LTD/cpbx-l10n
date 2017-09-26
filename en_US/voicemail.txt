@@ -1,2 +1,13 @@
 vm_bodytext = You have received a ${VM_DUR} long voicemail message from ${VM_CALLERID} at ${VM_DATE}.\nA recording of this message is attached to this email, you can also listen to it by dialing *97 from your own extension, or by dialing *98 from any other extension
 vm_subject = Voicemail number ${VM_MSGNUM} for mailbox ${VM_MAILBOX} from ${VM_CALLERID} received at ${VM_DATE}
+voicemail.INBOX = Inbox
+voicemail.Urgent = Urgent
+voicemail.Old = Old
+voicemail.Work = Work
+voicemail.Family = Family
+voicemail.Friends = Friends
+voicemail.Cust1 = Custom 1
+voicemail.Cust2 = Custom 2
+voicemail.Cust3 = Custom 3
+voicemail.Cust4 = Custom 4
+voicemail.Cust5 = Custom 5
