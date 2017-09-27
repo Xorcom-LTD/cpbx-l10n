@@ -26,6 +26,7 @@ fax.fax_view.warn_no_fax_record = No record for this fax
 fax.fax_view.warn_no_selected = No file(s) selected
 fax.fax_view.warn_not_number = Destination must be a valid number
 fax.fax_view.warn_fax_format = Invalid file format. Only PDF file format is allowed
+fax.fax_view.fax_removed = The fax was removed
 fax.fax_view.filter = Filter
 fax.fax_view.legend_send_fax = Send Fax
 fax.fax_view.destination = Destination %s
