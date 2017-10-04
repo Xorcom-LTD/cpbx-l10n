@@ -41,6 +41,7 @@ extension_settings.fw_ringtime = Ring Time
 extension_settings.fw_ringtime.tooltip = Is the time that the phone will be allowed to ring the numbers defined in the Follow Me List without being answered, before continuing to an alternative destination, such as Voicemail.
 extension_settings.general = General
 extension_settings.no_extension = You don't have an extension for the portal user.
+extension_settings.no_diversions = No enabled diversions
 extension_settings.personal_assistant.info = The Personal Assistant IVR will not be activated until a greeting has been recorded by dialing %s.
 extension_settings.personal_assitant = Personal Assistant
 extension_settings.personal_assitant.tooltip = Disabling will not delete any existing user settings but will disable access to the feature.
