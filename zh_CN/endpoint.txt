@@ -1,10 +1,10 @@
-menu.create_template = 创建模板
+menu.create_template = 模板
 menu.device_mapping = 设备映射
 menu.endpoint_manager = 终端管理模块
 menu.host_settings = 主机设置
 module.epm_device_mapping = 设备映射
 module.epm_host_settings = 主机设置
-module.epm_template = 创建模板
+module.epm_template = 模板
 module.endpoint = 终端管理模块
 epm.update = 更新
 epm.delete = 删除

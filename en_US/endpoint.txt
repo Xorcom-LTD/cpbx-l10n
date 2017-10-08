@@ -1,10 +1,10 @@
-menu.create_template = Create Template
+menu.create_template = Templates
 menu.device_mapping = Device Mapping
 menu.endpoint_manager = Endpoint Manager
 menu.host_settings = Host Settings
 module.epm_device_mapping = Device Mapping
 module.epm_host_settings = Host Settings
-module.epm_template = Create Template
+module.epm_template = Templates
 module.endpoint = Endpoint Manager
 epm.update = Update
 epm.delete = Delete
