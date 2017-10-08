@@ -100,6 +100,7 @@ epm.host_settings.warn.invalid_http_port = Invalid HTTP port assigned to one or 
 epm.host_settings.warn.invalid_https_port = Invalid HTTPS port assigned to one or more hosts
 epm.host_settings.warn.invalid_dns = Invalid DNS IP address assigned to one or more hosts
 epm.host_settings.warn.invalid_ntp = Invalid NTP IP address assigned to one or more hosts
+epm.template.auto = Auto
 epm.template.general_settings = General Settings
 epm.template.device_buttons = Device Buttons
 epm.template.expansion_modules = Expansion Modules
