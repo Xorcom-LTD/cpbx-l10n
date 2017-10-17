@@ -1,10 +1,10 @@
-menu.create_template = Crear Plantilla
+menu.create_template = Plantillas
 menu.device_mapping = Asignación de Dispositivos
 menu.endpoint_manager = Endpoint Manager
 menu.host_settings = Configuración del Host
 module.epm_device_mapping = Asignación de Dispositivos
 module.epm_host_settings = Configuración del Host
-module.epm_template = Crear Plantilla
+module.epm_template = Plantillas
 module.endpoint = Endpoint Manager
 epm.update = Actualizar
 epm.delete = Eliminar

@@ -4,6 +4,7 @@ queues_vip = Queues VIP
 queues_vip.confirm_delete = Are you sure you want to delete this queue VIPs list?
 queues_vip.delete = Delete
 queues_vip.description = Description
+queues_vip.description.invalid = Description is required
 queues_vip.description.tooltip = Short description to identify this queue VIP.
 queues_vip.general = General
 queues_vip.list = VIP List

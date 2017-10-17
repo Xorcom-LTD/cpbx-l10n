@@ -35,6 +35,7 @@ import_speeddial.not_existing = Speed Dial does not exists
 import_speeddial.no_file_selected = No file selected.
 import_speeddial.only_csv = Only .csv files supported.
 import_speeddial.removed = Removed Speed Dial {0}
+import_speeddial.speedcode.empty = Speed Dial Code cannot be empty
 import_speeddial.speedcode.too_short = Speed Dial Code must be at least 2 characters long.
 import_speeddial.import_success_with_warn = Import Succeeded with warnings
 import_speeddial.import_success = Import Succeeded

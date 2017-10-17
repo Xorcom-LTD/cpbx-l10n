@@ -1,0 +1,13 @@
+module.epm_pairing = PhoneScan
+menu.epm_pairing = PhoneScan
+epm_pairing.general = PhoneScan (beta)
+epm_pairing.time_remaining = Time Remaining
+epm_pairing.time_remaining.tooltip = Time remaining for remote mapping of endpoints
+epm_pairing.enabled = Enabled
+epm_pairing.enabled.tooltip = Enable/disable device remote mapping of endpoints
+epm_pairing.enabled.1 = On
+epm_pairing.enabled.0 = Off
+epm_pairing.reset = Reset
+epm_pairing.reset.tooltip = Reset time remaining to 30 minutes
+epm_pairing.unlicensed = No valid license for PhoneScan module found
+epm_pairing.download = Download PhoneScan Provisioning App

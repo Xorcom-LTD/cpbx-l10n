@@ -1,5 +1,7 @@
 languages = Languages
 languages.description = Description
+languages.description.empty = Description must not be empty
+languages.description.nonunique = Description must be unique
 languages.description.tooltip = Short description to identify this language.
 languages.destination = Destination
 languages.general = General
@@ -7,6 +9,8 @@ languages.langcode = Language
 languages.langcode.tooltip = Channel Language to set.
 languages.mod_dest = Module Destination
 languages.name = Name
+languages.name.empty = Name cannot be empty
+languages.name.nonunique = Name must be unique
 languages.name.tooltip = Short name (must be unique).
 menu.languages = Languages
 module.languages = Languages

@@ -1,10 +1,10 @@
-menu.create_template = Sjabloon Aanmaken
+menu.create_template = Sjablonen
 menu.device_mapping = Toesteltoewijzing
 menu.endpoint_manager = Eindpuntbeheer
 menu.host_settings = Hostinstellingen
 module.epm_device_mapping = Toesteltoewijzing
 module.epm_host_settings = Hostinstellingen
-module.epm_template = Sjabloon Aanmaken
+module.epm_template = Sjablonen
 module.endpoint = Eindpuntbeheer
 epm.update = Bijwerken
 epm.delete = Verwijderen

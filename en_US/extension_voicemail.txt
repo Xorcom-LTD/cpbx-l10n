@@ -19,5 +19,5 @@ extension_voicemail.voicemail.duration = Duration (Seconds)
 extension_voicemail.voicemail.folder = Folder
 extension_voicemail.voicemail.origin = Voicemail Origin
 extension_voicemail.vm_not_deleted = Could not delete the selected voicemail
-menu.my_voicemail = My Voicemail
-module.extension_voicemail = My Voicemail
+menu.voicemail = Voicemail
+module.extension_voicemail = Voicemail
