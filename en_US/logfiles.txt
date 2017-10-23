@@ -1,4 +1,4 @@
-logfiles = Log Files
+logfiles = Log Settings
 logfiles.appendhostname = Append Hostname
 logfiles.appendhostname.tooltip = Appends the hostname to the name of the log files.
 logfiles.dateformat = Date Format
@@ -25,5 +25,5 @@ logfiles.rotatestrategy.tooltip = Sequential: Rename archived logs in order, suc
 logfiles.security = Security
 logfiles.verbose = Verbose
 logfiles.warning = Warning
-menu.log_files = Log Files
-module.logfiles = Log Files
+menu.log_files = Log Settings
+module.logfiles = Log Settings
