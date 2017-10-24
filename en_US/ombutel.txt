@@ -78,6 +78,7 @@ ombutel.select_module = Select Module
 ombutel.sound_player = Sound Player
 ombutel.system_file = System File
 ombutel.system_reloaded =  The system has been reloaded with all outstanding changes
+ombutel.system_timezone = System timezone
 ombutel.terminate_call = Terminate Call
 ombutel.update = Update
 ombutel.update_successful = The data has been updated in the database
