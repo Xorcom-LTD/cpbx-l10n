@@ -112,4 +112,4 @@ module.fax_view = Mis Faxes
 module.fax = Configuraciones
 menu.fax_settings = Configuraciones de Fax
 menu.general_fax_settings = Configuraciones de Fax
-menu.my_faxes = Mis Faxes
+menu.faxes = Mis Faxes

@@ -46,5 +46,5 @@ extension_settings.vm_password.tooltip = Voicemailwachtwoord
 extension_settings.white_list = Witte Lijst Secretaris Directeur
 extension_settings.white_list.extension = Nummer
 extension_settings.white_list.number = Te Kiezen Nummer
-menu.my_extension = Mijn Extensie
+menu.extension_settings = Extension Settings
 module.extension_settings = Mijn Extensie

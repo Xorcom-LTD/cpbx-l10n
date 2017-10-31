@@ -112,5 +112,5 @@ module.fax_view = Mes FAXs
 module.fax = Paramètres FAX
 menu.fax_settings = Paramètres FAX
 menu.general_fax_settings = Paramètres FAX
-menu.my_faxes = Mes FAXs
+menu.faxes = Mes FAXs
 

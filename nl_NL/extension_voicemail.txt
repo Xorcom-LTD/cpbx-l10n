@@ -7,5 +7,5 @@ extension_voicemail.voicemail.date = Datum
 extension_voicemail.voicemail.duration = Duur (Seconden)
 extension_voicemail.voicemail.folder = Map
 extension_voicemail.voicemail.origin = Oorsprong Voicemail
-menu.my_voicemail = Mijn Voicemail
+menu.voicemail = Voicemail
 module.extension_voicemail = Mijn Voicemail

@@ -50,5 +50,5 @@ extension_settings.white_list.extension = 号码
 extension_settings.white_list.number = 拨打号码
 extension_settings.timezone = 时区
 extension_settings.timezone.tooltip = Local for this user.
-menu.my_extension = 我的分机
+menu.extension_settings = Extension Settings
 module.extension_settings = 我的分机

@@ -22,3 +22,4 @@ extension_cdr.to = Al
 extension_cdr.to.invalid = El campo "Al" debe contener una fecha válida
 extension_cdr.to.tooltip = Fecha final del informe.
 module.extension_cdr = Mi CDR
+menu.call_logs = Call Logs

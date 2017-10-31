@@ -22,3 +22,4 @@ extension_cdr.to = Au
 extension_cdr.to.invalid = Le champs "Au" doit contenir une date valide
 extension_cdr.to.tooltip = Date de fin de la recherche des CDRs
 module.extension_cdr = Mes CDRs
+menu.call_logs = Call Logs

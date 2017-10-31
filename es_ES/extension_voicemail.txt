@@ -19,5 +19,5 @@ extension_voicemail.voicemail.duration = Duración (segundos)
 extension_voicemail.voicemail.folder = Carpeta
 extension_voicemail.voicemail.origin = Origen de Correo de Voz
 extension_voicemail.vm_not_deleted = No se pudo borrar el Mensaje de Voz seleccionado
-menu.my_voicemail = Mi Correo de Voz
+menu.voicemail = Voicemail
 module.extension_voicemail = Mi Correo de Voz

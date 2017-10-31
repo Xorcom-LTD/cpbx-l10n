@@ -7,5 +7,5 @@ extension_voicemail.voicemail.date = 日期
 extension_voicemail.voicemail.duration = 时长(Seconds)
 extension_voicemail.voicemail.folder = 文件夹
 extension_voicemail.voicemail.origin = Voicemail Origin
-menu.my_voicemail = 我的邮箱
+menu.voicemail = Voicemail
 module.extension_voicemail = 我的邮箱

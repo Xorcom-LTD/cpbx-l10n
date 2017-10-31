@@ -19,5 +19,5 @@ extension_voicemail.voicemail.duration = Durée (Secondes)
 extension_voicemail.voicemail.folder = Dossier
 extension_voicemail.voicemail.origin = Boite vocale d'origine
 extension_voicemail.vm_not_deleted = Impossible de supprimer ce message vocal
-menu.my_voicemail = Ma boite vocale
+menu.voicemail = Voicemail
 module.extension_voicemail = Ma boite vocale

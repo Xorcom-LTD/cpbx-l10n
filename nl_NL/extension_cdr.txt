@@ -22,3 +22,4 @@ extension_cdr.to = Aan
 extension_cdr.to.invalid = Het aan-veld moet een geldige datum bevatten
 extension_cdr.to.tooltip = Eindrapportdatum.
 module.extension_cdr = Mijn CDR
+menu.call_logs = Call Logs
