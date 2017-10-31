@@ -4,6 +4,7 @@ dial_profiles.name = Name
 dial_profiles.name.help = Name to identify this profile. The name connot include spaces.
 dial_profiles.music_group_id = Ringback Sound
 dial_profiles.music_group_id.help = Configure the source to use for playing the ringback sound. Set to <b>None</b> to play the country-specific ringback sound, or select a Music on Hold class.
+dial_profiles.music_group.none = None
 dial_profiles.allow_parking = Allow Park By
 dial_profiles.allow_parking.help = Allow either party to park the call, by entering the feature code that enables the <b>Park Call</b> feature
 dial_profiles.allow_transfer = Allow Transfer By

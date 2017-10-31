@@ -58,6 +58,6 @@ extension_settings.white_list = Lista Blanca de Jefe Secretaria
 extension_settings.white_list.extension = Número
 extension_settings.white_list.phone_number = Número de Teléfono
 extension_settings.timezone = Zona Horaria
-*extension_settings.timezone.tooltip = Hora local para este usuario.
+extension_settings.timezone.tooltip = Hora local para este usuario.
 menu.my_extension = Mi Extensión
 module.extension_settings = Mi Extensión

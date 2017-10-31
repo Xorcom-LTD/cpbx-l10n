@@ -128,6 +128,7 @@ epm.template.label = Label
 epm.template.type = Type
 epm.template.value = Value
 epm.template.line = Line
+epm.template.link = Link
 epm.template.select_brand_and_model = Select a Brand and Model in the General Settings tab
 epm.template.model_has_no_dss_buttons = The model does not support DSS buttons
 epm.template.dss_buttons = DSS Buttons

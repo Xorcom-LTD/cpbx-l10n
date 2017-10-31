@@ -63,5 +63,5 @@ extension_settings.white_list.extension = Number
 extension_settings.white_list.phone_number = Phone Number
 extension_settings.timezone = Timezone
 extension_settings.timezone.tooltip = Timezone for this user
-menu.my_extension = My Extension
-module.extension_settings = My Extension
+menu.extension_settings = Extension Settings
+module.extension_settings = Extension Settings
