@@ -6,9 +6,11 @@ voicemail_timezones.delete = Delete
 voicemail_timezones.general = General
 voicemail_timezones.none = None
 voicemail_timezones.timezone = Time Zone
-voicemail_timezones.timezone.tooltip = Timezone to be selected.
+voicemail_timezones.timezone.tooltip = Timezone to be selected
 voicemail_timezones.tzdefinition = Time Definition
+voicemail_timezones.tzdefinition.tooltip = The style of the announcement that will used when announcing voicemails. The time definition can include any sound prompt, by enclosing the name of the prompt in single quotes, as well as any date and time formatting symbols:<br>
+<ul><li>A (or a): day of the week</li><li>B (or b or h): name of the month</li><li>d (or e): numeric day of the month</li><li>Y : year</li><li>I (or i): hour in 12-hour format</li><li>H: hour in 24-hour format, where single-digit hours are preceded with a zero</li><li>K: hour in 24-hour format, where single-digit hours are not preceded by a zero</li><li>M: minute</li><li>P (or p): use A.M. or .P.M.</li><li>Q: placeholder for "today", "yesterday," or ABdY</li><li>q: placeholder for "" (for today), "yesterday", weekday, or ABdY</li><li>R: 24-hour time, including minutes</li></ul>
 voicemail_timezones.tzname = Name
-voicemail_timezones.tzname.tooltip = Short name for this time-zone.
+voicemail_timezones.tzname.tooltip = Free-text name for this timezone format
 voicemail_timezones.voicemail_timezone_id = Zone Messages
-voicemail_timezones.voicemail_timezone_id.tooltip = Time-zone from Zone Messages, If set to 'no' it will be taken by general settings section. Irrelevant if Envelope is 'no'.
+voicemail_timezones.voicemail_timezone_id.tooltip = Timezone for Zone Messages, If set to 'no' it will be taken by general settings section. Irrelevant if Envelope is 'no'.
