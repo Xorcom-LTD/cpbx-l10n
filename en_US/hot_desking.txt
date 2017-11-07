@@ -53,5 +53,7 @@ hot_desking.voicemail_uri = Voicemail URI
 hot_desking.voicemail_uri.tooltip = If the phone's Msgs button should dial a SIP URI rather than opening the visual voicemail application, this option specifies what URI the Msgs button should dial. Setting this option on a phone's primary line will disable visual voicemail.
 menu.hot_desking = Hot Desking
 module.hot_desking = Hot Desking
+hot_desking.mobile-number = Number
+hot_desking.mobile-number.tooltip = Number to dial in order to reach the mobile device.
 hot_desking.custom-dialstring = Dialstring
 hot_desking.custom-dialstring.tooltip = Custom dialstring used by this device (eg. Local/12345@mycontext).
