@@ -6,7 +6,6 @@ hot_desking.codecs.tooltip = List of allowed codecs. The order in which the code
 hot_desking.delete = Delete
 hot_desking.delete.tooltip = Are you sure that you want to delete this record %s ?
 hot_desking.deny = Deny
-hot_desking.deny.invalid = Deny is invalid. Please type IP address with Subnet mask. You may use CIDR notation. (Example: 192.168.40.38/16)
 hot_desking.deny.tooltip = In a user/peer definition, you may limit the traffic to and from this peer to a certain IP or network. (Example: deny=192.168.40.38/255.255.255.255 denies traffic from this IP address).
 hot_desking.dev_description = Device Description
 hot_desking.dev_description.tooltip = A short a description to identify this Device.
@@ -30,7 +29,6 @@ hot_desking.nat.force.tooltip = Pretend there was an rport parameter even if the
 hot_desking.nat.no.tooltip = Do no special NAT handling other than RFC3581.
 hot_desking.nat.tooltip = NAT (Network Address Translation) is a technology most commonly used by firewalls and routers to allow multiple devices on a LAN with "private" IP addresses to share a single public IP address. A private IP address is an address, which can only be addressed from within the LAN, but not from the Internet outside the LAN.
 hot_desking.permit = Permit
-hot_desking.permit.invalid = Permit is invalid. Please type IP address with Subnet mask. You may use CIDR notation. (Example: 192.168.40.38/16)
 hot_desking.permit.tooltip = In a user/peer definition, you may limit the traffic to and from this peer to a certain IP or network. (Example: permit=192.168.40.0/255.255.255.0 allows traffic from this network).
 hot_desking.profile_id-fxs = Profile
 hot_desking.profile_id-fxs.tooltip = Settings Profile for FXS devices
@@ -45,9 +43,6 @@ hot_desking.secret.tooltip = Password associated to this device
 hot_desking.technology = Technology
 hot_desking.technology.tooltip = Type of technology for this device
 hot_desking.user = User Device
-hot_desking.user_unique.invalid = User Device already exists
-hot_desking.user.invalid = Please enter a valid User Device
-hot_desking.user.invalid.spaces = User Device must not conatin spaces
 hot_desking.user.tooltip = User for this Device.
 hot_desking.voicemail_uri = Voicemail URI
 hot_desking.voicemail_uri.tooltip = If the phone's Msgs button should dial a SIP URI rather than opening the visual voicemail application, this option specifies what URI the Msgs button should dial. Setting this option on a phone's primary line will disable visual voicemail.

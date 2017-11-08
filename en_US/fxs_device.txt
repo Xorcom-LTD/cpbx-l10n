@@ -1,0 +1,1 @@
+fxs_device.channel_id.invalid = Please select a valid Device Channel
