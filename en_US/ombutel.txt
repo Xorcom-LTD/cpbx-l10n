@@ -223,4 +223,5 @@ menu.my_extension = My Extension
 ombutel.fxs = FXS
 ombutel.sip = SIP
 ombutel.iax = IAX2
+ombutel.custom = Custom
 ombutel.none = None
