@@ -1,0 +1,5 @@
+call_recording.recording_format = Formato de Grabación
+call_recording.recording_format.tooltip = Valor predeterminado de formato de grabación de audio de llamadas.
+call_recording.recording_script = Script de Grabaciones
+call_recording.recording_script.tooltip = Script a ser ejecutado una vez que termine la grabación. Los parámetros de la secuencia de comandos pueden ser definidos en series separadas por espacios como ^{{<i><b>nombreparametro</b></i>}}, en donde <i><b>nombreparametro</b></i> puede ser cualquier canal o MixMonitor variable. Por ejemplo, <br> ^{{UNIQUEID}} - channel ID<br> ^{{MIXMONITOR_FILENAME}} - nombre del archivo de grabación.
+call_recording.recording_script.invalid = El script de grabación no fue encontrado

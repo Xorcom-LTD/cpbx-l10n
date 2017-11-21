@@ -1,0 +1,2 @@
+call_recording.recording_format = 录音格式
+call_recording.recording_format.tooltip = Default audio format for record calls.

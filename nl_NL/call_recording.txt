@@ -1,0 +1,2 @@
+call_recording.recording_format = Opnameformaat
+call_recording.recording_format.tooltip = Standaardaudioformaat voor het opnemen van oproepen.

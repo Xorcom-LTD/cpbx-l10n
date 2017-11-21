@@ -1,0 +1,5 @@
+call_recording.recording_format = Format d'enregistrement
+call_recording.recording_format.tooltip = Format d'enregistrement par defaut pour les appels enregistré.
+call_recording.recording_script = Script d'enregistrement
+call_recording.recording_script.tooltip = Script a exécuter quand un enregistrement est terminé. les paramètres du script doivent être definit comme une séquences de châine de caractère séparés par des espaces comme ^{{<i><b>name</b></i>}}, ou <i><b>name</b></i> peut-être un canal ou une variable MixMonitor . Par exemple , <br> ^{{UNIQUEID}} - channel ID<br> ^{{MIXMONITOR_FILENAME}} - recording file name.
+call_recording.recording_script.invalid = Le script d'enregistrement n'est pas trouvé.
