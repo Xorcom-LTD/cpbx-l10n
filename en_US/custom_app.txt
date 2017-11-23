@@ -9,6 +9,7 @@ custom_app.general = General
 custom_app.invalid.already_exists = Invalid Custom Application number {0}. The number is in use by {1} module.
 custom_app.mod_dest = Destination Module
 custom_app.mod_dest.custom = Custom
+custom_app.mod_dest.custom.invalid = Custom destination value is invalid. Must be in the following format: <b>context,s,1</b>
 custom_app.mod_dest.select = Select Module
 custom_app.mod_dest.terminate_call = Terminate Call
 custom_app.status = Enabled
