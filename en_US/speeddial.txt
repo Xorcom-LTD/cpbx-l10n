@@ -12,3 +12,5 @@ speeddial.extension.invalid = Speed Dial Code is invalid. Use only numbers and t
 speeddial.extension.tooltip = Code to activate this speed dial. Code should be unique to the system, i.e. must not be used anywhere else in the system.
 speeddial.general = General
 speeddial.invalid.already_exists = Invalid Speed Dial number {0}. The number is in use by {1} module.
+speeddial.description.invalid = Description is required and cannot be left empty.
+speeddial.description.duplicate = Description must be unique.
