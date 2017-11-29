@@ -88,3 +88,5 @@ menu.import_extensions = Import Extensions
 module.import_extensions = Import Extensions
 import_extensions.class_of_service_id.invalid = Class of service {0} not found.
 import_extensions.technology.different = Switching device {0} to a different technology type is not supported.
+import_extensions.hotdesk.mobile = Mobile device {0} requires an extension.
+import_extensions.hotdesk.custom = Custom device {0} requires an extension.
