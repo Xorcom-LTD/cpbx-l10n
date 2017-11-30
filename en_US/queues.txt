@@ -1,8 +1,8 @@
 menu.queues = Queues
 module.queues = Queues
 queues = Queues
-queues.announcement_id = Announcement
-queues.announcement_id.tooltip = An announcement may be specified which is played for the member as soon as they answer a call, typically to indicate to them which queue this call should be answered as, so that agents or members who are listening to more than one queue can differentiated how they should engage the customer.
+queues.announcement_id = Agent Message
+queues.announcement_id.tooltip = A message which will be played to the agent when call is answered, typically to indicate to agents working multiple queues about the source of the call.
 queues.announce_frequency = Announce Frequency
 queues.announce_frequency.placeholder = Value in seconds
 queues.announce_frequency.tooltip = Defines how often we should announce the caller's position and/or estimated hold time in the queue. Set this value to zero to disable. In a small call center, it is unlikely that the system will be able to make accurate estimates, and thus callers are more likely to find this information frustrating.
