@@ -15,3 +15,4 @@ class_of_service.general = General
 class_of_service.lastdest = Last Destination
 menu.class_of_service = Class of Service
 module.class_of_service = Class of Service
+class_of_service.delete_default_cos = The default Class of Service cannot be removed.
