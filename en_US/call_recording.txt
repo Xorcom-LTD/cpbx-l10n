@@ -1,6 +1,7 @@
 call_recording.advanced = Advanced
 call_recording.call_recording = Call Recording
 call_recording.cloud_recording = Cloud Recording
+call_recording.connection_timeout = Connection timeout. Please check your network.
 call_recording.customer_id = Customer ID
 call_recording.customer_id.tooltip = Customer ID
 call_recording.customer_id_empty = Customer ID cannot be empty
@@ -9,6 +10,7 @@ call_recording.delete_orig_file.tooltip = Delete Local File
 call_recording.enabled = Enabled
 call_recording.enabled.tooltip = Toggle cloud recording
 call_recording.general = General
+call_recording.incorrect_cred = Invalid credentials for cloud recording
 call_recording.use_custom_script = Use Custom Recording Script
 call_recording.use_custom_script.tooltip = Toggle custom recording script
 call_recording.save = Save
