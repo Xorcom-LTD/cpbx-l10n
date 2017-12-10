@@ -2,6 +2,7 @@ menu.music_on_hold = Music on Hold
 module.music_on_hold = Music on Hold
 music_on_hold = Music on Hold
 music_on_hold.actions = Actions
+music_on_hold.cannot_remove_default = Cannot remove default
 music_on_hold.close = Close
 music_on_hold.confirm_delete = Are you sure that you want delete this group?
 music_on_hold.default = Default
