@@ -229,3 +229,4 @@ ombutel.none = None
 ombutel.previous = Previous
 ombutel.next = Next
 ombutel.paging = Displaying #0-#1 of #2 (out of #3)
+ombutel.rows_per_page = Rows Per Page
