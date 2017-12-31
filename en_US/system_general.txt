@@ -27,3 +27,5 @@ system_general.table.description = Description
 system_general.table.path = Path
 system_general.trunk_dialoptions = Trunk Dial Options
 system_general.trunk_dialoptions.tooltip = Default options to use for dial external numbers when trunk dial options are not defined(on trunks module).
+system_general.language = Language
+system_general.language.tooltip = Default language used for voice prompts when no other language is applicable.

@@ -57,8 +57,6 @@ sip_settings.jbresyncthreshold.tooltip = Jump in the frame timestamps over which
 sip_settings.jbtargetextra = Target Extra
 sip_settings.jbtargetextra.tooltip = This option only affects the jb when 'jbimpl = adaptive' is set. The option represents the number of milliseconds by which the new jitter buffer will pad its size.
 sip_settings.jitter_buffer = Jitter Buffer
-sip_settings.language = Language
-sip_settings.language.tooltip = Default language setting for all users/peers. This may also be set for individual users/peers.
 sip_settings.localNetwork = Local Networks
 sip_settings.maxcallbitrate = Max Call BitRate
 sip_settings.maxcallbitrate.tooltip = Maximum bitrate for video calls (default 384 kb/s).
