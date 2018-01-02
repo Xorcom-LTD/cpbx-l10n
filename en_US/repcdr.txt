@@ -3,6 +3,7 @@ menu.view_cdr = CDR
 module.repcdr = CDR
 repcdr.accountcode = Account Code
 repcdr.customer_code = Customer Code
+repcdr.pin_code = PIN Code
 repcdr.answered = Answered
 repcdr.billsec = Talk Time
 repcdr.busy = Busy
