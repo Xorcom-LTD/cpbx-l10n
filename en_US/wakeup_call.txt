@@ -1,0 +1,4 @@
+wakeup_call.wakeup_call = Wakeup Call
+wakeup_call.extension_id.invalid = Extension must be a valid extension.
+wakeup_call.when.invalid = Time must be a time in the future.
+wakeup_call.duplicate = A wakeup call for this extension and time already exists.
