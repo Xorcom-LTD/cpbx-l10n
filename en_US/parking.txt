@@ -49,3 +49,4 @@ parking.parkpos.tooltip = Range of parking spaces to use.
 parking.parkpos.invalid = Parking Positions must be a number greater than {0} and the range of numbers used by this parking lot must not be in use by another module.
 parking.timeout_destination = Timeout Destination
 parking.use_as_default = Use as Default
+parking.use_as_default.tooltip = Mark this parking lot to be the systemwide default.
