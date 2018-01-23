@@ -25,6 +25,7 @@ cdr_filters.conditions.search_by.clid = Caller ID
 cdr_filters.conditions.search_by.disposition = Status
 cdr_filters.conditions.search_by.destination = To
 cdr_filters.conditions.search_by.dst = To (dst)
+cdr_filters.conditions.search_by.pin_code = PIN Code
 cdr_filters.conditions.search_by.source = From
 cdr_filters.conditions.search_by.src = From (src)
 cdr_filters.conditions.value = Value
