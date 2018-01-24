@@ -49,6 +49,7 @@ repcdr.pdf.accountcode = Account
 repcdr.pdf.customer_code = Customer
 repcdr.pdf.disposition = Status
 repcdr.pdf.recorded = Recorded
+repcdr.pdf.calls = Calls
 repcdr.yes = Yes
 repcdr.no = No
 repcdr.no_report_found = No report found
