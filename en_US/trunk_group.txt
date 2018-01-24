@@ -1,6 +1,9 @@
 menu.outbound_routes = Outbound Routes
 module.trunk_group = Outbound Routes
 trunk_group = Outbound Routes
+trunk_group.account_code = Account Code
+trunk_group.account_code.tooltip = This field, if defined, is used to populate the <b>accountcode</b> field of the CDR
+trunk_group.account_code.invalid = Account Code is invalid. Alphanumeric value with dash and underscore are allowed.
 trunk_group.description = Description
 trunk_group.description.tooltip = Short description to identify this outbound route
 trunk_group.general = General
