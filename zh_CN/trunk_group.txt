@@ -21,5 +21,3 @@ trunk_group.trkpattern.prefix.tooltip = Prefix to remove when matching.
 trunk_group.trkpattern.prepend = 匹配后添加号码
 trunk_group.trkpattern.prepend.placeholder = 匹配后添加号码
 trunk_group.trkpattern.prepend.tooltip = Digits to prepend when matching.
-trunk_group.virttrk = 多租户中继
-trunk_group.virttrk.tooltip = List of tenants that this tenant can call as trunk

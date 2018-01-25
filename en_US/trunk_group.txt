@@ -24,5 +24,3 @@ trunk_group.trkpattern.prefix.tooltip = Prefix to remove when matching.
 trunk_group.trkpattern.prepend = Prepend
 trunk_group.trkpattern.prepend.placeholder = Prepend
 trunk_group.trkpattern.prepend.tooltip = Digits to prepend when matching.
-trunk_group.virttrk = Tenant Trunks
-trunk_group.virttrk.tooltip = List of tenants that this tenant can call as trunk

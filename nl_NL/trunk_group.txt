@@ -21,5 +21,3 @@ trunk_group.trkpattern.prefix.tooltip = Prefix dat moet worden verwijderd bij he
 trunk_group.trkpattern.prepend = Vooraan toevoegen
 trunk_group.trkpattern.prepend.placeholder = Vooraan toevoegen
 trunk_group.trkpattern.prepend.tooltip = Karakters die vóór het nummer moeten worden toegevoegd bij het laten overeenstemmen.
-trunk_group.virttrk = Externe Koppelingen Tenants
-trunk_group.virttrk.tooltip = Lijst van Tenants die deze Tenant kan bellen als externe koppeling

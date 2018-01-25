@@ -21,5 +21,3 @@ trunk_group.trkpattern.prefix.tooltip = Prefixe à enlever quand cela correspond
 trunk_group.trkpattern.prepend = Prepend
 trunk_group.trkpattern.prepend.placeholder = Prepend
 trunk_group.trkpattern.prepend.tooltip = Chiffres à rajouter quand cela correspond
-trunk_group.virttrk = Tenant Trunks
-trunk_group.virttrk.tooltip = List of tenants that this tenant can call as trunk

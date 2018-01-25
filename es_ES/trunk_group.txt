@@ -21,5 +21,3 @@ trunk_group.trkpattern.prefix.tooltip = Prefijo para eliminar al coincidir.
 trunk_group.trkpattern.prepend = Anteponer
 trunk_group.trkpattern.prepend.placeholder = Anteponer
 trunk_group.trkpattern.prepend.tooltip = Dígitos para anteponer al coincidir.
-trunk_group.virttrk = Troncal Tenant 
-trunk_group.virttrk.tooltip = Lista de los Tenants que este Tenant puede llamar por medio de una troncal
