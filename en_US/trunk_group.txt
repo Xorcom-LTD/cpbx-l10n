@@ -24,3 +24,5 @@ trunk_group.trkpattern.prefix.tooltip = Prefix to remove when matching.
 trunk_group.trkpattern.prepend = Prepend
 trunk_group.trkpattern.prepend.placeholder = Prepend
 trunk_group.trkpattern.prepend.tooltip = Digits to prepend when matching.
+trunk_group.intracompany = Intracompany
+trunk_group.intracompany.tooltip = When enabled, calls going through this route will use the internal caller ID.
