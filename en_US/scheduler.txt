@@ -1,0 +1,64 @@
+menu.scheduler = Task Manager
+module.scheduler = Task Manager
+scheduler.tasks = Tasks
+scheduler.information = Information
+scheduler.script = Script
+scheduler.script.tooltip = Which script this task should execute at the scheduled time and date.
+scheduler.script.invalid = A valid script must be selected.
+scheduler.description = Description
+scheduler.description.tooltip = Description for this scheduled task.
+scheduler.description.invalid = No description provided.
+scheduler.schedule = Schedule
+scheduler.create_task = Create Task
+scheduler.task_created = Task has been created
+scheduler.edit_task = Edit Task
+scheduler.task_updated = Task has been updated
+scheduler.starting = Starting
+scheduler.starting.tooltip = The date and time at this task should execute the selected script.
+scheduler.starting.invalid = No start time and date chosen or formatted improperly.
+scheduler.completed = Completed
+scheduler.completed.format =
+	[] Never
+	*[one] {0,datetime}
+scheduler.every = Every
+scheduler.every.tooltip = Execute the selected task at a specific interval. Leave blank to execute the selected task once.
+scheduler.interval.invalid = Execution interval must be a positive number or left empty.
+scheduler.interval_unit.invalid = Execution interval must be in minutes, hours, days, weeks or months.
+scheduler.once = Once
+scheduler.every.minute =
+	[0] On {1,datetime}
+	[one] Every minute, starting {1,datetime}
+	*[other] Every {0} minutes, starting {1,datetime}
+scheduler.every.hour =
+	[0] On {1,datetime}
+	[one] Every hour, starting {1,datetime}
+	*[other] Every {0} hours, starting {1,datetime}
+scheduler.every.day =
+	[0] On {1,datetime}
+	[one] Every day, starting {1,datetime}
+	*[other] Every {0} days, starting {1,datetime}
+scheduler.every.week =
+	[0] On {1,datetime}
+	[one] Every week, starting {1,datetime}
+	*[other] Every {0} weeks, starting {1,datetime}
+scheduler.every.month =
+	[0] On {1,datetime}
+	[one] Every month, starting {1,datetime}
+	*[other] Every {0} months, starting {1,datetime}
+scheduler.minutes = Minutes
+scheduler.hours = Hours
+scheduler.days = Days
+scheduler.weeks = Weeks
+scheduler.months = Months
+scheduler.parameters = Parameters
+scheduler.parameters.tooltip = Any parameters required by the selected script.
+scheduler.notes = Notes
+scheduler.notes.tooltip = Any notes regarding this task.
+scheduler.no_script_description = No information available.
+scheduler.confirm_delete = Are you sure you wish to delete this task?
+scheduler.task_deleted = Task has been deleted
+scheduler.state = State
+scheduler.enabled = Enabled
+scheduler.disabled = Disabled
+scheduler.run_now = Execute this task now
+scheduler.task_started = Task has been started
