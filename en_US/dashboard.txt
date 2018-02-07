@@ -1,7 +1,7 @@
 dashboard.asterisk = Asterisk
 dashboard.asterisk_uptime = Asterisk Uptime
 dashboard.available = Available
-dashboard.current_time = Current Time
+dashboard.current_time = Server Time
 dashboard.dahdi = DAHDi
 dashboard.days =
 	[0]
