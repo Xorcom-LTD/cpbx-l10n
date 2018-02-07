@@ -46,3 +46,5 @@ system_misc.tzdate = Date
 system_misc.tzdate.tooltip = Set date of the system.
 system_misc.tztime = Time
 system_misc.tztime.tooltip = Set time of the system.
+system_misc.enable_ntpd = Provide NTP
+system_misc.enable_ntpd.tooltip = The PBX will provide NTP services to other devices when enabled.
