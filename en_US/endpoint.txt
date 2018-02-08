@@ -24,6 +24,7 @@ epm.device_mapping.device_search.tooltip = Type the device number you want to fi
 epm.device_mapping.advanced_settings = Advanced Settings
 epm.device_mapping.warn_no_device = No device found
 epm.device_mapping.cancel = Cancel
+epm.device_mapping.check_uncheck_all = Check/Uncheck All
 epm.device_mapping.update = Update
 epm.device_mapping.mac_address = MAC Address
 epm.device_mapping.note = Note!
