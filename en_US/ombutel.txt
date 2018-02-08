@@ -230,3 +230,4 @@ ombutel.previous = Previous
 ombutel.next = Next
 ombutel.paging = Displaying #0-#1 of #2 (out of #3)
 ombutel.rows_per_page = Rows Per Page
+ombutel.request_too_big = The submitted form or file(s) exceeded size limitations.
