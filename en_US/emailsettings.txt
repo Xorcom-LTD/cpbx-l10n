@@ -1,6 +1,6 @@
 emailsettings = Email Settings
 emailsettings.address.invalid = You must define a valid email address
-emailsettings.address_used_from_address = Address to be used as the <b>From</b> address for outgoing emailsFori
+emailsettings.address_used_from_address = Address to be used as the <b>From</b> address for outgoing emails.
 emailsettings.auth = Authentication
 emailsettings.auth.0 = No Authentication
 emailsettings.auth.1 = Use Authentication
