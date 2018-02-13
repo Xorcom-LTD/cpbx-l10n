@@ -1,5 +1,6 @@
 cpbx.dahdi_reload_title = WARNING!
 cpbx.dahdi_reload_content = Reload will disconnect all active calls on: <ul><li>FXS (analog extension) ports</li><li>FXO (analog line) ports</li><li>PRI E1/T1 or BRI ISDN digital ports</li></ul>VoIP calls will not be affected.
+cpbx.confirm = Confirm
 cpbx.dahdi_reload_confirm = Confirm
 cpbx.dahdi_reload_cancel = Cancel
 cpbx.default = Default
