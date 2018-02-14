@@ -12,7 +12,6 @@ trunk_group.trklist.empty = Aucune ligne n'est selectionnée pour ce groupe de l
 trunk_group.trklist.tooltip = Liste des trunks disponibles
 trunk_group.trkpattern = Motifs (schémas) de numéros %s
 trunk_group.trkpattern.pattern = Motif (schéma)
-trunk_group.trkpattern.pattern.invalid = Motif invalide {0}
 trunk_group.trkpattern.pattern.placeholder = Motif correspondant
 trunk_group.trkpattern.pattern.tooltip = Le motif correspondant nous permet de créer une route dans notre plan de numérotation qui correspondra au mieux au numéro composé
 trunk_group.trkpattern.prefix = Prefixe
