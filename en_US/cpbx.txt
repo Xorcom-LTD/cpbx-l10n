@@ -17,3 +17,4 @@ cpbx.ombu_allowed_extensions = You have reached your license limit of {0} extens
 cpbx.licenses_invalid_title.warning = WARNING! LICENSE IS INVALID OR ABOUT TO EXPIRE
 cpbx.licenses_invalid_content.warning = The license of this system is not valid and your <b>PBX may not function properly</b>.<br/>The reason may be:<br/>- The license has expired.<br/>- The license is about to expire.<br/>- The system is not licensed.<br/>- The system has no access to licensing server.<br/>Please contact your system administrator as soon as possible.<br/>Please check {0} module for more information.
 cpbx.licenses_invalid_confirm.warning = Confirm
+epmpnp = Endpoint Manager PnP
