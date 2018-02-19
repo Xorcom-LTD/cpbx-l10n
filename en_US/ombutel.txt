@@ -230,4 +230,4 @@ ombutel.previous = Previous
 ombutel.next = Next
 ombutel.paging = Displaying #0-#1 of #2 (out of #3)
 ombutel.rows_per_page = Rows Per Page
-ombutel.request_too_big = The submitted form or file(s) exceeded max size limit ({0}). </br>If you are trying to upload a backup file. You can place it directly to /var/lib/ombutel/static/backup/ folder
+ombutel.request_too_big = The data that you have requested to upload exceeds the file size limit of {0}.<br/>If you are trying to upload a backup file, you can transfer it directly to the /var/lib/ombutel/static/backup/ folder
