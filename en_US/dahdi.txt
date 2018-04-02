@@ -883,6 +883,7 @@ profiles.dahdi_groups.legend.channels_group = Channels for this group
 profiles.dahdi_groups.delete = Delete
 profiles.dahdi_groups.confirm_delete = Are you sure, that you want delete this group?
 profiles.dahdi_groups.channel_groups = Channel Groups
+profiles.dahdi_groups.group_is_used = The Channel Group %s is being used by %s module.
 profiles.dahdi_groups.group_removed = The group has been removed
 profiles.dahdi_groups.general = General
 profiles.dahdi_groups.name.label = Name
