@@ -1,0 +1,3 @@
+device.description.invalid = Por favor ingrese una descripción de dispositivo válida
+device.description.duplicate = La descripción de dispositivo ya existe
+device.profile_id.invalid = Por favor seleccione un perfil de dispositivo

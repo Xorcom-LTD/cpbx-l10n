@@ -1,0 +1,1 @@
+custom_device.dialstring.invalid = Por favor ingrese la cadena de marcado del dispositivo
