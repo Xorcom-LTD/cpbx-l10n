@@ -16,3 +16,5 @@ class_of_service.lastdest = Last Destination
 menu.class_of_service = Class of Service
 module.class_of_service = Class of Service
 class_of_service.delete_default_cos = The default Class of Service cannot be removed.
+class_of_service.last_destination_source = {0} - Last Destination
+class_of_service.bad_destination_source = {0} - Bad Destination

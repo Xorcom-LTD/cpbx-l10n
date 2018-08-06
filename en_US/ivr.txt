@@ -62,3 +62,7 @@ ivr.instructions_msg_id = Instructions Message
 ivr.instructions_msg_id.tooltip = Message to be played after the welcome message. This message is useful for avoid to repeat the welcome message on invalid/timeout event.
 menu.ivr = IVR
 module.ivr = IVR
+ivr.invalid_destination_source = {0} - Invalid Destination
+ivr.timeout_destination_source = {0} - Timeout Destination
+ivr.option_destination_source = {0} - Option {1}
+destination_type.ivr = IVR

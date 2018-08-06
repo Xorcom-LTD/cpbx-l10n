@@ -50,3 +50,4 @@ parking.parkpos.invalid = Parking Positions must be a number greater than {0} an
 parking.timeout_destination = Timeout Destination
 parking.use_as_default = Use as Default
 parking.use_as_default.tooltip = Mark this parking lot to be the systemwide default.
+destination_type.parking_lot = Parking Lot

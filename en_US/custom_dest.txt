@@ -9,3 +9,4 @@ custom_dest.destination.tooltip = The number that the system should call when a 
 custom_dest.general = General
 menu.custom_destinations = Custom Destinations
 module.custom_dest = Custom Destinations
+destination_type.custom_destination = Custom Destination

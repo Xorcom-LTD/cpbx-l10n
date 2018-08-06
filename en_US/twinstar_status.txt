@@ -1,3 +1,4 @@
+twinstar_status.active = Active
 twinstar_status.astribanks = Astribanks
 twinstar_status.astribanks.tooltip = Number of Astribank devices connected to the server.
 twinstar_status.connected = Connected
@@ -16,8 +17,10 @@ twinstar_status.drbd_info = DRBD Information
 twinstar_status.failure = Failure
 twinstar_status.frozen = Frozen
 twinstar_status.general = General
+twinstar_status.grace = Action Required
 twinstar_status.hostname = Hostname
 twinstar_status.hostname.tooltip = Hostname
+twinstar_status.invalid = Invalid
 twinstar_status.invalid.no_content = Server unreachable
 twinstar_status.invalid.no_local_server_info = Server unreachable
 twinstar_status.invalid.no_remote_server_info = Server unreachable

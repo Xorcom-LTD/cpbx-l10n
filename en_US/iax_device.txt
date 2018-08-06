@@ -1,5 +1,6 @@
 iax_device.deny.invalid = Deny is invalid. Please type IP address with Subnet mask. You may use CIDR notation. (Example: 192.168.40.38/16)
 iax_device.permit.invalid = Permit is invalid. Please type IP address with Subnet mask. You may use CIDR notation. (Example: 192.168.40.38/16)
+iax_device.secret.invalid = Password cannot be empty
 iax_device.user.invalid = Please enter a valid Device User
 iax_device.user.duplicate = Device User already exists
 iax_device.user.spaces = Device User may not contain any spaces

@@ -27,3 +27,6 @@ nightmode.hint = Generate Hint
 nightmode.hint.tooltip = Generate hint for this night mode.
 nightmode.phone_hint = BLF Hint
 nightmode.phone_hint.tooltip = The string to add as the BLF line on your phone.
+nightmode.enabled_destination_source = {0} - Enabled Destination
+nightmode.disabled_destination_source = {0} - Disabled Destination
+destination_type.nightmode = Nightmode

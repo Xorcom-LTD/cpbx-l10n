@@ -14,3 +14,4 @@ languages.name.nonunique = Name must be unique
 languages.name.tooltip = Short name (must be unique).
 menu.languages = Languages
 module.languages = Languages
+destination_type.language = Language

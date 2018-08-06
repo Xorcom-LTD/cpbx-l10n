@@ -16,3 +16,4 @@ call_back.general = General
 call_back.mod_dest = Destination Module
 menu.call_back = Call Back
 module.call_back = Call Back
+destination_type.callback = Call Back

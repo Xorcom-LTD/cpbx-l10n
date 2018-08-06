@@ -8,3 +8,4 @@ queues_priority.general = General
 queues_priority.mod_dest = Destination Module
 queues_priority.priority = Priority
 queues_priority.priority.tooltip = The Queue Priority to set.
+destination_type.queue_priority = Queue Priority

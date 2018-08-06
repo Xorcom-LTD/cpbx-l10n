@@ -23,6 +23,7 @@ fax.fax_view.warn_create_file = Could not create call file
 fax.fax_view.warn_convert = Could not convert to tiff format. Something might be wrong with the file(s)
 fax.fax_view.warn_dest_null = The destination number cannot be empty
 fax.fax_view.warn_no_fax_record = No record for this fax
+fax.fax_view.warn_no_recipient = No recipient defined
 fax.fax_view.warn_no_selected = No file(s) selected
 fax.fax_view.warn_not_number = Destination must be a valid number
 fax.fax_view.warn_fax_format = Invalid file format. Only PDF format is allowed

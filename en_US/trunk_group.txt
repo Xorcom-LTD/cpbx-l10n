@@ -39,3 +39,4 @@ trunk_group.trkpattern.prepend.placeholder = Prepend
 trunk_group.trkpattern.prepend.tooltip = Digits to prepend when matching.
 trunk_group.intracompany = Intracompany
 trunk_group.intracompany.tooltip = When enabled, calls going through this route will use the internal caller ID.
+destination_type.outbound_route = Outbound Route

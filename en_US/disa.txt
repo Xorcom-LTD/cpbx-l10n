@@ -17,3 +17,4 @@ disa.resptimeout = Response Timeout
 disa.resptimeout.tooltip = Maximum time that the system will wait for the first digit
 menu.disa = DISA
 module.disa = DISA
+destination_type.disa = DISA

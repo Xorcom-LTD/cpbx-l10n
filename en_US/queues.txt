@@ -163,3 +163,6 @@ queues.weight.tooltip = Defines the weight of a queue. A queue with a higher wei
 queues.wrapuptime = Wrap-up-time
 queues.wrapuptime.placeholder = Value in seconds
 queues.wrapuptime.tooltip = The number of seconds to keep an agent unavailable in a queue after completing a call. This time allows an agent to finish any post call processing they may need to handle before they are presented with the next call.
+destination_type.queue = Queue
+queues.last_destination_source = {0} - Last Destination
+queues.agent_destination_source = {0} - Agent

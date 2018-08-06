@@ -16,3 +16,4 @@ vmgroup.password.invalid = Password is invalid. Use only numbers and the "*" (as
 vmgroup.password.tooltip = Password to protect this Voicemail Broadcast Group.
 vmgroup.vmglist = Extensions
 vmgroup.vmglist.tooltip = List of extensions to which group voicemail will broadcast. Note that only extensions that have active voicemail will be displayed.
+destination_type.vmgroup = Voicemail Broadcast Group

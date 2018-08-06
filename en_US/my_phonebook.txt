@@ -1,0 +1,2 @@
+menu.my_phonebook = Phonebook
+module.my_phonebook = Phonebook

@@ -8,3 +8,4 @@ preannoun.general = General
 preannoun.mod_dest = Module Destination
 preannoun.recording_id = Custom Recording
 preannoun.recording_id.tooltip = Recording to play on this Announcement.
+destination_type.announcement = Announcement

@@ -1,5 +1,6 @@
 menu.system_general = System General
 module.system_general = System General
+system_general.ami_settings = AMI Settings
 system_general.ast_agi_dir = Asterisk AGI Directory
 system_general.ast_dir = Asterisk Directory
 system_general.ast_libs_dir = Asterisk Libraries Directory
@@ -13,6 +14,8 @@ system_general.auto_portal = Enable Portal
 system_general.auto_portal.tooltip = If enabled, the portal will be enabled automatically each time you create an extension.
 system_general.auto_voicemail = Enable Voicemail
 system_general.auto_voicemail.tooltip = If enabled, the voicemail will be enabled automatically each time you create an extension.
+system_general.ami_external_conn = Allow External Connections
+system_general.bindaddr.tooltip = Allow AMI external connections. If set to 'Yes', the AMI listening address is set to 0.0.0.0, i.e. listen on all address, provided that the firewall is open. Default 'No', listens only to 127.0.0.1.
 system_general.dialoptions = Extensions Dial Options
 system_general.dialoptions.tooltip = Default options to use for dial internal extensions when dial options are not defined(on extensions module).
 system_general.dialplan_settings = Dial-Plan Settings

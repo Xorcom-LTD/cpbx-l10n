@@ -1,3 +1,4 @@
 device.description.invalid = Please enter a valid Device Description
 device.description.duplicate = Device Description already taken
 device.profile_id.invalid = Please select a Device Profile
+device.user_device.exists = User Device already exists. {0} ({1}). (must be unique)

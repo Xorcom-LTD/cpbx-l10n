@@ -16,3 +16,6 @@ time_conditions.time_group_id = Time Group
 time_conditions.time_group_id.tooltip = Select a Time Group created under Time Groups. Matching times will be sent to matching destination.
 time_conditions.truegoto = Destination if time matches %s
 time_conditions.update = Update
+time_conditions.match_destination_source = {0} - Match Destination
+time_conditions.mismatch_destination_source = {0} - Mismatch Destination
+destination_type.time_condition = Time Condition
