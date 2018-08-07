@@ -1,4 +1,4 @@
-iax_settings.adsi = ADSI
+iax_settings.adsi = ADS
 iax_settings.adsi.tooltip = ADSI (Analog Display Services Interface) can be enabled if you have (or may have) ADSI compatible CPE equipment.
 iax_settings.authdebug = Débogage d'identification
 iax_settings.authdebug.tooltip = Augmente le volume de log afin de résoudre des problèmes d'identification
