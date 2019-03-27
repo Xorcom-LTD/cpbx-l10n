@@ -1,6 +1,6 @@
 module.epm_pairing = PhoneScan
 menu.epm_pairing = PhoneScan
-epm_pairing.general = PhoneScan (beta)
+epm_pairing.general = PhoneScan
 epm_pairing.time_remaining = Time Remaining
 epm_pairing.time_remaining.tooltip = Time remaining for remote mapping of endpoints
 epm_pairing.enabled = Enabled

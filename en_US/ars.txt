@@ -9,3 +9,4 @@ ars.outbound_route_id = Outbound Route
 ars.time_group_id = Time Group
 menu.route_selections = Route Selections
 module.ars = Route Selections
+ars.none = None

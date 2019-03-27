@@ -1,2 +1,7 @@
 menu.my_phonebook = Phonebook
 module.my_phonebook = Phonebook
+my_phonebook.message = Call number
+my_phonebook.title = Call Number
+my_phonebook.confirm = Call Now
+my_phonebook.cancel = Cancel
+my_phonebook.click_to_dial = Click to Dial

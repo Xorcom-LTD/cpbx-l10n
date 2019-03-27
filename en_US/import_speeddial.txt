@@ -1,6 +1,7 @@
 menu.import_speeddial = Import/Export Speed Dialing
 module.import_speeddial = Import/Export Speed Dialing
 import_speeddial = Import Speed Dialing
+import_speeddial.tooltip = Supported file formats: CSV, ODS and JSON
 import_speeddial.added = Added Speed Dial "{0}".
 import_speeddial.cannot_remove = Speed Dial "{0}" cannot be removed.
 import_speeddial.delete = Delete

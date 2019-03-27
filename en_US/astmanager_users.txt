@@ -19,6 +19,7 @@ astmanager_users.read = Read Permissions
 astmanager_users.read.tooltip = Select one (or more) options from the list of available read permissions
 astmanager_users.reporting = Reporting
 astmanager_users.secret = AMI Secret
+astmanager_users.secret.invalid = AMI Secret cannot be empty
 astmanager_users.secret.tooltip = Secret for login to Asterisk Manager Interface (AMI)
 astmanager_users.system = System
 astmanager_users.user = User
