@@ -1,0 +1,15 @@
+custom_app = Applications personnalisées
+custom_app.description = Nom
+custom_app.description.tooltip = Nom identifiant cette application personnalisée
+custom_app.destination = Destination
+custom_app.extension = Code d'application
+custom_app.extension.tooltip = Code pour activer cette application personnalisée. Le code doit être unique dans tous le système (ne doit pas être utilisé pour représenter une extension, groupe de sonnerie, file d'attente, code de fonction, etc.)
+custom_app.general = Général
+custom_app.mod_dest = Module de destination
+custom_app.mod_dest.custom = Personnalisé
+custom_app.mod_dest.select = Choisir module
+custom_app.mod_dest.terminate_call = Fin d'appel
+custom_app.status = Activé
+custom_app.status.tooltip = Active/désactive cette application personnalisée
+menu.custom_applications = Applications personnalisées
+module.custom_app = Applications personnalisées

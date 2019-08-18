@@ -1,0 +1,12 @@
+languages = Langues
+languages.description = Description
+languages.description.tooltip = Description qui identifie cette langue
+languages.destination = Destination
+languages.general = Général
+languages.langcode = Langue
+languages.langcode.tooltip = La langue choisie
+languages.mod_dest = Module de destination
+languages.name = Nom
+languages.name.tooltip = Nom court (doit être unique)
+menu.languages = Langues
+module.languages = Languaes

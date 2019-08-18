@@ -1,0 +1,26 @@
+menu.paging_and_intercom = Paging & Intercom
+module.paging = Paging & Intercom
+paging = Paging & Intercom
+paging.description = Description
+paging.description.tooltip = Description courte pour identifier ce paging
+paging.duplex = Audio duplex
+paging.duplex.tooltip = Habituellement, l'intercom et le paging fonctionnent dans un sens uniquement. Néanmoins vous pouvez activer l'audio en duplex pour pouvoir transmettre et écouter en meme temps. Cela implique que l'extension distante dispose d'un micro.
+paging.extensions = Extensions
+paging.extensions.invalid = Veuillez saisir au moins une extension
+paging.extensions.tooltip = Liste des extensions
+paging.extension = Code
+paging.extension.tooltip = Numéro pour joindre cet équipement
+paging.general = Général
+paging.ignore = Ignorer les renvois
+paging.ignore.tooltip = Ignore les renvois configurés sur le périphérique distant
+paging.quiet = Mode discret
+paging.quiet.tooltip = Ne joue pas de bip lors de l'appel
+paging.record = Enregistrer
+paging.record.tooltip = Enregistre dans un fichier audio
+paging.seconds =
+	[one] 1 Seconde
+	[other] {0} Secondes
+paging.skip_busy = Ignorer occupés
+paging.skip_busy.tooltip = Appelle uniquement les périphériques marqués comme non utilisés (NOT_INUSE). Cette option ne fonctionne qu'avec les équipements SIP ne diposant pas du double appel. Dans tous les cas, ne vous appuyez pas trop sur cette fonction.
+paging.timeout = Délai d'établissement
+paging.timeout.tooltip = Spécifie la durée de tentative de l'etablissement de l'appel. passé cette durée, l'appel sera raccroché si le périphérique n'a pas décroché.

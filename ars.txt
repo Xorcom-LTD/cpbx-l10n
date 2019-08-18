@@ -1,0 +1,11 @@
+ars = Discrimination (LCR)
+ars.all_outbound_routes = -- Toutes routes sortantes --
+ars.description = Description
+ars.description.tooltip = Une courte description de cette discrimination.
+ars.enabled = Activé
+ars.general = Général
+ars.members = Routes membres de la discrimination
+ars.outbound_route_id = Route sortante
+ars.time_group_id = Condition horaire
+menu.route_selections = Discrimination (LCR)
+module.ars = Discrimination (LCR)

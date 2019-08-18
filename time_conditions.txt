@@ -1,0 +1,16 @@
+menu.time_conditions = Conditions horaires
+module.time_conditions = Conditions horaires
+time_conditions = Conditions horaires
+time_conditions.cancel = Annuler
+time_conditions.delete = Supprimer
+time_conditions.description = Description
+time_conditions.description.tooltip = Courte description pour identifier cette condition horaires.
+time_conditions.falsegoto = Destination si l'horaire ne correspond pas %s
+time_conditions.general = Conditions horaires
+time_conditions.modfalse = Module Faux
+time_conditions.modtrue = Module Vrai
+time_conditions.save = Sauvegarder
+time_conditions.time_group_id = Groupe horaires
+time_conditions.time_group_id.tooltip = Selectionner un groupe horaires créé dans Groupes horaires. Les horaires correspondant seront envoyés à la destination correspondante.
+time_conditions.update = Mettre à jour
+time_conditions.truegoto = Destination si l'horaire correspond %s

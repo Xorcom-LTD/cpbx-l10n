@@ -1,0 +1,16 @@
+call_back = Rappel
+call_back.class_of_service_id = Classe de service
+call_back.class_of_service_id.tooltip = Classe de service utilisée pour le rappel
+call_back.delay = Délai
+call_back.delay.tooltip = Délai (en secondes) avant de lancer le rappel. Choisir 0 pour lancer le rappel immédiatement
+call_back.description = Description
+call_back.description.tooltip = Description courte pour ce rappel
+call_back.destination = Destination
+call_back.dialnumber = Numéro
+call_back.dialnumber.tooltip = Le numéro qui sera utilisé pour lancer le rappel.
+call_back.dialprefix = Préfixe de numérotation
+call_back.dialprefix.tooltip = Préfixe à ajouter à ce numéro pour lancer l'appel
+call_back.general = Général
+call_back.mod_dest = Module de destination
+menu.call_back = Rappel
+module.call_back = Rappel

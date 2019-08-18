@@ -1,0 +1,2 @@
+vm_bodytext = Vous avez un nouveau message vocale d'une durée de ${VM_DUR} secondes, laissé par le numéro ${VM_CALLERID} le ${VM_DATE}.\nLe message se trouve en pièce jointe, vous pouvez aussi appeler *97 depuis votre téléphone, ou en composant *98 depuis un autre téléphone.
+vm_subject = ${VM_MSGNUM} nouveau(x) message(s) pour la boite vocale ${VM_MAILBOX} du ${VM_CALLERID} reçu à ${VM_DATE}

@@ -1,0 +1,10 @@
+menu.announcements = Annonces
+module.preannoun = Annonces
+preannoun = Annonces
+preannoun.description = Description
+preannoun.description.tooltip = Description qui identifie cette annonce
+preannoun.destination = Destination après lecture de l' annonce %s
+preannoun.general = Général
+preannoun.mod_dest = Module de destination
+preannoun.recording_id = Message
+preannoun.recording_id.tooltip = Message à diffuser dans ce annonce

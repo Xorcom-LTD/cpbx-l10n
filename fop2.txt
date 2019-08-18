@@ -1,0 +1,8 @@
+menu.fop2 = POCP
+menu.fop2_admin = Gestionnaire FOP2
+module.fop2 = POPC
+module.fop2_admin = Gestionnaire FOP2
+fop2.general = Général
+fop2_admin.general = Général
+fop2.fop2 = Gestionnaire FOP2
+fop2.fop2admin = Gestionnaire FOP2
