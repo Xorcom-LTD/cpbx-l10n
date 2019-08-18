@@ -1,4 +1,4 @@
-import_extensions = Import d'extensions
+import_extensions = Importer/Exporter extensions
 import_extensions.any_cid = Any CID
 import_extensions.channel.invalid = Canal FXS {0} non disponible. Veuillez vérifier que ce canal est disponible et configuré
 import_extensions.class_of_service_id = Classe de service
@@ -77,5 +77,5 @@ import_extensions.technology = Technologie
 import_extensions.technology.not_match = Impossible de changer la technologie de l'équipement en {0}
 import_extensions.technology.tooltip = Technologie équipement
 import_extensions.technology.invalid = La technologie '{0}' de l'&quipement {0} est invalide. Veuillez choisir entre SIP, IAX et FXS.
-menu.import_extensions = Import d'extensions
-module.import_extensions = Import d'extensions
+menu.import_extensions = Imp./Exp. extensions
+module.import_extensions = Importer/Exporter extensions

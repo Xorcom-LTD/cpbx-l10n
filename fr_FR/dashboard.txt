@@ -1,7 +1,7 @@
 dashboard.asterisk = Asterisk
-dashboard.asterisk_uptime = Uptime Asterisk
+dashboard.asterisk_uptime = Durée de fonctionnement Asterisk
 dashboard.available = Disponible
-dashboard.current_time = Heure courante
+dashboard.current_time = Heure actuelle
 dashboard.dahdi = DAHDi
 dashboard.days =
 	[0]
@@ -23,7 +23,7 @@ dashboard.seconds =
 	[0]
 	[one] , 1 seconde
 	*[other] , {0} secondes
-dashboard.server_uptime = Uptime serveur
+dashboard.server_uptime = Durée de fonctionnement Serveur
 dashboard.services_status = Status services
 dashboard.ssh = SSH
 dashboard.system_usage = Utilisation système
@@ -33,3 +33,10 @@ dashboard.used = Utilisé
 dashboard.unavailable = Non/A
 menu.dashboard = Infos système
 module.dashboard = Infos système
+dashboard.memory = Mémoire
+dashboard.service_active = Actif
+dashboard.service_inactive = Inactif
+dashboard.service_unknown = Inconnu
+dashboard.loadavg = Charge moyenne
+dashboard.active_calls = Appels actifs
+dashboard.active_channels = Canaux actifs

@@ -1,0 +1,7 @@
+menu.my_phonebook = Annuaire
+module.my_phonebook = Annuaire
+my_phonebook.message = Numéro de téléphone
+my_phonebook.title = Numéro de téléphone
+my_phonebook.confirm = Appeller maintenant
+my_phonebook.cancel = Annuler
+my_phonebook.click_to_dial = Click to Dial

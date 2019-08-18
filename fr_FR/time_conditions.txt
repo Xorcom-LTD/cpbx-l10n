@@ -13,3 +13,4 @@ time_conditions.save = Sauvegarder
 time_conditions.time_group_id = Groupe horaires
 time_conditions.time_group_id.tooltip = Selectionner un groupe horaires créé dans Groupes horaires. Les horaires correspondant seront envoyés à la destination correspondante.
 time_conditions.update = Mettre à jour
+time_conditions.truegoto = Destination si l'horaire correspond %s

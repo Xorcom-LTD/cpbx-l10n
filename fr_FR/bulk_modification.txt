@@ -1,6 +1,6 @@
 bulk_modification.add_extension = Ajouter extension
 bulk_modification.bulk-accountcode = Code affaire
-bulk_modification.bulk-accountcode.tooltip = Ce champs, si renseigné, est utiliser pour créer les codes affaires dans les CDR.
+bulk_modification.bulk-accountcode.tooltip = Ce champ, si renseigné, est utiliser pour créer les codes affaires dans les CDR.
 bulk_modification.bulk-class_of_service_id = Classe de service
 bulk_modification.bulk-class_of_service_id.tooltip = Le dialplan peut être ségmenté en sections, appelées classes de services (CoS). les classes de services sont des unitées organisationnelles dans le dialplan, et permettent de garder les différentes sections du diaplan indépendantes les unes des autres. PBX utilise les classes de service pour améliorer la sécurité entre les différentes parties du dialplan, mais aussi pour fournir différents droits à différentes groupes d'utilisateurs.
 bulk_modification.bulk-dialoptions = Options d'appels (Asterisk)
@@ -28,7 +28,7 @@ bulk_modification.field.class_of_service_id = Classe de service
 bulk_modification.field.dialoptions = Options d'appels (Asterisk)
 bulk_modification.field.language = Langue
 bulk_modification.field.mohsuggest = Musique d'attente
-bulk_modification.field.none = Choisir un champs
+bulk_modification.field.none = Choisir un champ
 bulk_modification.field.ringtime = Durée de sonnerie
 bulk_modification.field.tooltip = Champs à modifier dans les extensions sélectionées
 bulk_modification.general = Général
