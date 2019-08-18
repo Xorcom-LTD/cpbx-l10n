@@ -1,6 +1,8 @@
 menu.paging_and_intercom = Paging & Intercom
 module.paging = Paging & Intercom
 paging = Paging & Intercom
+paging.announcement = Announcement
+paging.announcement.tooltip = The announcement that will be played to the paged numbers
 paging.description = Description
 paging.description.tooltip = Short description to identify this paging
 paging.duplex = Duplex Audio
@@ -15,7 +17,7 @@ paging.general = General
 paging.ignore = Ignore Forward Call
 paging.ignore.tooltip = Ignore attempts to forward the call
 paging.invalid.already_exists = Invalid Paging number {0}. The number is in use by {1} module.
-paging.quiet = Quite Mode
+paging.quiet = Quiet Mode
 paging.quiet.tooltip = Quiet, do not play beep to caller
 paging.record = Record Paging
 paging.record.tooltip = Record the page into a file

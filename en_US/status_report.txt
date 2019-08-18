@@ -56,3 +56,9 @@ status_report.active_channels = Active Channels
 module.status_report = Status Report
 menu.pbx_reports = PBX Reports
 menu.status = Status
+status_report.statusval =
+	[0] Idle
+	[1] In Use
+	[2] Busy
+	[4] Unavailable
+	*[] {1}

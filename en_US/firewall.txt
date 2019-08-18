@@ -32,5 +32,6 @@ firewall.source.invalid = Rule source address must be valid or empty (any)
 firewall.whitelist = Whitelist
 firewall.whitelist.description = Description
 firewall.whitelist.host = Host
+firewall.host.invalid = Host address {0} is invalid. Must be an IP address. You may use CIDR notation (Example: 192.168.40.38/16, 192.167.51.14)
 menu.firewall = Firewall
 module.firewall = Firewall

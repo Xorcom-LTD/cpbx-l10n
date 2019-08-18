@@ -13,3 +13,6 @@ pickup_group.general = General
 pickup_group.member = Member
 pickup_group.member.tooltip = Indicate if this extension is a member of this pickup group
 pickup_group.no_options = Extensions must be designated as a member and/or be allowed to pick up.
+pickup_group.note = Note
+pickup_group.limit_exceeded = No more than 64 pickup groups can be defined.
+pickup_group.limit_exceeded_warning = The number of defined pickup groups ({0}) exceeds the maximum allowed 64. As a result, some of the pickup groups won't take effect.

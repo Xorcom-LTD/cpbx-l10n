@@ -1,1 +1,3 @@
 fxs_device.channel_id.invalid = Please select a valid Device Channel
+fxs_device.hotline_number.invalid =  Hotline Number must be a dialable number or left empty
+fxs_device.hotline_timeout.invalid = Hotline Timeout must be between 0 and 120

@@ -27,6 +27,7 @@ hot_desking.nat.auto_force.tooltip = Set the force_rport option if Asterisk dete
 hot_desking.nat.comedia.tooltip = Send media to the port Asterisk received it from regardless of where the SDP says to send it.
 hot_desking.nat.force.tooltip = Pretend there was an rport parameter even if there wasn't.
 hot_desking.nat.no.tooltip = Do no special NAT handling other than RFC3581.
+hot_desking.nat.no.mt_tooltip = Do no special NAT handling other than RFC3581. <b>(The only option allowed for MT System)</b>
 hot_desking.nat.tooltip = NAT (Network Address Translation) is a technology most commonly used by firewalls and routers to allow multiple devices on a LAN with "private" IP addresses to share a single public IP address. A private IP address is an address, which can only be addressed from within the LAN, but not from the Internet outside the LAN.
 hot_desking.permit = Permit
 hot_desking.permit.tooltip = In a user/peer definition, you may limit the traffic to and from this peer to a certain IP or network. (Example: permit=192.168.40.0/255.255.255.0 allows traffic from this network).
@@ -52,3 +53,7 @@ hot_desking.mobile-number = Number
 hot_desking.mobile-number.tooltip = Number to dial in order to reach the mobile device.
 hot_desking.custom-dialstring = Dialstring
 hot_desking.custom-dialstring.tooltip = Custom dialstring used by this device (eg. Local/12345@mycontext).
+hot_desking.hotline_number = Hotline Number
+hot_desking.hotline_number.tooltip = Number to dial automatically when the phone is picked up. Leave empty to disable this feature.
+hot_desking.hotline_timeout = Hotline Timeout
+hot_desking.hotline_timeout.tooltip = Number of seconds to wait for input. Specify zero seconds to dial the hotline number immediately.

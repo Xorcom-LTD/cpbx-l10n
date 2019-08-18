@@ -1,4 +1,5 @@
 menu.voicemail_settings = Voicemail Settings
+menu.voicemail_settings_submenu = Voicemail Settings
 module.voicemail_general = Voicemail Settings
 voicemail_general.backupdeleted = Backup Deleted
 voicemail_general.backupdeleted.tooltip = Maximum number of messages allowed in the Deleted folder.

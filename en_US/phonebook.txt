@@ -58,6 +58,7 @@ phonebook.show_in_portal = Show In Portal
 phonebook.show_in_portal.tooltip = Show this phonebook in Portal
 phonebook.update = Update
 phonebook.update_successful = Updated Successfully
+phonebook.dlink = D-Link
 phonebook.fanvil = Fanvil
 phonebook.yealink = Yealink
 phonebook.xorcom = Xorcom

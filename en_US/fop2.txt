@@ -1,7 +1,4 @@
-menu.fop2_menu = Operator
-menu.fop2_submenu = Switchboard
-menu.fop2 = Switchboard
-menu.fop2_admin_submenu = FOP2 Manager
+menu.fop2 = FOP2 Switchboard
 menu.fop2_admin = FOP2 Manager
 module.fop2 = Switchboard
 module.fop2_admin = FOP2 Manager
