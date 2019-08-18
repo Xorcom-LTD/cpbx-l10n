@@ -1,9 +1,9 @@
-﻿menu.trunks = Lignes (Trunks)
-module.trunks = Lignes (Trunks)
-trunks = Lignes (Trunks)
+﻿menu.trunks = Lignes
+module.trunks = Lignes
+trunks = Lignes
 trunks.advanced = Avancées
 trunks.class_of_service_id = Classe de service
-trunks.class_of_service_id.tooltip = Classe de service associée à ce trunk.
+trunks.class_of_service_id.tooltip = Classe de service associée à cette ligne.
 trunks.codecs = Codecs
 trunks.codecs.tooltip = Liste des codecs autorisés. L'ordre dans lequel les codecs sont listés determine leur ordre de préférence.Si vous select au moins un codec, le paramètre "disallow=all" sera également généré.
 trunks.custom_settings = Paramètres personnalisés
@@ -102,3 +102,10 @@ trunks.cos.warning = L'action que vous allez effectuer peut créer des vulnérab
 trunks.cos.warning.title = Attention
 trunks.cos.warning.confirm = Je comprends et confirme
 trunks.cos.warning.cancel = Annuler mes modifications
+trunks.overwrite_cid = Remplacer CID
+menu.trunks = Lignes
+module.trunks = Lignes
+trunks = Lignes
+trunks.use_incoming_cid = Utiliser le CID entrant
+../en_US/trunks.txt:139:trunks.use_incoming_cid.tooltip = Utiliser le CID entrant. Seulement autorisé si Remplacer CID est défini à <b>Jamais</b>.
+

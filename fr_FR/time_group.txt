@@ -35,3 +35,6 @@ time_group.tuesday = Mardi
 time_group.wday_end = Dernier jour de la semaine
 time_group.wday_start = Premier jour de la semaine
 time_group.wednesday = Mercredi
+menu.time_groups = Groupes horaires
+module.time_group = Groupes horaires
+time_group = Groupes horaires

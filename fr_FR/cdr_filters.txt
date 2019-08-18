@@ -37,3 +37,4 @@ cdr_filters.general = Général
 cdr_filters.none = Aucun
 menu.cdr_filters = Filtres CDR
 module.cdr_filters = Filtres CDR
+cdr_filters.conditions.search_by.calltype = Type d'appel

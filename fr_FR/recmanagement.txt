@@ -28,3 +28,4 @@ recmanagement.default = Defaut
 recmanagement.none = Aucun
 recmanagement.name_must_be_unique = Le nom de l'enregistrement doit être unique
 recmanagement.recording_name_required = Le nom d'enregistrement est requis
+recmanagement.dial_code = Code à composer

@@ -2,3 +2,4 @@ cpbx.licenses_title.warning = ATTENTION ! LICENCE INVALIDE !
 cpbx.licenses_content.warning = La licence de ce système est invalide. <b>Votre IPBX pourrait ne pas fonctionner correctement</b>.<br/>La raison peut être une licence expirée, innexistante ou si votre IPBX ne peut joindre le serveur de licence. Veuillez contacter votre administrateur système.
 cpbx.licenses_confirm.warning = OK
 cpbx.ombu_allowed_extensions = Vous avez atteind la limite de licences de {0} extensions.<br/>Pour acheter des licences supplémentaires, veuillez contacter votre installateur.
+cpbx.system_name = Nom système: <strong>{0}</strong>

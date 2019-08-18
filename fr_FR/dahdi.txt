@@ -1,13 +1,13 @@
 menu.channel_groups = Groupe de faisceaux
 menu.clock_sources = Source d'horloge
 menu.interfaces = Interfaces
-menu.profile_assignments = Profiles assignés
+menu.profile_assignments = Profils assignés
 menu.telephony = Téléphonie
 menu.telephony_settings = Paramètres de téléphonie
 module.dahdi_clocksource = Source d'horloge
 module.dahdi_groups = Groupe de faisceaux
 module.dahdi_hardware = Interfaces
-module.dahdi_spans = Profiles assignés
+module.dahdi_spans = Profils assignés
 profiles_bri_audio_section = Audio
 profiles_bri_callerid_section = Numéro présenté
 profiles_bri_description = Description

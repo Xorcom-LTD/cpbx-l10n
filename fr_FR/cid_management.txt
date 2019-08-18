@@ -28,3 +28,8 @@ cid_management.v.append_to_cid_number = Champs "Ajouter après" du modificateur 
 cid_management.v.skip_on_cid_number = Champs "Ignorer" du modificateur de numero CID
 cid_management.v.cid_number_length = Champs "Taille" du modificateur de numero CID
 cid_management.none = Aucun
+cid_management.phone_number = Numéro CID original
+cid_management.phone_number_result = Numéro CID modifié
+cid_management.cid_name = Nom CID original
+cid_management.cid_name_result = Nom CID modifié
+
