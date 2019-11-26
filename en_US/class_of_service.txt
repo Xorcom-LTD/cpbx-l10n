@@ -20,3 +20,5 @@ module.class_of_service = Class of Service
 class_of_service.delete_default_cos = The default Class of Service cannot be removed.
 class_of_service.delete_system_cos = Cannot remove system Class of Service
 class_of_service.bad_destination_source = {0} - Bad Destination
+class_of_service.used_by_limited_extensions = This class of service is used to limit dial capabilities of extensions. In order to remove this class of service, please change the value of "Limit Extension CoS" in <a onclick="pbx_request('system_general',null,'add',0);">System General</a>.
+class_of_service.used_by_limited_extensions.nohtml = This class of service is used to limit dial capabilities of extensions. In order to remove this class of service, please change the value of "Limit Extension CoS" in System General.

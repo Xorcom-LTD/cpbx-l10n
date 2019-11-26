@@ -1,0 +1,14 @@
+concurrent_calls = Concurrent Calls
+menu.concurrent_calls = Concurrent Calls
+module.concurrent_calls = Concurrent Calls
+concurrent_calls.total = Combined Concurrent Calls
+concurrent_calls.trunk = Concurrent Calls for trunk "{0}"
+concurrent_calls.from = Starting From
+concurrent_calls.from.tooltip = From which time to display calls.
+concurrent_calls.days = Length
+concurrent_calls.days.tooltip = Amount of time to display calls for.
+concurrent_calls.24h = 24 Hours
+concurrent_calls.7d = 7 days
+concurrent_calls.30d = 30 days
+concurrent_calls.refresh = Refresh
+concurrent_calls.general = General

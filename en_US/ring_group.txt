@@ -31,3 +31,5 @@ ring_group.strategy.one_by_one = One by One
 ring_group.strategy.ringall = Ringall
 ring_group.strategy.tooltip = Ring Strategy
 destination_type.ringgroup = Ring Group
+ring_group.alert-info = Alert Info
+ring_group.alert-info.tooltip = Optional SIP Alert-Info header content, can be used trigger specific device features such as customized ringtones.

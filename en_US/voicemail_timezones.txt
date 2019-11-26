@@ -4,6 +4,7 @@ voicemail_timezones = Voicemail Timezones
 voicemail_timezones.confirm_delete = Are you sure that you want delete this timezone?
 voicemail_timezones.delete = Delete
 voicemail_timezones.general = General
+voicemail_timezones.inuse = Cannot remove this object, it is being used by {0}
 voicemail_timezones.none = None
 voicemail_timezones.timezone = Time Zone
 voicemail_timezones.timezone.tooltip = Timezone to be selected.

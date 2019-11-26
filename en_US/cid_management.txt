@@ -22,7 +22,6 @@ cid_management.skip = Skip
 cid_management.skip.help = specify where to start modifying the CID number. A positive skip value of x will ignore the the leading x digits.  A negative value of x will start x digits before the end of incoming CID number.
 cid_management.length = Length
 cid_management.length.help = determines the length of the modified CID number. If length is zero, all digits after the start position will be used. Define a negative length of x in order to discard the x trailing digits.
-cid_management.v.cid.in_use = Cannot remove the CID Modifier. It is currently in use by the {0} module ({1}).
 cid_management.v.prepend_to_cid_name = "Prepend" field on CID Name Settings
 cid_management.v.append_to_cid_name = "Append" field on CID Name Settings
 cid_management.v.replace_cid_name_with = "Replace With" field on CID Name Settings
