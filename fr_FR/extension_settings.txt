@@ -1,5 +1,5 @@
-extension_settings.voicemail = Activer boite vocale
-extension_settings.voicemail.tooltip = Active ou désactive la boite vocale
+extension_settings.enable_voicemail = Activer boite vocale
+extension_settings.enable_voicemail.tooltip = Active ou désactive la boite vocale
 extension_settings.attach = Joindre message
 extension_settings.attach.tooltip = Attache l'enregistrement en piece jointe de l'email envoyé.
 extension_settings.cfb.destination.empty = Pas de destination spécifiée pour le renvoi  CFB

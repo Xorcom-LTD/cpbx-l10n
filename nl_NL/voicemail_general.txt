@@ -1,4 +1,5 @@
 menu.voicemail_settings = Voicemailinstellingen
+menu.voicemail_settings_submenu = Voicemailinstellingen
 module.voicemail_general = Voicemailinstellingen
 voicemail_general.backupdeleted = Back-up Verwijderd
 voicemail_general.backupdeleted.tooltip = Maximaal aantal berichten toegelaten in de map Verwijderd.

@@ -12,6 +12,6 @@ class_of_service.dialrule_id.tooltip = Vastgestelde belbeperkingsregels voor dez
 class_of_service.feature_code_category_id = Functiecategorie
 class_of_service.feature_code_category_id.tooltip = Toegelaten functies voor deze Class of Service.
 class_of_service.general = Algemeen
-class_of_service.lastdest = Laatste Ontvanger
 menu.class_of_service = Class of Service
+menu.class_of_service_subsubmenu = Class of Service
 module.class_of_service = Class of Service

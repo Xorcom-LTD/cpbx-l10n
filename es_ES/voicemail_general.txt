@@ -1,4 +1,5 @@
 menu.voicemail_settings = Configuración VM
+menu.voicemail_settings_submenu = Configuración VM
 module.voicemail_general = Configuración del Correo de Voz
 voicemail_general.backupdeleted = Respaldo Eliminado
 voicemail_general.backupdeleted.tooltip = El número máximo de mensajes permitidos en la carpeta de eliminados.
@@ -37,7 +38,7 @@ voicemail_general.usedirectory = Usar Directorio
 voicemail_general.usedirectory.tooltip = Permiso encontrar entradas para avance/componer desde el directorio.
 voicemail_general.vm_callerid = Identificador de Llamadas (CID) de Correo de Voz  (persona dejando vm)
 voicemail_general.vm_category = Configurar categorías de correo de voz
-voicemail_general.vm_cidname = Nombre de Identificador de Llamadas del Correo de Voz 
+voicemail_general.vm_cidname = Nombre de Identificador de Llamadas del Correo de Voz
 voicemail_general.vm_cidnum = Número de Identificación de Llamadas de Correo de Voz
 voicemail_general.vm_date = Fecha de Correo de Voz
 voicemail_general.vm_duration = Duración de Correo de Voz

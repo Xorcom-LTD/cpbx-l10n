@@ -1,5 +1,5 @@
-extension_settings.voicemail = Habilitar Correo de Voz
-extension_settings.voicemail.tooltip = Habilitar o des-habilitar el correo de voz.
+extension_settings.enable_voicemail = Habilitar Correo de Voz
+extension_settings.enable_voicemail.tooltip = Habilitar o des-habilitar el correo de voz.
 extension_settings.attach = Adjuntar Correo de Voz
 extension_settings.attach.tooltip = Adjunta correo de voz a correo electrónico.
 extension_settings.cfb.destination.empty = No se ha especificado un destino para CFB

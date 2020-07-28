@@ -1,16 +1,21 @@
 class_of_service = Class of Service
 class_of_service.ars_id = Route Selection
 class_of_service.ars_id.tooltip = Routes to use for this Class of Service
+class_of_service.ars_id.invalid = Route selection must be valid or empty.
 class_of_service.badnumber = Bad Destination
 class_of_service.configurations = Configurations
 class_of_service.cos = Class of Service
 class_of_service.cos.tooltip = Unique name for this Class of Service Name. Alphanumeric values with dash and underscore are allowed.
+class_of_service.cos.invalid = Name is required, must be unique and may only contain alfanumeric characters, dash or underscore.
 class_of_service.description = Description
 class_of_service.description.tooltip = Free-text description of this Class of Service
+class_of_service.description.invalid = Description is required.
 class_of_service.dialrule_id = Dial Restrictions
 class_of_service.dialrule_id.tooltip = Dial Restriction Rule to be associated with this Class of Service
+class_of_service.dialrule_id.invalid = Dial Restrictions must be valid or empty.
 class_of_service.feature_code_category_id = Feature Category
 class_of_service.feature_code_category_id.tooltip = Feature Category to be associated with this Class of Service
+class_of_service.feature_code_category_id.invalid = Feature Category must be valid or empty.
 class_of_service.general = General
 class_of_service.use_as_default = Use as extension Default
 class_of_service.use_as_default.tooltip = Mark this Class of Service to be the extension default
@@ -22,3 +27,4 @@ class_of_service.delete_system_cos = Cannot remove system Class of Service
 class_of_service.bad_destination_source = {0} - Bad Destination
 class_of_service.used_by_limited_extensions = This class of service is used to limit dial capabilities of extensions. In order to remove this class of service, please change the value of "Limit Extension CoS" in <a onclick="pbx_request('system_general',null,'add',0);">System General</a>.
 class_of_service.used_by_limited_extensions.nohtml = This class of service is used to limit dial capabilities of extensions. In order to remove this class of service, please change the value of "Limit Extension CoS" in System General.
+class_of_service.bad_destination_id.invalid = Bad destination is required and must be valid.

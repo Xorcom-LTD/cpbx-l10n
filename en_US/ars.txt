@@ -10,3 +10,7 @@ ars.time_group_id = Time Group
 menu.route_selections = Route Selections
 module.ars = Route Selections
 ars.none = None
+ars_member.outbound_route_id.invalid = Outbound route is required and must be valid.
+ars_member.time_group_id.invalid = Time group must be valid or empty.
+ars_member.ars_id.invalid = Route selection is required and must be valid.
+ars.description.invalid = Description is required and must be unique.

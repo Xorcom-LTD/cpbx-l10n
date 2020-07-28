@@ -58,3 +58,4 @@ import_extensions.channel.type.invalid = Channel {0} is not FXS
 import_extensions.technology.invalid = Technology {0} is invalid
 import_extensions.extension_inuse = Extension {0} is referenced by other modules and cannot be removed
 import_extensions.channel.duplicate = Device channel '{0}' is used elsewhere. Device channel must be unique.
+import_extensions.invalid_hotdesk_technology = It is not possible to create {0} hotdesk devices.

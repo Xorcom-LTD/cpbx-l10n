@@ -12,6 +12,6 @@ class_of_service.dialrule_id.tooltip = Restricciones de Marcado establecidos par
 class_of_service.feature_code_category_id = Funciones Telefónicas
 class_of_service.feature_code_category_id.tooltip = Funciones Telefónicas permitidas para esta Clase de Servicio
 class_of_service.general = General
-class_of_service.lastdest = Ultimo Destino
 menu.class_of_service = Clase de Servicio
+menu.class_of_service_subsubmenu = Clase de Servicio
 module.class_of_service = Clase de Servicio

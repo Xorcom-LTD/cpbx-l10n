@@ -1,0 +1,11 @@
+cloudphone_device.deny.invalid = Deny is invalid. Please type IP address with Subnet mask. You may use CIDR notation. (Example: 192.168.40.38/16)
+cloudphone_device.permit.invalid = Permit is invalid. Please type IP address with Subnet mask. You may use CIDR notation. (Example: 192.168.40.38/16)
+cloudphone_device.user.duplicate = Device User already exists
+cloudphone_device.user.invalid = Please enter a valid Device User
+cloudphone_device.user.spaces = Device User may not contain any spaces
+cloudphone_device.secret.invalid = Password cannot be empty
+cloudphone_device.notdistinct = Cannot have more then one CloudPhone device per extension
+cloudphone_device.limit_exceeded =
+	[0] The licenses present on this system do not allow the creation of CloudPhone devices.
+	[one] The licenses present on this system only allows one CloudPhone device, no more devices may be created.
+	*[other] The licenses present on this system allow up to {0} CloudPhone devices, no more devices may be created.

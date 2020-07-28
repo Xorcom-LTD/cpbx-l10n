@@ -1,5 +1,5 @@
-extension_settings.voicemail = 开启语音邮箱
-extension_settings.voicemail.tooltip = 开启或关闭语音邮箱。
+extension_settings.enable_voicemail = 开启语音邮箱
+extension_settings.enable_voicemail.tooltip = 开启或关闭语音邮箱。
 extension_settings.attach = 语音附件
 extension_settings.attach.tooltip = 添加附件给语音邮箱。
 extension_settings.default = 默认

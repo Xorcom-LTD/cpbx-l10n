@@ -2,3 +2,6 @@ device.description.invalid = Please enter a valid Device Description
 device.description.duplicate = Device Description already taken
 device.profile_id.invalid = Please select a Device Profile
 device.user_device.exists = User Device already exists. {0} ({1}). (must be unique)
+device.profile_id.incompatible = Device profile must be compatible with device technology.
+device.hotdesk_unsupported = Hotdesking not supported for this device technology.
+device.extension_id.invalid = Extension must be valid or empty.

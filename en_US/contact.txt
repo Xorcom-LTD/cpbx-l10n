@@ -1,1 +1,1 @@
-contact.extension_id.invalid = Invalid extension
+contact.phonebook_id.invalid = Invalid phonebook

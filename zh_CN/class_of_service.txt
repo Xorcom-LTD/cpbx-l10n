@@ -12,6 +12,6 @@ class_of_service.dialrule_id.tooltip = Dial restriction rules set for this Class
 class_of_service.feature_code_category_id = 功能类别
 class_of_service.feature_code_category_id.tooltip = Features allowed for this Class of Service.
 class_of_service.general = 基本设置
-class_of_service.lastdest = 最后目的地
 menu.class_of_service = 服务级别
+menu.class_of_service_subsubmenu = 服务级别
 module.class_of_service = 服务级别

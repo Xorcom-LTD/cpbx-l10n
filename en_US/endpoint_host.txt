@@ -1,0 +1,6 @@
+endpoint_host.label.invalid = Label is required and must be unique.
+endpoint_host.hostname.invalid = Hostname is required.
+endpoint_host.sip_port.invalid = SIP port must be a valid network port or empty.
+endpoint_host.iax2_port.invalid = IAX2 port must be a valid network port or empty.
+endpoint_host.http_port.invalid = HTTP port must be a valid network port or empty.
+endpoint_host.https_port.invalid = HTTPS port must be a valid network port or empty.

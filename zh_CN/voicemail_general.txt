@@ -1,4 +1,5 @@
 menu.voicemail_settings = 语音邮箱设置
+menu.voicemail_settings_submenu = 语音邮箱设置
 module.voicemail_general = 语音邮箱设置
 voicemail_general.backupdeleted = 备份已删除
 voicemail_general.backupdeleted.tooltip = Maximum number of messages allowed in the Deleted folder.
