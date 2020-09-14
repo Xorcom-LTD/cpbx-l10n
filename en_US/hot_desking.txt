@@ -1,7 +1,7 @@
 hot_desking = Hot Desking
 hot_desking.channel_id = Channel
 hot_desking.channel_id.tooltip = FXS channel for this device.
-hot_desking.cloudphone_no_host_note = The following must be set for Cloudphone to function: <br/> {0}
+hot_desking.cloudphone_no_hostname = <strong>Note!</strong> The selected profile does not define the external hostname which is required for CloudPhone to function.
 hot_desking.cloudphone_scan_for_provision = Scan for provisioning
 hot_desking.cloudphone_scan_for_provision.tooltip = Scan the QR code to provison the device
 hot_desking.cloudphone_send_qrcode = Send QR code
@@ -35,7 +35,6 @@ hot_desking.nat.force.tooltip = Pretend there was an rport parameter even if the
 hot_desking.nat.no.tooltip = Do no special NAT handling other than RFC3581.
 hot_desking.nat.no.mt_tooltip = Do no special NAT handling other than RFC3581. <b>(The only option allowed for MT System)</b>
 hot_desking.nat.tooltip = NAT (Network Address Translation) is a technology most commonly used by firewalls and routers to allow multiple devices on a LAN with "private" IP addresses to share a single public IP address. A private IP address is an address, which can only be addressed from within the LAN, but not from the Internet outside the LAN.
-hot_desking.note = Note!
 hot_desking.permit = Permit
 hot_desking.permit.tooltip = In a user/peer definition, you may limit the traffic to and from this peer to a certain IP or network. (Example: permit=192.168.40.0/255.255.255.0 allows traffic from this network).
 hot_desking.profile_id-cloudphone = Profile

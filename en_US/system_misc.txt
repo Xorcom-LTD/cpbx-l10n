@@ -62,3 +62,5 @@ system_misc.snmp.tooltip = Toggling this option will enable and disable SNMP ser
 system_misc.trapsink = Trap Sink
 system_misc.trapsink.tooltip = This field defines the host IP address where traps should be sent to.
 system_misc.trapsink.invalid = Trap Sink must be empty or a valid IP address.
+system_misc.default_backup_folder = Default Backup Folder
+system_misc.default_backup_folder.tooltip = Defines the default location where backups will be stored. Affects the backup & restore module, CLI commands and task scripts. Backups will be written to /var/lib/ombutel/static/backups by default.

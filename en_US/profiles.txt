@@ -254,5 +254,10 @@ profiles_cloudphone_videosupport_invalid = Video support is required and must be
 profiles_cloudphone_maxcallbitrate = Max Call BitRate
 profiles_cloudphone_maxcallbitrate_tooltip = Maximum bitrate for video calls (default 384 kb/s).
 profiles_cloudphone_maxcallbitrate_invalid = Maximum video call bitrate is required and must be greater than zero.
+profiles_cloudphone_provisioning_section = Provisioning
+profiles_cloudphone_external_hostname = External Hostname
+profiles_cloudphone_external_hostname_tooltip = External hostname or IP address of this PBX, optionally including the port number.
+profiles_cloudphone_remote_outbound_proxy = Outbound Proxy
+profiles_cloudphone_remote_outbound_proxy_tooltip = Outbound proxy that the CloudPhone application should use, optionally including the port number.
 profiles.used_as_anonymous_profile = Profile cannot be deleted, it is used by <a onclick="pbx_request('menu43');">SIP Settings</a> for incoming anonymous calls.
 profiles.used_as_anonymous_profile.nohtml = Profile cannot be deleted, it is used for incoming anonymous calls.

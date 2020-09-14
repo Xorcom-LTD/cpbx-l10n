@@ -6,7 +6,7 @@ h323_settings.codecs = Codecs
 h323_settings.codecs.tooltip = List of allowed codecs. The order in which the codecs are listed determines their order of preference. If you select at least one codec, the "disallow=all" parameter will be also generated.
 h323_settings.enabled = Enabled
 h323_settings.enabled.tooltip = Enabled or disable the H.323 option
-h323_settings.firewall_note = Make sure the port is open in the ADMIN/Security/Firewall/Services dialog.
+h323_settings.firewall_note = Please ensure that the H323 service is configured properly in the <a class='pointer' onclick="javascript:pbx_request('firewall')">Firewall Configuration</a>.
 h323_settings.general = General
 h323_settings.port = Bind Port
 h323_settings.port.tooltip = Port to bind to (H.323 standard port is 1720)
