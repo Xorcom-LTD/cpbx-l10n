@@ -1,5 +1,6 @@
 astmanager_users = Asterisk Manager Users
 astmanager_users.agent = Agent
+astmanager_users.all = All
 astmanager_users.call = Call
 astmanager_users.cdr = CDR
 astmanager_users.command = Command
