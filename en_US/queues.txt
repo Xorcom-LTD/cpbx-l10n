@@ -174,3 +174,7 @@ queues.agent_destination_source = {0} - Agent
 queues.infinite_loop = To avoid potential infinite loop, <b>Join Empty</b> option must be set to '<b>yes</b>' if the last destination of this queue points to itself.
 queues.alert-info = Alert Info
 queues.alert-info.tooltip = Optional SIP Alert-Info header content, can be used trigger specific device features such as customized ringtones.
+queues.custom_settings = Custom Settings
+queues.custom = Custom
+queues.name = Name
+queues.value = Value

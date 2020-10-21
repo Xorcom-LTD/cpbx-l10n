@@ -50,4 +50,6 @@ system_general.decline_unroutable = Decline Unroutable Incoming Calls
 system_general.decline_unroutable.tooltip = When enabled, incoming calls that cannot be routed to any destination will be declined immediately. When disabled, the caller is provided with an audible message noting that the call is unroutable.
 system_general.wakeup_call_settings = Wakeup-call Settings
 system_general.wkup_maxretries = Max Attempts
-system_general.wkup_maxretries.tooltip = Number of attempts the wakeup call will try when there is no answer
+system_general.wkup_maxretries.tooltip = Maximum number of wakeup call attempts that will be made.
+system_general.wkup_retrytime = Retry Interval
+system_general.wkup_retrytime.tooltip = Number of minutes between wakeup call attempts.
