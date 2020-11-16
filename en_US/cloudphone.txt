@@ -32,7 +32,7 @@ cloudphone.tls.tooltip = TLS Address
 cloudphone.udp = UDP
 cloudphone.udp.tooltip = UDP Address
 cloudphone.email_subject = Cloudphone Instructions for extension [extension]
-cloudphone.email_body = 
+cloudphone.email_body =
 	Congratulations, your CloudPhone is ready.<br>
 	To install and start making calls, please download the app to your device:<br><br>
 	iOS - https://apps.apple.com/us/app/xorcom-cloudphone/id1496782778<br>
@@ -41,3 +41,4 @@ cloudphone.email_body =
 	Make sure to have internet connection when you do that.
 cloudphone.push = Use Push Notifications
 cloudphone.push.tooltip = CloudPhone devices will by default receive push notifications from a remote server that maintains connectivity to the PBX on behalf of the device. This is done to reduce battery usage on CloudPhone devices but requires the PBX to be accessible externally. Disabling push notifications will allow the CloudPhone device to make and receive calls via the local network but will reduce battery life.
+cloudphone.qr_code_reset_warning = You are about to reset the device password and QR code. This action will immediately disconnect the extension's CloudPhone app. If the extension's email is set, the new QR code will be automatically sent by email to the user.

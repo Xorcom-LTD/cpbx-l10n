@@ -4,8 +4,10 @@ hot_desking.channel_id.tooltip = FXS channel for this device.
 hot_desking.cloudphone_no_hostname = <strong>Note!</strong> The selected profile does not define the external hostname which is required for CloudPhone to function.
 hot_desking.cloudphone_scan_for_provision = Scan for provisioning
 hot_desking.cloudphone_scan_for_provision.tooltip = Scan the QR code to provison the device
-hot_desking.cloudphone_send_qrcode = Send QR code
-hot_desking.cloudphone_send_qrcode.tooltip = Send QR code
+hot_desking.cloudphone_send_qrcode = Reset Password
+hot_desking.cloudphone_send_qrcode.tooltip =
+	Generates a new QR code and sends it to the extension email address.
+	This action will immediately disconnect the extension's CloudPhone app.
 hot_desking.codecs = Codecs
 hot_desking.codecs.tooltip = List of allowed codecs. The order in which the codecs are listed determines their order of preference. If you select at least one codec, the "disallow=all" parameter will be also generated.
 hot_desking.delete = Delete
