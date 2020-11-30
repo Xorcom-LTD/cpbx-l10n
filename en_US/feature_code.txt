@@ -146,3 +146,5 @@ menu.feature_codes = Feature Codes
 module.feature_code = Feature Codes
 feature_code.send_vm_msg = Send Voicemail Message
 feature_code.send_vm_msg.tooltip = Allows you to dial any extension and leave a voicemail message. For example, dialing the feature code immediately followed by * (star) and the extension number 2492 will allow you to leave a voicemail message for extension 2492. Feature must be enabled in the Feature Category associated with the extension.
+feature_code.remote_dnd = Remote DND
+feature_code.remote_dnd.tooltip = Toggles Do Not Disturb on another extension. You can either follow the prompts or (in expert mode) enter the feature code, followed by * (asterisk) and the extension number. The feature must be enabled in the Feature Category associated with the extension.

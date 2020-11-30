@@ -265,3 +265,5 @@ ombutel.extension_used_by_vmgroup = Voicemail cannot be disabled. It is a member
 ombutel.extension_used_by_vmgroup.nohtml = Voicemail cannot be disabled. It is a member of Voicemail Broadcast Group {1}.
 ombutel.apply_config_running = Cannot apply configuration, already in progress.
 menu.download_cdr_recordings = Download CDR Recordings
+ombutel.uses_recording = Cannot remove this recording, it is used by <a onclick="pbx_request('{0}','{1}','edit',{2});">{3}, {4}</a>.
+ombutel.uses_recording.nohtml = Cannot remove this recording, it is used by {3}, {4}.

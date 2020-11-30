@@ -45,7 +45,7 @@ extension_settings.personal_assistant.info = L'assistant personnel ne sera pas a
 extension_settings.personal_assitant = Assistant personnel
 extension_settings.personal_assitant.tooltip = Désactiver ne supprimera pas les paramètres de cette fonctionnalité, mais retirera l'accès à la fonctionnalité.
 extension_settings.phone_features = Fonctionnalités téléphoniques
-extension_settings.press = Appuyez sur %d
+extension_settings.press = Appuyez sur {0}
 extension_settings.ringtime = Durée de sonnerie
 extension_settings.ringtime.tooltip = Le nombre de secondes durant lesquelles le(s) périphérique(s) sonnent avant de passer sur la destination suivante
 extension_settings.saycid = Enoncer numéro appelant
@@ -65,4 +65,3 @@ menu.extension_settings = Extension Settings
 module.extension_settings = Mon extension
 menu.extension_settings = Paramètres extension
 module.extension_settings = Paramètres extension
-

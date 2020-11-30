@@ -3,7 +3,6 @@ module.cloudphone = CloudPhone
 
 cloudphone.add_extensions = Add Extensions
 cloudphone.bulk-extensions = Extensions List
-cloudphone.bulk-extensions.tooltip = List of extensions to re-send QR code to
 cloudphone.default_host = Cloudphone devices will not work as long as Default host address is set to "example.com". <br>To make the Cloudphone devices functional please set the actual PBX IP address in {0}
 cloudphone.emailsubject = Email Subject
 cloudphone.emailbody = Email Body
