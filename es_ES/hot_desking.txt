@@ -32,12 +32,8 @@ hot_desking.nat.tooltip = NAT (Network Address Translation) es la tecnología m�
 hot_desking.permit = Permitir
 hot_desking.permit.invalid = Permitir no es válido. Por favor introduzca la dirección IP con la máscara de Subred. Ud. puede utilizar registro CIDR. (Ejemplo: 192.168.40.38/16)
 hot_desking.permit.tooltip = En una definición de user/peer, es posible limitar el tráfico hacia y desde este punto a una determinada IP o red. (Ejemplo: Permitir = 192.168.40.0 / 255.255.255.0 permite el tráfico de esta red).
-hot_desking.profile_id-fxs = Perfil
-hot_desking.profile_id-fxs.tooltip = Configuración del perfil para dispositivos FXS
-hot_desking.profile_id-iax = Perfil
-hot_desking.profile_id-iax.tooltip = Configuración del perfil para dispositivos IAX2
-hot_desking.profile_id-sip = Perfil
-hot_desking.profile_id-sip.tooltip = Configuración del perfil para dispositivos SIP
+hot_desking.profile_id = Perfil
+hot_desking.profile_id.tooltip = Configuración del perfil para dispositivos
 hot_desking.ring_device = Timbrar Dispositivo
 hot_desking.ring_device.tooltip = Determina si las llamadas entrantes deben hacer que el dispositivo timbre.
 hot_desking.secret = Contraseña

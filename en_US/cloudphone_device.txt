@@ -4,8 +4,11 @@ cloudphone_device.user.duplicate = Device User already exists
 cloudphone_device.user.invalid = Please enter a valid Device User
 cloudphone_device.user.spaces = Device User may not contain any spaces
 cloudphone_device.secret.invalid = Password cannot be empty
-cloudphone_device.notdistinct = Cannot have more then one CloudPhone device per extension
-cloudphone_device.limit_exceeded =
-	[0] The licenses present on this system do not allow the creation of CloudPhone devices.
-	[one] The licenses present on this system only allows one CloudPhone device, no more devices may be created.
-	*[other] The licenses present on this system allow up to {0} CloudPhone devices, no more devices may be created.
+cloudphone_mobile.limit_exceeded =
+	[0] The licenses present on this system do not allow the creation of additional CloudPhone Mobile devices.
+	[one] The licenses present on this system only allows one CloudPhone Mobile device, no more devices may be created.
+	*[other] The licenses present on this system allow up to {0} CloudPhone Mobile devices, no more devices may be created.
+cloudphone_desktop.limit_exceeded =
+	[0] The licenses present on this system do not allow the creation of additional CloudPhone Desktop devices.
+	[one] The licenses present on this system only allows one CloudPhone Desktop device, no more devices may be created.
+	*[other] The licenses present on this system allow up to {0} CloudPhone Desktop devices, no more devices may be created.

@@ -30,12 +30,8 @@ hot_desking.nat.no.tooltip = Geen speciale NAT-verwerking uitvoeren behalve RFC3
 hot_desking.nat.tooltip = NAT (Network Address Translation) is een technologie die voornamelijk wordt gebruikt door firewalls en routers om meerdere toestellen op een LAN met "privé"-IP-adressen in staat te stellen een enkel publiek IP-adres te delen. Een privé-IP-adres is een adres dat je enkel kunt aanspreken vanaf de LAN, maar niet vanaf het internet buiten de LAN.
 hot_desking.permit = Toelaten
 hot_desking.permit.tooltip = In een gebruiker/peer-definitie kunt u het verkeer naar en van deze peer beperken tot een zeker IP of netwerk. (Bijvoorbeeld: permit=192.168.40.0/255.255.255.0 laat verkeer vanaf dit netwerk toe).
-hot_desking.profile_id-fxs = Profiel
-hot_desking.profile_id-fxs.tooltip = Instellingenprofiel voor FXS-toestellen
-hot_desking.profile_id-iax = Profiel
-hot_desking.profile_id-iax.tooltip = Instellingenprofiel voor IAX2-toestellen
-hot_desking.profile_id-sip = Profiel
-hot_desking.profile_id-sip.tooltip = Instellingenprofiel voor SIP-toestellen
+hot_desking.profile_id = Profiel
+hot_desking.profile_id.tooltip = Instellingenprofiel voor dit toestel
 hot_desking.ring_device = Toestel Laten Rinkelen
 hot_desking.ring_device.tooltip = Bepaalt of inkomende oproepen het toestel moeten laten rinkelen.
 hot_desking.secret = Wachtwoord

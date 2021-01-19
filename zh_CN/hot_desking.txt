@@ -30,12 +30,6 @@ hot_desking.nat.no.tooltip = Do no special NAT handling other than RFC3581.
 hot_desking.nat.tooltip = NAT (Network Address Translation) is a technology most commonly used by firewalls and routers to allow multiple devices on a LAN with "private" IP addresses to share a single public IP address. A private IP address is an address, which can only be addressed from within the LAN, but not from the Internet outside the LAN.
 hot_desking.permit = 允许
 hot_desking.permit.tooltip = In a user/peer definition, you may limit the traffic to and from this peer to a certain IP or network. (Examples: permit=192.168.40.0/255.255.255.0 allows traffic from this network).
-hot_desking.profile_id-fxs = Profile
-hot_desking.profile_id-fxs.tooltip = Settings Profile for FXS devices
-hot_desking.profile_id-iax = Profile
-hot_desking.profile_id-iax.tooltip = Settings Profile for IAX2 devices
-hot_desking.profile_id-sip = Profile
-hot_desking.profile_id-sip.tooltip = Settings Profile for SIP devices
 hot_desking.ring_device = 振铃设备
 hot_desking.ring_device.tooltip = Determines whether incoming calls should cause the device to ring.
 hot_desking.secret = 密码

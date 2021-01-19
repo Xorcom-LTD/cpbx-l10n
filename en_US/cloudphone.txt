@@ -4,40 +4,54 @@ module.cloudphone = CloudPhone
 cloudphone.add_extensions = Add Extensions
 cloudphone.bulk-extensions = Extensions List
 cloudphone.default_host = Cloudphone devices will not work as long as Default host address is set to "example.com". <br>To make the Cloudphone devices functional please set the actual PBX IP address in {0}
-cloudphone.emailsubject = Email Subject
-cloudphone.emailbody = Email Body
-cloudphone.email_settings = Email Settings
+cloudphone.email_subject = Email Subject
+cloudphone.email_body = Email Body
+cloudphone.mobile_settings = Mobile Email Settings
+cloudphone.desktop_settings = Desktop Email Settings
 cloudphone.error = Error
 cloudphone.from_address = From
 cloudphone.from_address.placeholder = "name" <mailbox@domain.com>
 cloudphone.from_address.tooltip = Who the e-mail notification should appear to come from. Example: "name" &lt;mailbox@domain.com&gt;
 cloudphone.general = General
 cloudphone.host_settings = Host Settings
-cloudphone.qrcodes = QR Codes
+cloudphone.qrcodes = QR Codes and Passwords
 cloudphone.no_extensions_selected = No extensions selected
 cloudphone.no_protocol_selected = No Protocol Selected. At least one protocol UDP, TCP or TLS must be defined.
 cloudphone.note = Note!
-cloudphone.resend_qrcode = Resend QR Codes
-cloudphone.resend_qrcode.tooltip = Resend all QR codes
+cloudphone.resend_qrcode = Resend QR Codes and Passwords
+cloudphone.resend_qrcode.tooltip = Resend all QR codes and Passwords
 cloudphone.resent_qrcodes = All QR codes were resend
 cloudphone.select_extensions = Select Extensions
-cloudphone.send_qrcodes = Send QR Codes
+cloudphone.send_qrcodes = Send QR Codes and Passwords
 cloudphone.sent_qrcode = QR Codes sent
-cloudphone.sending_qrcode = Sending QR Codes
+cloudphone.sending_qrcode = Sending QR Codes and Passwords
 cloudphone.tcp = TCP
 cloudphone.tcp.tooltip = TCP Address
 cloudphone.tls = TLS
 cloudphone.tls.tooltip = TLS Address
 cloudphone.udp = UDP
 cloudphone.udp.tooltip = UDP Address
-cloudphone.email_subject = Cloudphone Instructions for extension [extension]
-cloudphone.email_body =
-	Congratulations, your CloudPhone is ready.<br>
+cloudphone.mobile_subject = Cloudphone Mobile instructions for extension [extension]
+cloudphone.mobile_body =
+	Congratulations, your CloudPhone Mobile account is ready.<br>
 	To install and start making calls, please download the app to your device:<br><br>
 	iOS - https://apps.apple.com/us/app/xorcom-cloudphone/id1496782778<br>
 	Android - https://play.google.com/store/apps/details?id=com.xorcom.cloudphone.android<br><br>
 	After installing the app, just open it and scan the QR code below.<br>
 	Make sure to have internet connection when you do that.
+cloudphone.desktop_subject = Cloudphone Desktop instructions for extension [extension]
+cloudphone.desktop_body =
+	Congratulations, your CloudPhone Desktop account is ready.<br>
+	To install and start making calls, please download the app to your device:<br><br>
+	Windows - http://updates.xorcom.com/servers/cphone/cphone-win-latest.exe <br>
+	MacOC - http://updates.xorcom.com/servers/cphone/cphone-mac-latest.dmg <br><br>
+	After installing the app, copy and paste the credentials below.<br>
+	Make sure to have internet connection when you do that. <br><br>
+	Username: [username]<br>
+	Password: [password]
 cloudphone.push = Use Push Notifications
 cloudphone.push.tooltip = CloudPhone devices will by default receive push notifications from a remote server that maintains connectivity to the PBX on behalf of the device. This is done to reduce battery usage on CloudPhone devices but requires the PBX to be accessible externally. Disabling push notifications will allow the CloudPhone device to make and receive calls via the local network but will reduce battery life.
-cloudphone.qr_code_reset_warning = You are about to reset the device password and QR code. This action will immediately disconnect the extension's CloudPhone app. If the extension's email is set, the new QR code will be automatically sent by email to the user.
+cloudphone.qr_code_reset_warning = You are about to reset the device password and QR code. This action will immediately disconnect the extension's CloudPhone Mobile application. If the extension's email is set, the new QR code will be automatically sent by email to the user.
+ombutel.cloudphone-mobile = CloudPhone Mobile
+ombutel.cloudphone-desktop = CloudPhone Desktop
+cloudphone.password_reset_warning = You are about to reset the device password. This action will immediately disconnect the extension's CloudPhone Desktop application. If the extension's email is set, the new password will be automatically sent by email to the user.
