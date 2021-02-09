@@ -259,5 +259,10 @@ profiles_cloudphone_external_hostname = External Hostname
 profiles_cloudphone_external_hostname_tooltip = External hostname or IP address of this PBX, optionally including the port number.
 profiles_cloudphone_remote_outbound_proxy = Outbound Proxy
 profiles_cloudphone_remote_outbound_proxy_tooltip = Outbound proxy that the CloudPhone application should use, optionally including the port number.
+profiles_cloudphone_autoanswer = Auto Answer
+profiles_cloudphone_autoanswer_tooltip = When enabled, the device will automatically answer incoming calls.
+profiles_cloudphone_autoanswer_timeout = Auto Answer Delay
+profiles_cloudphone_autoanswer_timeout_tooltip = When Auto Answer is enabled, this value represents the number of seconds to wait before incoming calls are answered automatically.
+profiles_cloudphone_autoanswer_timeout_invalid = Auto answer delay must be greater than or equal to zero.
 profiles.used_as_anonymous_profile = Profile cannot be deleted, it is used by <a onclick="pbx_request('menu43');">SIP Settings</a> for incoming anonymous calls.
 profiles.used_as_anonymous_profile.nohtml = Profile cannot be deleted, it is used for incoming anonymous calls.
