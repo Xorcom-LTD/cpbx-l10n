@@ -105,3 +105,4 @@ extension_settings.timezone = Timezone
 extension_settings.timezone.tooltip = Timezone for this user
 menu.extension_settings = Extension Settings
 module.extension_settings = Extension Settings
+extension_settings.provisioning = Provisioning

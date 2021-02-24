@@ -21,7 +21,7 @@ epm.device_mapping.expansion_module = Modules d'extension
 epm.device_mapping.device_search = Rechercher équipements
 epm.device_mapping.device_search.tooltip = Saisir le numéro d'équipement que vous recherchez
 epm.device_mapping.advanced_settings = Paramètres avancés
-epm.device_mapping.warn_no_device = Aucun équipement trouvé
+epm.device_mapping.warn_no_device = Aucun appareil physique n'est associé à cet appareil dans <a onclick="pbx_request('epm_device_mapping');">{module.endpoint}</a>
 epm.device_mapping.cancel = Annuler
 epm.device_mapping.update = Rafraichir
 epm.device_mapping.mac_address = Adresse MAC

@@ -239,3 +239,4 @@ destination_type.voicemail-direct = Voicemail (Direct)
 destination_type.voicemail-busy = Voicemail (Busy)
 destination_type.voicemail-unavailable = Voicemail (Unavailable)
 destination_type.voicemail-no_message = Voicemail (Skip Greeting)
+extensions.provisioning = Provisioning

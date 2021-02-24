@@ -19,7 +19,7 @@ epm.device_mapping.device_configure = Configurar Dispositivo
 epm.device_mapping.device_buttons = Botones del Dispositivo
 epm.device_mapping.expansion_module = Módulos de Expansión
 epm.device_mapping.advanced_settings = Configuración Avanzada
-epm.device_mapping.warn_no_device = No hay ningún dispositivo
+epm.device_mapping.warn_no_device = No hay ningún dispositivo físico asociado a este dispositivo en el <a onclick="pbx_request('epm_device_mapping');">{module.endpoint}</a>
 epm.device_mapping.cancel = Cancelar
 epm.device_mapping.update = Actualizar
 epm.device_mapping.mac_address = Dirección MAC

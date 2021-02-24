@@ -22,7 +22,7 @@ epm.device_mapping.expansion_module = Expansion Modules
 epm.device_mapping.device_search = Search Devices
 epm.device_mapping.device_search.tooltip = Type the device number you want to find. This enables you to find a specific device, or group of devices, that exist in the list of mapped devices. You can enter a device number to see a specific device, or you can enter just the first few digits to see all the devices that start with those digits.
 epm.device_mapping.advanced_settings = Advanced Settings
-epm.device_mapping.warn_no_device = No device found
+epm.device_mapping.warn_no_device = No physical device is associated with this Device in <a onclick="pbx_request('epm_device_mapping');">{module.endpoint}</a>
 epm.device_mapping.cancel = Cancel
 epm.device_mapping.check_uncheck_all = Check/Uncheck All
 epm.device_mapping.update = Update
@@ -151,3 +151,4 @@ epm.template.warn.duplicate_template = Template Name already exists
 epm.template.request_support = Request Support
 epm.template.request_support_for_model = Request support for model
 epm.template.request_support.tooltip = Clicking this link will open a new page where support can be requested for additional brands and models.
+epm.device_modal.title = Configuring {0} - {1}

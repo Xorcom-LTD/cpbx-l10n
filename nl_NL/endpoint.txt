@@ -19,7 +19,7 @@ epm.device_mapping.device_configure = Toestel Configureren
 epm.device_mapping.device_buttons = Toesteltoetsen
 epm.device_mapping.expansion_module = Uitbreidingsmodules
 epm.device_mapping.advanced_settings = Geavanceerde Instellingen
-epm.device_mapping.warn_no_device = Er werd geen toestel gevonden
+epm.device_mapping.warn_no_device = Er is in <a onclick="pbx_request('epm_device_mapping');">{module.endpoint}</a> geen fysiek apparaat aan dit apparaat gekoppeld
 epm.device_mapping.cancel = Annuleren
 epm.device_mapping.update = Bijwerken
 epm.device_mapping.mac_address = MAC-adres
