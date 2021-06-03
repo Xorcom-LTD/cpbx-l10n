@@ -1,0 +1,48 @@
+profiles_cloudphone_remote_outbound_proxy_tooltip = Outbound proxy that the ROAM application should use, optionally including the port number.
+ombutel.cloudphone = ROAM Mobile
+ombutel.desktop = ROAM Desktop
+license.cloudphone-devices = ROAM Mobile
+license.desktop-devices = ROAM Desktop
+license.cloudphone-description-subst = ROAM
+hot_desking.cloudphone_no_hostname = <strong>Note!</strong> The selected profile does not define the external hostname which is required for ROAM Mobile to function.
+hot_desking.cloudphone_send_qrcode.tooltip =
+	Generates a new QR code and sends it to the extension email address.
+	This action will immediately disconnect the extension's ROAM Mobile application.
+hot_desking.desktop_no_hostname = <strong>Note!</strong> The selected profile does not define the external hostname which is required for ROAM Desktop to function.
+hot_desking.desktop_send_password.tooltip =
+	Generates a new password and sends it to the extension email address.
+	This action will immediately disconnect the extension's ROAM Desktop application.
+cloudphone_mobile.limit_exceeded =
+	[0] The licenses present on this system do not allow the creation of additional ROAM Mobile devices.
+	[one] The licenses present on this system only allows one ROAM Mobile device, no more devices may be created.
+	*[other] The licenses present on this system allow up to {0} ROAM Mobile devices, no more devices may be created.
+cloudphone_desktop.limit_exceeded =
+	[0] The licenses present on this system do not allow the creation of additional ROAM Desktop devices.
+	[one] The licenses present on this system only allows one ROAM Desktop device, no more devices may be created.
+	*[other] The licenses present on this system allow up to {0} ROAM Desktop devices, no more devices may be created.
+menu.cloudphone = ROAM
+module.cloudphone = ROAM
+cloudphone.mobile_subject = ROAM Mobile instructions for extension [extension]
+cloudphone.mobile_body =
+	Congratulations, your ROAM Mobile account is ready.<br>
+	To install and start making calls, please download the app to your device:<br><br>
+	iOS - https://apps.apple.com/us/app/maxlink-roam/id1557630212<br>
+	Android - https://play.google.com/store/apps/details?id=io.maxlink.maxlinkroam.android<br><br>
+	After installing the app, just open it and scan the QR code below.<br>
+	Make sure to have internet connection when you do that.
+cloudphone.desktop_subject = ROAM Desktop instructions for extension [extension]
+cloudphone.desktop_body =
+	Congratulations, your ROAM Desktop account is ready.<br>
+	To install and start making calls, please download the app to your device:<br><br>
+	Windows - https://maxlink.io/updates/roam/roam-win-latest.exe <br>
+	macOC - https://maxlink.io/updates/roam/roam-mac-latest.dmg <br><br>
+	After installing the app, copy and paste the credentials below.<br>
+	Make sure to have internet connection when you do that. <br><br>
+	Username: [username]<br>
+	Password: [password]
+cloudphone.push.tooltip = ROAM Mobile devices will by default receive push notifications from a remote server that maintains connectivity to the PBX on behalf of the device. This is done to reduce battery usage on ROAM Mobile devices but requires the PBX to be accessible externally. Disabling push notifications will allow the ROAM Mobile device to make and receive calls via the local network but will reduce battery life.
+cloudphone.qr_code_reset_warning = You are about to reset the device password and QR code. This action will immediately disconnect the extension's ROAM Mobile application. If the extension's email is set, the new QR code will be automatically sent by email to the user.
+ombutel.cloudphone-mobile = ROAM Mobile
+ombutel.cloudphone-desktop = ROAM Desktop
+cloudphone.password_reset_warning = You are about to reset the device password. This action will immediately disconnect the extension's ROAM Desktop application. If the extension's email is set, the new password will be automatically sent by email to the user.
+profiles_technology_cloudphone = ROAM

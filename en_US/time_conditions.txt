@@ -19,3 +19,7 @@ time_conditions.update = Update
 time_conditions.match_destination_source = {0} - Match Destination
 time_conditions.mismatch_destination_source = {0} - Mismatch Destination
 destination_type.time_condition = Time Condition
+time_condition.description.invalid = Description is required and must be unique.
+time_condition.time_group_id = Time group is required and must be valid.
+time_condition.match_destination_id = Match destination is required and must be valid.
+time_condition.mismatch_destination_id = Mismatch destination is required and must be valid.

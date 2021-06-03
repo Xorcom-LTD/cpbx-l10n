@@ -3,7 +3,7 @@ module.cloudphone = CloudPhone
 
 cloudphone.add_extensions = Add Extensions
 cloudphone.bulk-extensions = Extensions List
-cloudphone.default_host = Cloudphone devices will not work as long as Default host address is set to "example.com". <br>To make the Cloudphone devices functional please set the actual PBX IP address in {0}
+cloudphone.default_host = CloudPhone devices will not work as long as Default host address is set to "example.com". <br>To make the CloudPhone devices functional please set the actual PBX IP address in {0}
 cloudphone.email_subject = Email Subject
 cloudphone.email_body = Email Body
 cloudphone.mobile_settings = Mobile Email Settings
@@ -31,7 +31,7 @@ cloudphone.tls = TLS
 cloudphone.tls.tooltip = TLS Address
 cloudphone.udp = UDP
 cloudphone.udp.tooltip = UDP Address
-cloudphone.mobile_subject = Cloudphone Mobile instructions for extension [extension]
+cloudphone.mobile_subject = CloudPhone Mobile instructions for extension [extension]
 cloudphone.mobile_body =
 	Congratulations, your CloudPhone Mobile account is ready.<br>
 	To install and start making calls, please download the app to your device:<br><br>
@@ -39,7 +39,7 @@ cloudphone.mobile_body =
 	Android - https://play.google.com/store/apps/details?id=com.xorcom.cloudphone.android<br><br>
 	After installing the app, just open it and scan the QR code below.<br>
 	Make sure to have internet connection when you do that.
-cloudphone.desktop_subject = Cloudphone Desktop instructions for extension [extension]
+cloudphone.desktop_subject = CloudPhone Desktop instructions for extension [extension]
 cloudphone.desktop_body =
 	Congratulations, your CloudPhone Desktop account is ready.<br>
 	To install and start making calls, please download the app to your device:<br><br>
