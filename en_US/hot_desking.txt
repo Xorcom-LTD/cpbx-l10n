@@ -73,3 +73,7 @@ hot_desking.desktop_send_password = Reset Password
 hot_desking.desktop_send_password.tooltip =
 	Generates a new password and sends it to the extension email address.
 	This action will immediately disconnect the extension's CloudPhone Desktop application.
+hot_desking.desktop_username = Username
+hot_desking.desktop_username.tooltip = CloudPhone Desktop application username.
+hot_desking.desktop_password = Password
+hot_desking.desktop_password.tooltip = CloudPhone Desktop application password.

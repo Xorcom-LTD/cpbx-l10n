@@ -240,3 +240,4 @@ destination_type.voicemail-busy = Voicemail (Busy)
 destination_type.voicemail-unavailable = Voicemail (Unavailable)
 destination_type.voicemail-no_message = Voicemail (Skip Greeting)
 extensions.provisioning = Provisioning
+extensions.voicemail_timezone_id.invalid = Zone messages must be valid or empty.

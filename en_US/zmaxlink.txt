@@ -46,3 +46,5 @@ ombutel.cloudphone-mobile = ROAM Mobile
 ombutel.cloudphone-desktop = ROAM Desktop
 cloudphone.password_reset_warning = You are about to reset the device password. This action will immediately disconnect the extension's ROAM Desktop application. If the extension's email is set, the new password will be automatically sent by email to the user.
 profiles_technology_cloudphone = ROAM
+hot_desking.desktop_username.tooltip = ROAM Desktop application username.
+hot_desking.desktop_password.tooltip = ROAM Desktop application password.

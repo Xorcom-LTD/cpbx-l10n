@@ -146,7 +146,6 @@ ombutel.validation.no_dependencies_defined = Vous n'avez défini aucun dépendan
 ombutel.validation.no_rules_defined = Aucune règle de validation n'a été définie
 ombutel.validation.no_starts_with.js_msg = Le champs ne doit pas démarrer par "%s"
 ombutel.validation.no_starts_with.message = % ne doit pas démarrer par "%s"
-ombutel.validation.no_tables_defined =  You have not been defined tables
 ombutel.validation.number_is_taken = Le numéro %s est défini par %s dans le module %s
 ombutel.validation.number_is_used = Le numéro %s est utilisé par le module %s
 ombutel.validation.oneof.js_msg = La valeur du champs doit être parmis "%s"
