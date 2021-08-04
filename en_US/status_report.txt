@@ -62,3 +62,8 @@ status_report.statusval =
 	[2] Busy
 	[4] Unavailable
 	*[] {1}
+status_report.hot_desking = Hot Desking
+status_report.device = Device
+status_report.device_description = Device Description
+status_report.extension_name = Ext. Name
+status_report.technology = Technology
