@@ -71,3 +71,5 @@ phonebook.contact.updated = Contact Updated
 phonebook.contact_not_found = Contact not found
 phonebook.contact.empty_names = First name and last name cannot both be empty
 phonebook.contact.phonebook_id.invalid = Phonebook is required and must be valid
+phonebook.dinstar = Dinstar
+phonebook.import_failed = Unable to import phonebook, unable to parse input file.

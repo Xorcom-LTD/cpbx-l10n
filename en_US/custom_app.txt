@@ -1,7 +1,9 @@
 custom_app = Custom Applications
 custom_app.description = Name
 custom_app.description.tooltip = Free-text name to identify this Custom Application
+custom_app.description.invalid = Name is required and must be unique.
 custom_app.destination = Destination
+custom_app.destination_id.invalid = Destination is required and must be valid.
 custom_app.extension = Code
 custom_app.extension.invalid = Custom Application Code is invalid. Only *,#,+ and numbers are allowed.
 custom_app.extension.tooltip = Numeric code used to activate this custom application. The code must be unique to the system, i.e. it must not be used in the system to identify an extension, feature code, queue, etc.

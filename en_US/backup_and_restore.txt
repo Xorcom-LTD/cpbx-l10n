@@ -54,3 +54,4 @@ backup_and_restore.confirm-restore = Are you sure you wish to restore this backu
 backup_and_restore.confirm_dialog_title = Restore Backup
 backup_and_restore.confirm_dialog_message = Are you sure you wish to restore this backup?<p><b>This action is irreversible.</b></p>
 backup_and_restore.unmet_dependencies = Unable to resolve dependencies, the following dependencies are not provided by any component: {0}
+backup_and_restore.insufficient_space = At least {0,gb} GB of disk space is required but only {1,gb} GB available.

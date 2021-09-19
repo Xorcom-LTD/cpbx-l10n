@@ -33,3 +33,6 @@ certificates.invalid-operation = Invalid operation.
 certificates.no-organization = Organization is required.
 certificates.no-primary-domain = Primary domain is required.
 certificates.enable-firewall = Make sure the port is open in the ADMIN/Security/Firewall/Services dialog.
+certificates.csr_error = Unable to create certificate request: {0}
+certificates.keyfile_error = Unable to create certificate and private key: {0}
+certificates.ca_error = Unable to create certificate authority: {0}
