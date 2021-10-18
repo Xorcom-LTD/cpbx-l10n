@@ -13,7 +13,7 @@ hot_desking.codecs.tooltip = List of allowed codecs. The order in which the code
 hot_desking.delete = Delete
 hot_desking.delete.tooltip = Are you sure that you want to delete this record %s ?
 hot_desking.deny = Deny
-hot_desking.deny.tooltip = In a user/peer definition, you may limit the traffic to and from this peer to a certain IP or network. (Example: deny=192.168.40.38/255.255.255.255 denies traffic from this IP address).
+hot_desking.deny.tooltip = One or more networks and/or addresses to block. The default of 0.0.0.0/0 means to block everything. Values can be written as address/subnet (eg. 192.168.1.1/255.255.255.0) or using CIDR notation (eg. 192.168.1.1/24), separated by comma or space.
 hot_desking.dev_description = Device Description
 hot_desking.dev_description.tooltip = A short a description to identify this Device.
 hot_desking.digit_map = Digit Mapping
@@ -44,7 +44,7 @@ hot_desking.nat.no.tooltip = Do no special NAT handling other than RFC3581.
 hot_desking.nat.no.mt_tooltip = Do no special NAT handling other than RFC3581. <b>(The only option allowed for MT System)</b>
 hot_desking.nat.tooltip = NAT (Network Address Translation) is a technology most commonly used by firewalls and routers to allow multiple devices on a LAN with "private" IP addresses to share a single public IP address. A private IP address is an address, which can only be addressed from within the LAN, but not from the Internet outside the LAN.
 hot_desking.permit = Permit
-hot_desking.permit.tooltip = In a user/peer definition, you may limit the traffic to and from this peer to a certain IP or network. (Example: permit=192.168.40.0/255.255.255.0 allows traffic from this network).
+hot_desking.permit.tooltip = One or more networks and/or addresses to whitelist. The default of 0.0.0.0/0 means to whitelist everything. Values can be written as address/subnet (eg. 192.168.1.1/255.255.255.0) or using CIDR notation (eg. 192.168.1.1/24), separated by comma or space.
 hot_desking.profile_id = Profile
 hot_desking.profile_id.tooltip = Profile for this device
 hot_desking.ring_device = Ring Device

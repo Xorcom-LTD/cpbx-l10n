@@ -53,3 +53,6 @@ system_general.wkup_maxretries = Max Attempts
 system_general.wkup_maxretries.tooltip = Maximum number of wakeup call attempts that will be made.
 system_general.wkup_retrytime = Retry Interval
 system_general.wkup_retrytime.tooltip = Number of minutes between wakeup call attempts.
+system_general.hot_desking = Hot Desking
+system_general.autologin_queue = Auto Login to Queues
+system_general.autologin_queue.tooltip = If enabled, Hotdesking log in, will also login the agent to all of his/her dynamic queues

@@ -177,8 +177,8 @@ profiles_cloudphone_preferred_codec_only_tooltip = Respond to a SIP invite with 
 profiles_cloudphone_autoframing = Auto Framing
 profiles_cloudphone_autoframing_tooltip = Set packetization based on the remote endpoint's (ptime) preferences.
 profiles_cloudphone_deny = Deny
-profiles_cloudphone_deny_invalid = Deny is invalid. Please type IP address with Subnet mask. You may use CIDR notation. (Example: 192.168.40.38/16)
-profiles_cloudphone_deny_tooltip = In a user/peer definition, you may limit the traffic to and from this peer to a certain IP or network. (Example: deny=192.168.40.38/255.255.255.255 denies traffic from this IP address).
+profiles_cloudphone_deny_invalid = Deny is invalid. Values can be written as address/subnet (eg. 192.168.1.1/255.255.255.0) or using CIDR notation (eg. 192.168.1.1/24), separated by comma or space.
+profiles_cloudphone_deny_tooltip = One or more networks and/or addresses to block. The default of 0.0.0.0/0 means to block everything. Values can be written as address/subnet (eg. 192.168.1.1/255.255.255.0) or using CIDR notation (eg. 192.168.1.1/24), separated by comma or space.
 profiles_cloudphone_description = Description
 profiles_cloudphone_description_tooltip = Description for this profile.
 profiles_cloudphone_directmedia = Direct RTP
@@ -229,8 +229,8 @@ profiles_cloudphone_peertype_peer = Peer
 profiles_cloudphone_peertype_tooltip = Defines the device type. "User" is a device that places calls, requires authentication. "Peer" is a trunk device, matched by host. "Friend" is a combination of the "User" and "Peer".
 profiles_cloudphone_peertype_user = User
 profiles_cloudphone_permit = Permit
-profiles_cloudphone_permit_invalid = Permit is invalid. Please type IP address with Subnet mask. You may use CIDR notation. (Example: 192.168.40.38/16)
-profiles_cloudphone_permit_tooltip = In a user/peer definition, you may limit the traffic to and from this peer to a certain IP or network. (Example: permit=192.168.40.0/255.255.255.0 allows traffic from this network).
+profiles_cloudphone_permit_invalid = Permit is invalid. Values can be written as address/subnet (eg. 192.168.1.1/255.255.255.0) or using CIDR notation (eg. 192.168.1.1/24), separated by comma or space.
+profiles_cloudphone_permit_tooltip = One or more networks and/or addresses to whitelist. The default of 0.0.0.0/0 means to whitelist everything. Values can be written as address/subnet (eg. 192.168.1.1/255.255.255.0) or using CIDR notation (eg. 192.168.1.1/24), separated by comma or space.
 profiles_cloudphone_qualifyfreq = Qualify Frequency
 profiles_cloudphone_qualifyfreq_invalid = Qualify frequency must be a number starting from 0.
 profiles_cloudphone_qualifyfreq_tooltip = Define the qualify interval in seconds. A value of zero will disable this feature.

@@ -1,5 +1,5 @@
-cloudphone_device.deny.invalid = Deny is invalid. Please type IP address with Subnet mask. You may use CIDR notation. (Example: 192.168.40.38/16)
-cloudphone_device.permit.invalid = Permit is invalid. Please type IP address with Subnet mask. You may use CIDR notation. (Example: 192.168.40.38/16)
+cloudphone_device.deny.invalid = Deny is invalid. Values can be written as address/subnet (eg. 192.168.1.1/255.255.255.0) or using CIDR notation (eg. 192.168.1.1/24), separated by comma or space.
+cloudphone_device.permit.invalid = Permit is invalid. Values can be written as address/subnet (eg. 192.168.1.1/255.255.255.0) or using CIDR notation (eg. 192.168.1.1/24), separated by comma or space.
 cloudphone_device.user.duplicate = Device User already exists
 cloudphone_device.user.invalid = Please enter a valid Device User
 cloudphone_device.user.spaces = Device User may not contain any spaces
