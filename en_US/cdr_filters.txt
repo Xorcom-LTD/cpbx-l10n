@@ -41,3 +41,6 @@ cdr_filters.general = General
 cdr_filters.none = None
 menu.cdr_filters = CDR Filters
 module.cdr_filters = CDR Filters
+cdr_filters.conditions.enabled = Enabled
+cdr_filters.conditions.enabled.no = No
+cdr_filters.conditions.enabled.yes = Yes

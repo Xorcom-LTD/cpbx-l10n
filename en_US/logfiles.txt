@@ -30,3 +30,4 @@ module.logfiles = Log Settings
 logfiles.confirm = Confirm
 logfiles.cancel = Cancel
 logfiles.confirm_disable_queue_log = <p>Warning! By setting Log Queues to "No" you will not be able to view statistical call data for this system.</p><p>Are you sure you want to continue?</p>
+logfiles.enabled = Enabled

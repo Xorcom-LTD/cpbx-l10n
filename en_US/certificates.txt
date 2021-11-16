@@ -32,7 +32,7 @@ certificates.apply-succeeded = Apache configuration updated.
 certificates.invalid-operation = Invalid operation.
 certificates.no-organization = Organization is required.
 certificates.no-primary-domain = Primary domain is required.
-certificates.enable-firewall = Make sure the port is open in the ADMIN/Security/Firewall/Services dialog.
+certificates.enable-firewall = Please ensure that the HTTPS service is configured properly in the <a class='pointer' onclick="javascript:pbx_request('firewall')">Firewall Configuration</a>.
 certificates.csr_error = Unable to create certificate request: {0}
 certificates.keyfile_error = Unable to create certificate and private key: {0}
 certificates.ca_error = Unable to create certificate authority: {0}

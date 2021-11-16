@@ -1,6 +1,6 @@
 sip_device.deny.invalid = Deny is invalid. Values can be written as address/subnet (eg. 192.168.1.1/255.255.255.0) or using CIDR notation (eg. 192.168.1.1/24), separated by comma or space.
 sip_device.permit.invalid = Permit is invalid. Values can be written as address/subnet (eg. 192.168.1.1/255.255.255.0) or using CIDR notation (eg. 192.168.1.1/24), separated by comma or space.
 sip_device.secret.invalid = Password cannot be empty
-sip_device.user.invalid = Please enter a valid Device User
+sip_device.user.invalid = Please enter a valid Device User. The value must consist of alphanumeric letters, numbers and/or _ and -.
 sip_device.user.duplicate = Device User already exists
 sip_device.user.spaces = Device User may not contain any spaces

@@ -2,7 +2,7 @@ cloudphone_device.deny.invalid = Deny is invalid. Values can be written as addre
 cloudphone_device.permit.invalid = Permit is invalid. Values can be written as address/subnet (eg. 192.168.1.1/255.255.255.0) or using CIDR notation (eg. 192.168.1.1/24), separated by comma or space.
 cloudphone_device.user.duplicate = Device User already exists
 cloudphone_device.user.invalid = Please enter a valid Device User
-cloudphone_device.user.spaces = Device User may not contain any spaces
+cloudphone_device.user.spaces = Device User may not contain any spaces. The value must consist of alphanumeric letters, numbers and/or _ and -.
 cloudphone_device.secret.invalid = Password cannot be empty
 cloudphone_mobile.limit_exceeded =
 	[0] The licenses present on this system do not allow the creation of additional CloudPhone Mobile devices.

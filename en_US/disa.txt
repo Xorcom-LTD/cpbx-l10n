@@ -18,3 +18,5 @@ disa.resptimeout.tooltip = Maximum time that the system will wait for the first 
 menu.disa = DISA
 module.disa = DISA
 destination_type.disa = DISA
+disa.enablerecording = Enable Recording
+disa.enablerecording.tooltip = Enable Call Recording.

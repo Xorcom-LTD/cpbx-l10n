@@ -273,3 +273,4 @@ profiles_cloudphone_autoanswer_timeout_tooltip = When Auto Answer is enabled, th
 profiles_cloudphone_autoanswer_timeout_invalid = Auto answer delay must be greater than or equal to zero.
 profiles.used_as_anonymous_profile = Profile cannot be deleted, it is used by <a onclick="pbx_request('menu43');">SIP Settings</a> for incoming anonymous calls.
 profiles.used_as_anonymous_profile.nohtml = Profile cannot be deleted, it is used for incoming anonymous calls.
+profiles_advanced_enabled = Enabled

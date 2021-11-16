@@ -122,3 +122,4 @@ sip_settings.videosupport.no = Disabled
 sip_settings.msg = Make sure that UDPTL rule exists in the Firewall module for T.38 Fax Pass-Through to work properly.
 sip_settings.anonymous_profile = Anonymous Profile
 sip_settings.anonymous_profile.tooltip = SIP profile used for incoming anonymous calls.
+sip_settings.enabled = Enabled

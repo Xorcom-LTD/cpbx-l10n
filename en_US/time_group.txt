@@ -41,3 +41,4 @@ time_group_schedule.time_group_id.invalid = Time group is required and must be v
 time_group_schedule.tcini.invalid = Schedule is required and must be valid.
 time_group_schedule.tcend.invalid = Schedule is required and must be valid.
 time_group_schedule.time.invalid = Schedule is required and must be valid.
+time_group.enabled = Enabled
