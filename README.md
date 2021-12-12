@@ -17,7 +17,7 @@ There are two ways of localizing CompletePBX. The preferred method is to use Git
 
 Alternatively, you can make changes manually and send them by email:
 
-1. Download the latest version ([click here](https://github.com/dbuteyn/cpbx-l10n/archive/master.zip))
+1. Download the latest version ([click here](https://github.com/Xorcom-LTD/cpbx-l10n/archive/refs/heads/master.zip))
 2. Make changes
 3. Send the result to [support@xorcom.com](mailto:support@xorcom.com)
 
