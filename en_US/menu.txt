@@ -1,0 +1,3 @@
+menu.label.invalid = Label is required and must be unique.
+menu.parent_id.invalid = Parent must be valid or empty.
+menu.module_id.invalid = Module must be valid or empty.

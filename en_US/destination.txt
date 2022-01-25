@@ -1,0 +1,4 @@
+destination.category_id.invalid = Category is required and must be valid.
+destination.module_id.invalid = Module is required and must be valid.
+destination.index.invalid = Index is required and must be valid.
+destination.name.invalid = Name is required and must be valid.

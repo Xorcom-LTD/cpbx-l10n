@@ -1,0 +1,2 @@
+module.name.invalid = Name is required and must be unique.
+module.version.invalid = Version must not be empty.

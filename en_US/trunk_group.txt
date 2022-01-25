@@ -56,3 +56,4 @@ outbound_route_member.trunk_id.invalid = Trunk is required and must be valid.
 outbound_route_pattern.outbound_route_id.invalid = Outbound route is required and must be valid.
 outbound_route_pattern.pattern.invalid = Pattern is required and must be valid.
 outbound_route.description.invalid = Description is required and must be unique.
+outbound_route.pin_list_id.invalid = PIN list must be valid or empty.
