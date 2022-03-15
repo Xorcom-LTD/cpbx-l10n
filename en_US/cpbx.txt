@@ -22,3 +22,10 @@ cpbx.system_name = System Name: <strong>{0}</strong>
 setting.module.invalid = Module is required and must be valid.
 setting.name.invalid = Name is required.
 setting.value.invalid = Value is required.
+cpbx.service_agreement.expire.subject = PBX Service Agreement Expires Soon
+cpbx.service_agreement.expire.body = PBX {0} is under a service agreement that is about it expire.<br>To renew the service agreement, please contact your reseller.<br>Security updates, other software updates and manufacturer technical support are only available under a service agreement.
+cpbx.service_agreement.expired.subject = PBX {0} Service Agreement Expired
+cpbx.service_agreement.expired.body = Your PBX service agreement has expired.<br>To renew the service agreement, please contact your reseller.<br>Security updates, other software updates and manufacturer technical support are only available under a service agreement.
+cpbx.have_service_agreement_problem = Your system is not under a service agreement. To ensure the best service and software and security updates renew your service agreement. Please check <a onclick="pbx_request('license');">{module.license}</a> for more details.
+cpbx.have_service_agreement_problem.no_link = Your system is not under a service agreement. To ensure the best service and software and security updates renew your service agreement.
+cpbx.auth-failed = Unable to activate service agreement. Please make sure this system is connected to the Internet. If the problem persists the system may be out of a service agreement. Please contact your dealer to extend the service agreement for this system.

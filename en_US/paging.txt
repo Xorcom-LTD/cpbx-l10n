@@ -9,6 +9,7 @@ paging.duplex = Duplex Audio
 paging.duplex.tooltip = Sometimes referred to as "talkback paging," the use of this option implies that the equipment that receives the page has the ability to transmit audio back at the same time as it is receiving audio. Generally, you would not want to use this unless you had a specific need for it.
 paging.extensions = Extensions
 paging.extensions.invalid = Please select at least one extension
+paging.extensions.limit_exceeds = Please select only upto 20 extensions
 paging.extensions.tooltip = List of the extension(s) to dial.
 paging.extension = Code
 paging.extension.invalid = Paging Code is invalid. Only *,#,+ and numbers are allowed.

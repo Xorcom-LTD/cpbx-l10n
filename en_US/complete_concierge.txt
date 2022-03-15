@@ -209,3 +209,7 @@ complete_concierge.activity_csv_header2 = Created: {0}
 complete_concierge.rooms = Rooms
 complete_concierge.extended_room_status = Extended Room Status
 complete_concierge.extended_room_status.tooltip = Enabling this feature will include the employee number in room status notifications.
+complete_concierge.room_cid_format = Caller ID format
+complete_concierge.room_cid_format.tooltip = Caller ID format to use for occupied room extensions.
+complete_concierge.room_cid_format.name_number = Guest Name - Room Number
+complete_concierge.room_cid_format.number_name = Room Number - Guest Name

@@ -35,3 +35,4 @@ license.max = Max
 license.license_key = License Key
 license.license_key.tooltip = One or more license keys separated by space or comma that must be registered to this system.
 license.register = Register
+license.activate_service_agreement = Activate Service Agreement

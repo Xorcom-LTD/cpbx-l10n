@@ -17,3 +17,5 @@ users_profiles.priv.edit = Edit
 users_profiles.priv.view = View
 users_profiles.superadmin = Grant all privileges
 users_profiles.superadmin.tooltip = Allow Access to all Modules.
+role.role.invalid = Name is required and must be unique.
+role.owner_id.invalid = Owner must be valid or empty.

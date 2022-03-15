@@ -6,6 +6,7 @@ app_access.maintenance = Maintenance
 app_access.displayname = Application Name
 app_access.displayname.invalid = Application name cannot be empty.
 app_access.displayname.tooltip = Descriptive name for this application key.
+app_access.name.invalid = Name is required and must be unique.
 app_access.general = General
 app_access.key = Key
 app_access.key.invalid = Application key cannot be empty and must be a valid.
