@@ -26,7 +26,4 @@ dial_profiles.no_memory = Preguntar siempre
 dial_profiles.none = Ninguno
 dial_profiles.custom_options = Opciones a medida
 dial_profiles.custom_options.help = Le permite definir parámetros de marcación a medida. Consultar documentación de Asterisk documentation para <b>Dial()</b> para obtener todas las opciones disponibles.
-dial_profiles.name.required = Campo de nombre es obligatorio
-dial_profiles.name.invalid = El campo de hombre no debe contener espacios
-dial_profiles.name.unique = El nombre del perfil de marcado debe ser único.
 dial_profiles.warning_note = <b>Atención!</b> Al permitir a un llamante externo activar la transferencia se puede producir un abuso del PBX al transferir llamadas hacia un destino externo. Esto puede ocurrir cuando la Clase de Servicio de la troncal está definida de forma muy permisiva.

@@ -5,3 +5,4 @@ device.user_device.exists = User Device already exists. {0} ({1}). (must be uniq
 device.profile_id.incompatible = Device profile must be compatible with device technology.
 device.hotdesk_unsupported = Hotdesking not supported for this device technology.
 device.extension_id.invalid = Extension must be valid or empty.
+

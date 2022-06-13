@@ -1,0 +1,45 @@
+menu.teams = MS Teams Connect
+module.teams = MS Teams Connect
+teams.teams_settings = MS Teams Connect Settings
+teams.email_settings = MS Teams Connect Email Settings
+teams.teams_account_id = Account ID to call API
+teams.teams_account_id.placeholder = Account ID to call API
+teams.teams_account_id.tooltip = Account ID to call API
+teams.teams_account_id.wrong = Account ID to call API is invalid
+teams.ips_to_whitelist = IPs to white-list
+teams.ips_to_whitelist.placeholder = SBC IP's from MS Teams Connect
+teams.ips_to_whitelist.tooltip = SBC IP's from MS Teams Connect
+teams.from_address = From
+teams.from_address.placeholder = "name" <mailbox@domain.com>
+teams.from_address.tooltip = Who the e-mail notification should appear to come from. Example: "name" &lt;mailbox@domain.com&gt;
+teams.email_subject = Email Subject
+teams.email_body = Email Body
+teams.sync = Sync
+teams.users = Users
+teams.user = User
+teams.service_type = Service Type
+teams.sip_user = SIP User
+teams.service_name = PBX / Trunk
+teams.registration_status = Registration
+teams.teams_name = MS Teams Connect-Name
+teams.teams_name.placeholder = MS Teams Connect-Name
+teams.teams_name.tooltip = MS Teams Connect-Name
+teams.no_service_available = There is no service has been subscribed to stop
+teams.stop_service_successful = The Service has been stoped successfully
+teams.something_went_wrong = Something went wrong, please check Internet and DNS setting and try again
+teams.stop_service = Stop Service
+teams.stop_service.confirm = Are you sure that you want to stop service?
+teams.limit_exceeded =
+	[0] The licenses present on this system do not allow the creation of additional MS Teams Connect devices.
+	[one] The licenses present on this system only allows one MS Teams Connect device, no more devices may be created.
+	*[other] The licenses present on this system allow up to {0} MS Teams Connect devices, no more devices may be created.
+teams.user.duplicate = Device User already exists
+teams.user.invalid = Please enter a valid Device User
+teams.user.spaces = Device User may not contain any spaces. The value must consist of alphanumeric letters, numbers and/or _ and -.
+teams.secret.invalid = Password cannot be empty
+teams.user = MS Teams Connect User
+teams.user.tooltip = MS Teams Connect user for this device
+teams.teams_user_id.invalid = No MS Teams Connect User specified
+teams.profile_id.teams_service_id_empty = <strong>Note!</strong> The selected profile does not define the External Hostname which is required for MS Teams Connect to function.
+teams.actions = Actions
+teams.actions.tooltip = <strong>Sync - </strong>Connect the PBX to MS Teams Connect.<br><strong>Stop Service - </strong>This will stop synchronization between the PBX and MS Teams Connect. Note that in post-paid licenses it is mandatory to delete the MS Teams Connect devices (under Extensions) in order to avoid being charged for the service.

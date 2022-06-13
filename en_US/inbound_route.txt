@@ -7,7 +7,15 @@ inbound_route.channel_id = FXO Channel
 inbound_route.channel_id.duplicate = FXO route "Channel - %s/%s" already exist
 inbound_route.channel_id.tooltip = FXO Channel for which to route calls
 inbound_route.cid_number = CID Pattern
-inbound_route.cid_number.tooltip = CID Number/Pattern To Match.
+inbound_route.cid_number.tooltip =
+	A pattern that defines matching Caller ID (CID) numbers. Leave blank to match everything. The following special characters and sequences are supported:<ul>
+	<li>X - A single digit from 0 to 9.</li>
+	<li>Z - A single digit from 1 to 9.</li>
+	<li>N - A single digit from 2 to 9.</li>
+	<li>. - One or more remaining digits and/or characters at the end of the pattern.</li>
+	<li>! - Zero or more remaining digits and/or characters at the end of the pattern.</li>
+	<li>[157-9X] - One digit and/or character (1, 5, 7, 8, 9 or X) as specified in brackets.</li>
+	</ul>
 inbound_route.description = Description
 inbound_route.description.tooltip = Short description to identify this DID.
 inbound_route.description.invalid = Description is required and must be unique
@@ -16,7 +24,15 @@ inbound_route.detectiontime = Detection Time
 inbound_route.detectiontime.tooltip = Detection Time.
 inbound_route.did = DID Pattern
 inbound_route.did.duplicate = This inbound route "%s/%s" already exist
-inbound_route.did.tooltip = Expected Direct Inward Dialing Number/Pattern.
+inbound_route.did.tooltip =
+	A pattern that defines matching Direct Inward Dialing (DID) numbers. Leave blank to match everything. The following special characters and sequences are supported:<ul>
+	<li>X - A single digit from 0 to 9.</li>
+	<li>Z - A single digit from 1 to 9.</li>
+	<li>N - A single digit from 2 to 9.</li>
+	<li>. - One or more remaining digits and/or characters.</li>
+	<li>! - Zero or more remaining digits and/or characters.</li>
+	<li>[157-9X] - One digit and/or character (1, 5, 7, 8, 9 or X) as specified in brackets.</li>
+	</ul>
 inbound_route.enablerecording = Enable Recording
 inbound_route.enablerecording.tooltip = Enable Call Recording.
 inbound_route.faxdetection = Fax Detection
@@ -55,3 +71,9 @@ inbound_route.description.invalid = Description is required and must be unique
 inbound_route.channel_id.invalid = FXO channel must be valid or empty
 inbound_route.destination_source = {0}
 inbound_route.fax_destination_source = {0} - Fax Destination
+inbound_route.caller_name_source = CID Name Source
+inbound_route.caller_name_source.tooltip = Optional list of CID sources to use for looking up the CID name for the incoming CID number. This lookup is performed before applying any CID modifier.
+inbound_route_cid_source.inbound_route_id.invalid = Inbound route is required and must be valid.
+inbound_route_cid_source.phonebook_id.invalid = Phonebook is required and must be valid.
+inbound_route.did.wildcards = Wildcards . and ! are only allowed at the end of the DID pattern.
+inbound_route.cid_number.wildcards = Wildcards . and ! are only allowed at the end of the CID pattern.

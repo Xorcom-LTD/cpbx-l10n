@@ -10,7 +10,7 @@ trunks.channel_id.invalid = Channel cannot be empty
 trunks.channels = Channel
 trunks.channels.tooltip = The channel used by this trunk
 trunks.class_of_service_id = Class of Service
-trunks.class_of_service_id.tooltip = Class of services for trunk dial plan access.
+trunks.class_of_service_id.tooltip = The dial plan is segmented into sections, called Classes of Service (CoS). CoS are the basic organizational unit within the dial plan, and as such, they keep different sections of the dial plan independent of each other. PBX uses CoS to enforce security boundaries between the various parts of the dial plan, as well as to provide different classes of service to different groups of users.
 trunks.class_of_service_id.invalid = Class of service must be valid or empty.
 trunks.codecs = Codecs
 trunks.codecs.tooltip = List of allowed codecs. The order in which the codecs are listed determines their order of preference. If you select at least one codec, the "disallow=all" parameter will be also generated.

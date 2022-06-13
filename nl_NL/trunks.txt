@@ -3,7 +3,7 @@ module.trunks = Externe Koppelingen
 trunks = Externe Koppelingen
 trunks.advanced = Geavanceerd
 trunks.class_of_service_id = Class of Service
-trunks.class_of_service_id.tooltip = Class of services voor toegang tot het kiesplan voor externe koppelingen.
+trunks.class_of_service_id.tooltip = Het kiesplan kan worden opgedeeld in verschillende secties, die Classes of Service (CoS) heten. Een CoS is de fundamentele organisatie-eenheid binnen het kiesplan en zorgt er als zodanig voor dat de verschillende secties van het kiesplan onafhankelijk van elkaar blijven. PBX gebruikt CoS om beveiligingsgrenzen tussen de verschillende delen van het kiesplan te handhaven en verschillende classes of service te bieden aan verschillende groepen gebruikers.
 trunks.codecs = Codecs
 trunks.codecs.tooltip = Lijst van toegestane codecs. De volgorde waarin de codecs vermeld worden, bepaalt de volgorde van voorkeur. Als u ten minste één codec selecteert, wordt ook de parameter "disallow=all" gegenereerd.
 trunks.custom_settings = Aangepaste Instellingen

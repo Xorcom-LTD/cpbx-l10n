@@ -1,0 +1,37 @@
+module.mexican_numbering_plan = Plan de Marcación Mexico
+mexican_numbering_plan.general = General
+mexican_numbering_plan.import = Importar
+mexican_numbering_plan.import.tooltip = Importarel el archivo con el plan de numeración pública generado por el IFT.
+mexican_numbering_plan.enabled = Habilitar
+mexican_numbering_plan.enabled.tooltip =
+	Cuando se habilita, el prefijo "movil-" será antepuesto a números salientes cuyo destino sea un número celular.
+	<br/><br/>
+	Cuando el código de área del PBX está configurado, los siguientes prefijos serán antepuestos a los números salientes:<ul>
+	<li>"LD-mobile-" para larga distancia con números celulares.</li>
+	<li>"local-" para números locales fijos.</li>
+	<li>"local-mobile" para números locales celulares.</li>
+	<li>"LD-" para larga distancia fija.</li>
+	</ul>
+mexican_numbering_plan.import_failed = La importación ha fallado.
+mexican_numbering_plan.url = Bajar desde URL
+mexican_numbering_plan.url.tooltip = Definir el URL desde donde se bajará de forma automática el plan de numeración. La actualización está controlada utilizando el esquema "Update Mexican Numbering Plan" en el Task Manager (Administrador de Tareas).
+mexican_numbering_plan.area_codes = Códigos de Area Locales
+mexican_numbering_plan.area_codes.tooltip = Lista de códigos de área considerados locales por esta clase de servicio. Números de salida que coinciden con este código de área según el Plan de Marcación Mexicano utilizarán el prefijo "local-".
+scheduler.scripts.update-mexican-numbering-plan = Actualizar el Plan de Numeración de México.
+scheduler.scripts.update-mexican-numbering-plan.description = Este esquema automático baja el plan nacional de numeración desde el URL configurado en "Mexican Numbering Plan" (Plan de Numeración Mexicano).
+mexican_numbering_plan.number = Número
+mexican_numbering_plan.number.tooltip = Número de salida para pruebas.
+mexican_numbering_plan.area_code = Código de Area Local
+mexican_numbering_plan.area_code.tooltip = Código de Area considerado como Local.
+mexican_numbering_plan.check = Testear
+mexican_numbering_plan.check.tooltip = Códigos de Area Locales.
+mexican_numbering_plan.simulate = Simular
+mexican_numbering_plan.no_match_found = No se encontraron.
+mexican_numbering_plan.format_match =
+	Patrón de Ruta de Salida: {4}
+	Operador: {2}
+	Código de Area: {1}
+	Local: {3}
+	Celular: {0}
+cos_area_code.class_of_service_id.invalid = La clase de servicio es requerida y debe ser válida.
+cos_area_code.area_code.invalid = El código de área es requerido.

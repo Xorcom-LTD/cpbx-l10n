@@ -41,3 +41,5 @@ import_inroutes.no_file_selected = No file selected
 import_inroutes.log = Import Log
 menu.import_inroutes = Import/Export Inbound Routes
 module.import_inroutes = Import/Export Inbound Routes
+import_inroutes.description.caller_name_source = CID Name Source (optional).Leave empty for 'none' and you may add multiple CID Name Source with comma separated.
+import_inroutes.invalid.caller_name_source = Caller Name Source is invalid. Make sure Caller Name Source exists.
