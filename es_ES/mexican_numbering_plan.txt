@@ -35,3 +35,6 @@ mexican_numbering_plan.format_match =
 	Celular: {0}
 cos_area_code.class_of_service_id.invalid = La clase de servicio es requerida y debe ser válida.
 cos_area_code.area_code.invalid = El código de área es requerido.
+mexican_numbering_plan.outgoing_line_access_code = Prefijo para línea de salida
+mexican_numbering_plan.outgoing_line_access_code.tooltip = Prefijo de un dígito que se marca para realizar llamadas hacia afuera del conmutador.
+mexican_numbering_plan.outgoing_line_access_code.invalid = El prefijo de acceso para línea de salida debe ser un número

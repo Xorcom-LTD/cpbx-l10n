@@ -1,0 +1,48 @@
+profiles_cloudphone_remote_outbound_proxy_tooltip = Proxy de salida que debe usar la aplicación CUAD (softphone), incluyendo opcionalmente el número de puerto. 
+ombutel.cloudphone = CUAD Móvil
+ombutel.desktop = CUAD Escritorio
+license.cloudphone-devices = CUAD Móvil
+license.desktop-devices = CUAD Escritorio
+license.cloudphone-description-subst = CUAD
+hot_desking.cloudphone_no_hostname = <strong>Note!</strong> El perfil seleccionado no define el nombre de host externo que se requiere para que CUAD Móvil funcione.
+hot_desking.cloudphone_send_qrcode.tooltip =
+	Genera un nuevo código QR y lo envía a la dirección de correo electrónico de la extensión.
+	Esta acción desconectará inmediatamente la aplicación CUAD Móvil de la extensión.	
+hot_desking.desktop_no_hostname = <strong>Note!</strong> El perfil seleccionado no define el nombre de host externo que se requiere para que CUAD Escritorio funcione.
+hot_desking.desktop_send_password.tooltip =
+	Genera una nueva contraseña y la envía a la dirección de correo electrónico de la extensión.
+	Esta acción desconectará inmediatamente la aplicación CUAD Escritorio de la extensión.
+cloudphone_mobile.limit_exceeded =
+	[0] Las licencias presentes en este sistema no permiten la creación de dispositivos CUAD Móvil adicionales.
+	[one] Las licencias presentes en este sistema solo permiten un dispositivo CUAD Móvil. No se podrán crear más dispositivos.
+	*[other] Las licencias presentes en este sistema permiten hasta {0} dispositivos CUAD Móvil. No se pueden crear más dispositivos.
+cloudphone_desktop.limit_exceeded =
+	[0] Las licencias presentes en este sistema no permiten la creación de dispositivos CUAD Escritorio adicionales.
+	[one] Las licencias presentes en este sistema solo permiten un dispositivo CUAD Escritorio. No se pueden crear más dispositivos.
+	*[other] Las licencias presentes en este sistema permiten hasta {0} dispositivos CUAD Escritorio. No se pueden crear más dispositivos.
+menu.cloudphone = CUAD
+module.cloudphone = CUAD
+cloudphone.mobile_subject = Instrucciones para extensión CUAD Mxóvil [extension]
+cloudphone.mobile_body =
+	Felicitaciones, su cuenta de Softphone CUAD Móvil está lista.<br>
+	Para instalarla y comenzar a hacer llamadas, descargue la aplicación en su dispositivo.<br><br>
+	Después de instalar la aplicación, simplemente ábrala y escanee el código QR a continuación.<br>
+	Cuando escanea el código QR, Asegúrese de tener conexión a Internet.
+cloudphone.desktop_subject = Instrucciones para extensión CUAD Escritorio [extension]
+cloudphone.desktop_body =
+	Felicitaciones, su cuenta de Softphone CUAD Escritorio está lista.<br>
+	Para instalarla y empezar a hacer llamadas, descarga la aplicación en tu dispositivo:<br><br>
+	Para Windows - https://downloads.telmex.com/exe/cuad_windows.exe <br>
+	Para MacOS - https://downloads.telmex.com/exe/cuad_mac.dmg <br><br>
+	Después de instalar la aplicación, copie y pegue las credenciales a continuación.<br>
+	Asegúrese de tener conexión a Internet al momento de instalar la aplicación. <br><br>
+	Usuario: [usuario]<br>
+	Contraseña: [contraseña]
+cloudphone.push.tooltip = CUAD Mobile devices will by default receive push notifications from a remote server that maintains connectivity to the PBX on behalf of the device. This is done to reduce battery usage on CUAD Mobile devices but requires the PBX to be accessible externally. Disabling push notifications will allow the CUAD Mobile device to make and receive calls via the local network but will reduce battery life. Los dispositivos CUAD Móvil recibirán de forma predeterminada notificaciones automáticas de un servidor remoto que mantiene la conectividad con el Conmutador en nombre del dispositivo. Esto se hace para reducir el uso de la batería en los dispositivos móviles CUAD pero requiere que el Conmutador sea accesible externamente. La desactivación de las notificaciones automáticas permitirá que el dispositivo móvil CUAD realice y reciba llamadas a través de la red local, pero reducirá la duración de la batería.
+cloudphone.qr_code_reset_warning = Está a punto de restablecer la contraseña del dispositivo y el código QR. Esta acción desconectará inmediatamente la aplicación CUAD Móvil de la extensión. Si se configura el correo electrónico de la extensión, el nuevo código QR se enviará automáticamente por correo electrónico al usuario.
+ombutel.cloudphone-mobile = CUAD Móvil
+ombutel.cloudphone-desktop = CUAD Escritorio
+cloudphone.password_reset_warning = Está a punto de restablecer la contraseña del dispositivo. Esta acción desconectará inmediatamente la aplicación de CUAD Escritorio de la extensión. Si el correo electrónico de la extensión está configurado, la nueva contraseña se enviará automáticamente por correo electrónico al usuario.
+profiles_technology_cloudphone = CUAD
+hot_desking.desktop_username.tooltip = Nombre de Usuario de la aplicación CUAD Escritorio.
+hot_desking.desktop_password.tooltip = Clave de la aplicación CUAD Escritorio.

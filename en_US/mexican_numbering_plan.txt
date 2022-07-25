@@ -35,3 +35,6 @@ mexican_numbering_plan.format_match =
 	Cellular: {0}
 cos_area_code.class_of_service_id.invalid = Class of service is required and must be valid.
 cos_area_code.area_code.invalid = Area code is required.
+mexican_numbering_plan.outgoing_line_access_code = Outgoing Line Access Code
+mexican_numbering_plan.outgoing_line_access_code.tooltip = The access code that is dialed to make external calls.
+mexican_numbering_plan.outgoing_line_access_code.invalid = Outgoing Line Access Code must be a number

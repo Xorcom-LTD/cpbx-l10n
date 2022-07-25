@@ -1,0 +1,48 @@
+profiles_cloudphone_remote_outbound_proxy_tooltip = Outbound proxy that the CUAD application should use, optionally including the port number.
+ombutel.cloudphone = CUAD Mobile
+ombutel.desktop = CUAD Desktop
+license.cloudphone-devices = CUAD Mobile
+license.desktop-devices = CUAD Desktop
+license.cloudphone-description-subst = CUAD
+hot_desking.cloudphone_no_hostname = <strong>Note!</strong> The selected profile does not define the external hostname which is required for CUAD Mobile to function.
+hot_desking.cloudphone_send_qrcode.tooltip =
+	Generates a new QR code and sends it to the extension email address.
+	This action will immediately disconnect the extension's CUAD Mobile application.
+hot_desking.desktop_no_hostname = <strong>Note!</strong> The selected profile does not define the external hostname which is required for CUAD Desktop to function.
+hot_desking.desktop_send_password.tooltip =
+	Generates a new password and sends it to the extension email address.
+	This action will immediately disconnect the extension's CUAD Desktop application.
+cloudphone_mobile.limit_exceeded =
+	[0] The licenses present on this system do not allow the creation of additional CUAD Mobile devices.
+	[one] The licenses present on this system only allows one CUAD Mobile device, no more devices may be created.
+	*[other] The licenses present on this system allow up to {0} CUAD Mobile devices, no more devices may be created.
+cloudphone_desktop.limit_exceeded =
+	[0] The licenses present on this system do not allow the creation of additional CUAD Desktop devices.
+	[one] The licenses present on this system only allows one CUAD Desktop device, no more devices may be created.
+	*[other] The licenses present on this system allow up to {0} CUAD Desktop devices, no more devices may be created.
+menu.cloudphone = CUAD
+module.cloudphone = CUAD
+cloudphone.mobile_subject = CUAD Mobile instructions for extension [extension]
+cloudphone.mobile_body =
+	Congratulations, your CUAD Mobile account is ready.<br>
+	To install and start making calls, please download the app to your device.<br><br>
+	After installing the app, just open it and scan the QR code below.<br>
+	Make sure to have internet connection when you do that.
+cloudphone.desktop_subject = CUAD Desktop instructions for extension [extension]
+cloudphone.desktop_body =
+	Congratulations, your CUAD Desktop account is ready.<br>
+	To install and start making calls, please download the app to your device:<br><br>
+	Windows - https://downloads.telmex.com/exe/cuad_windows.exe <br>
+	macOC - https://downloads.telmex.com/exe/cuad_mac.dmg <br><br>
+	After installing the app, copy and paste the credentials below.<br>
+	Make sure to have internet connection when you do that. <br><br>
+	Username: [username]<br>
+	Password: [password]
+cloudphone.push.tooltip = CUAD Mobile devices will by default receive push notifications from a remote server that maintains connectivity to the PBX on behalf of the device. This is done to reduce battery usage on CUAD Mobile devices but requires the PBX to be accessible externally. Disabling push notifications will allow the CUAD Mobile device to make and receive calls via the local network but will reduce battery life.
+cloudphone.qr_code_reset_warning = You are about to reset the device password and QR code. This action will immediately disconnect the extension's CUAD Mobile application. If the extension's email is set, the new QR code will be automatically sent by email to the user.
+ombutel.cloudphone-mobile = CUAD Mobile
+ombutel.cloudphone-desktop = CUAD Desktop
+cloudphone.password_reset_warning = You are about to reset the device password. This action will immediately disconnect the extension's CUAD Desktop application. If the extension's email is set, the new password will be automatically sent by email to the user.
+profiles_technology_cloudphone = CUAD
+hot_desking.desktop_username.tooltip = CUAD Desktop application username.
+hot_desking.desktop_password.tooltip = CUAD Desktop application password.

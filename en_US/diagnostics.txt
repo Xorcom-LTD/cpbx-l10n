@@ -1,0 +1,19 @@
+menu.diagnostics = Diagnostics
+module.diagnostics = Diagnostics
+diagnostics = Diagnostics
+diagnostics.diagnostics_general = General
+diagnostics.system_data = System Data
+diagnostics.system_name = System Name: {0}
+diagnostics.serial_number = Serial number: {0}
+diagnostics.date = Date: {0}
+diagnostics.version = {0} Version: {1}
+diagnostics.os = OS: {0} {1}
+diagnostics.kernel = Kernel: {0}
+diagnostics.virtualization = Virtualization: {0}
+diagnostics.software_revision = Software Revisions:
+diagnostics.configured_repositories = Configured Repositories:
+diagnostics.licenses = Licenses:
+diagnostics.metrics = Metrics:
+diagnostics.extensions = Extensions = {0}
+diagnostics.cloudphone = Cloudphone = {0}
+diagnostics.desktop = Desktop = {0}
