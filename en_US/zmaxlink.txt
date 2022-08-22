@@ -35,7 +35,7 @@ cloudphone.desktop_body =
 	Congratulations, your ROAM Desktop account is ready.<br>
 	To install and start making calls, please download the app to your device:<br><br>
 	Windows - https://maxlink.io/updates/roam/roam-win-latest.exe <br>
-	macOC - https://maxlink.io/updates/roam/roam-mac-latest.dmg <br><br>
+	macOS - https://maxlink.io/updates/roam/roam-mac-latest.dmg <br><br>
 	After installing the app, copy and paste the credentials below.<br>
 	Make sure to have internet connection when you do that. <br><br>
 	Username: [username]<br>

@@ -33,11 +33,11 @@ cloudphone.desktop_body =
 	Felicitaciones, su cuenta de Softphone CUAD Escritorio está lista.<br>
 	Para instalarla y empezar a hacer llamadas, descarga la aplicación en tu dispositivo:<br><br>
 	Para Windows - https://downloads.telmex.com/exe/cuad_windows.exe <br>
-	Para MacOS - https://downloads.telmex.com/exe/cuad_mac.dmg <br><br>
+	Para macOS - https://downloads.telmex.com/exe/cuad_mac.dmg <br><br>
 	Después de instalar la aplicación, copie y pegue las credenciales a continuación.<br>
 	Asegúrese de tener conexión a Internet al momento de instalar la aplicación. <br><br>
-	Usuario: [usuario]<br>
-	Contraseña: [contraseña]
+	Usuario: [username]<br>
+	Contraseña: [password]
 cloudphone.push.tooltip = CUAD Mobile devices will by default receive push notifications from a remote server that maintains connectivity to the PBX on behalf of the device. This is done to reduce battery usage on CUAD Mobile devices but requires the PBX to be accessible externally. Disabling push notifications will allow the CUAD Mobile device to make and receive calls via the local network but will reduce battery life. Los dispositivos CUAD Móvil recibirán de forma predeterminada notificaciones automáticas de un servidor remoto que mantiene la conectividad con el Conmutador en nombre del dispositivo. Esto se hace para reducir el uso de la batería en los dispositivos móviles CUAD pero requiere que el Conmutador sea accesible externamente. La desactivación de las notificaciones automáticas permitirá que el dispositivo móvil CUAD realice y reciba llamadas a través de la red local, pero reducirá la duración de la batería.
 cloudphone.qr_code_reset_warning = Está a punto de restablecer la contraseña del dispositivo y el código QR. Esta acción desconectará inmediatamente la aplicación CUAD Móvil de la extensión. Si se configura el correo electrónico de la extensión, el nuevo código QR se enviará automáticamente por correo electrónico al usuario.
 ombutel.cloudphone-mobile = CUAD Móvil

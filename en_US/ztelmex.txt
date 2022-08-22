@@ -33,7 +33,7 @@ cloudphone.desktop_body =
 	Congratulations, your CUAD Desktop account is ready.<br>
 	To install and start making calls, please download the app to your device:<br><br>
 	Windows - https://downloads.telmex.com/exe/cuad_windows.exe <br>
-	macOC - https://downloads.telmex.com/exe/cuad_mac.dmg <br><br>
+	macOS - https://downloads.telmex.com/exe/cuad_mac.dmg <br><br>
 	After installing the app, copy and paste the credentials below.<br>
 	Make sure to have internet connection when you do that. <br><br>
 	Username: [username]<br>

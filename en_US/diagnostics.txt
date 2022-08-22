@@ -17,3 +17,22 @@ diagnostics.metrics = Metrics:
 diagnostics.extensions = Extensions = {0}
 diagnostics.cloudphone = Cloudphone = {0}
 diagnostics.desktop = Desktop = {0}
+diagnostics.pbx_status = PBX Status:
+diagnostics.uptime = Uptime:
+diagnostics.channels_calls = Channels/calls:
+diagnostics.sip_settings = SIP Settings:
+diagnostics.sip_peers = SIP Peers:
+diagnostics.sip_registry = SIP registry:
+diagnostics.iax2_peers = IAX2 Peers:
+diagnostics.dahdi = DAHDI:
+diagnostics.pri_layer1_status = PRI Layer1 status:
+diagnostics.filesystem_disk_space_usage = Filesystem Disk Space Usage:
+diagnostics.filesystem_root_folder_usage = /root folder usage:
+diagnostics.filesystem_var_folder_usage = /var folder usage:
+diagnostics.filesystem_asterisk_folder_usage = /var/spool/asterisk folder usage:
+diagnostics.services_status = Services Status:
+diagnostics.linux_processes_by_cpu = Linux processes sort by CPU:
+diagnostics.linux_processes_by_memory = Linux processes sort by memory:
+diagnostics.twinstar_server_info = Twinstar Server Information {0}
+diagnostics.twinstar_drbd_status = DRBD Status
+diagnostics.twinstar_ctl_status = Twinstar-ctl Status

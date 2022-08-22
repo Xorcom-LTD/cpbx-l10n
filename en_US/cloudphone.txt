@@ -44,7 +44,7 @@ cloudphone.desktop_body =
 	Congratulations, your CloudPhone Desktop account is ready.<br>
 	To install and start making calls, please download the app to your device:<br><br>
 	Windows - https://updates.xorcom.com/servers/cphone/cphone-win-latest.exe <br>
-	MacOC - https://updates.xorcom.com/servers/cphone/cphone-mac-latest.dmg <br><br>
+	macOS - https://updates.xorcom.com/servers/cphone/cphone-mac-latest.dmg <br><br>
 	After installing the app, copy and paste the credentials below.<br>
 	Make sure to have internet connection when you do that. <br><br>
 	Username: [username]<br>
