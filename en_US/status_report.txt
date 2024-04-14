@@ -67,3 +67,6 @@ status_report.device = Device
 status_report.device_description = Device Description
 status_report.extension_name = Ext. Name
 status_report.technology = Technology
+status_report.devices = Devices
+status_report.filter = Filter
+status_report.filter.tooltip = Select one (or more) options from the list of available technology

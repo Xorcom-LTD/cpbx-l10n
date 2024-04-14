@@ -1,3 +1,4 @@
+cid_management = Modificateur de CID
 menu.cid_management = Modificateur de CID
 module.cid_management = Modificateur de CID
 cid_management.description = Description

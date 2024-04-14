@@ -1,3 +1,4 @@
+phonebook = Annuaires
 menu.phonebook = Annuaire
 module.phonebook = Annuaire
 phonebook.import_contacts = Importer contacts

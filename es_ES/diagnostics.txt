@@ -2,7 +2,7 @@ menu.diagnostics = Diagnóstico
 module.diagnostics = Diagnóstico
 diagnostics = Diagnóstico
 diagnostics.diagnostics_general = General
-diagnostics.system_data = System Data
+diagnostics.system_data = Datos del sistema
 diagnostics.system_name = System Name: {0}
 diagnostics.serial_number = Serial number: {0}
 diagnostics.date = Date: {0}
@@ -17,3 +17,11 @@ diagnostics.metrics = Metrics:
 diagnostics.extensions = Extensions = {0}
 diagnostics.cloudphone = Cloudphone = {0}
 diagnostics.desktop = Desktop = {0}
+diagnostics.diagnostic_mode = Modo diagnóstico
+diagnostics.diagnostic_mode_stop = Detener y descargar
+diagnostics.mode_time_remaining = Tiempo restante
+diagnostics.mode_time_remaining.tooltip = Tiempo restante para modo diagnóstico
+diagnostics.mode_start_confirmation = Estás por empezar el modo de diagnóstico por {0} minutos. Esto puede afectar el rendimiento del sistema. En caso de que se produzca una sobrecarga esto puede afectar a las llamadas.
+diagnostics.continue = Modo Diagnóstico
+diagnostics.system_data.tooltip = Recolectar y bajar los datos del sistema.
+diagnostics.diagnostic_mode.tooltip = Activar el Modo Diagnóstico por un período de tiempo limitado. Esto permitirá recopilar datos y registros más detallados del sistema, con el fin de resolver problemas. Al seleccionar Detener y Descargar, se descargarán el informe completo de datos y los registros detallados.

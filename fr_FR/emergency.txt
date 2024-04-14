@@ -1,3 +1,4 @@
+emergency = Urgence
 menu.emergency = Urgence
 module.emergency = Urgence
 emergency.emails = Liste email

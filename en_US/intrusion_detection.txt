@@ -24,3 +24,4 @@ intrusion_detection.updated_configuration = Configuration has been updated.
 intrusion_detection.whitelist = Whitelist
 menu.intrusion_detection = Intrusion Detection
 module.intrusion_detection = Intrusion Detection
+intrusion_detection.max_bantime = Ban Time must be between 0 to {0}

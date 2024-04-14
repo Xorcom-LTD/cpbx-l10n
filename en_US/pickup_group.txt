@@ -5,6 +5,7 @@ pickup_group.allow_pickup = Allow Pickup
 pickup_group.allow_pickup.tooltip = Allow pickup member of this pickup group
 pickup_group.description = Description
 pickup_group.description.tooltip = Short description for this pickup group.
+pickup_group.description.invalid = Description is required and must be unique.
 pickup_group.extension = Extension
 pickup_group.extension.tooltip = Extension to be a member or to be allowed to pick-up a member of this pick-up group, or both.
 pickup_group.extension_id.duplicate = Duplicate extensions are not allowed in pickup groups.

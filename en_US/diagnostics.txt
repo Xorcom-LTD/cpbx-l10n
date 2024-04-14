@@ -17,6 +17,13 @@ diagnostics.metrics = Metrics:
 diagnostics.extensions = Extensions = {0}
 diagnostics.cloudphone = Cloudphone = {0}
 diagnostics.desktop = Desktop = {0}
+diagnostics.network_info = Network information:
+diagnostics.ip_addresses = IP addresses:
+diagnostics.routing_table = Routing table:
+diagnostics.firewall_info = Firewall info:
+diagnostics.hosts_file = The /etc/hosts file:
+diagnostics.resolv_file = The /etc/resolv.conf file:
+diagnostics.ping_external_hostname = Ping external hostname:
 diagnostics.pbx_status = PBX Status:
 diagnostics.uptime = Uptime:
 diagnostics.channels_calls = Channels/calls:
@@ -36,3 +43,20 @@ diagnostics.linux_processes_by_memory = Linux processes sort by memory:
 diagnostics.twinstar_server_info = Twinstar Server Information {0}
 diagnostics.twinstar_drbd_status = DRBD Status
 diagnostics.twinstar_ctl_status = Twinstar-ctl Status
+diagnostics.hardware_information = Hardware Information:
+diagnostics.cpu_info = CPU Info:
+diagnostics.ram_or_swap_info = RAM/Swap Info:
+diagnostics.storage_info = Storage Info:
+diagnostics.list_block_devices = List Block Devices:
+diagnostics.hdd_health = HDD Health:
+diagnostics.usb_devices = USB devices:
+diagnostics.diagnostic_mode = Diagnostic Mode
+diagnostics.diagnostic_mode_stop = Stop and Download
+diagnostics.mode_time_remaining = Time Remaining
+diagnostics.mode_time_remaining.tooltip = The Remaining for diagnostics mode
+diagnostics.mode_start_confirmation = You are about to start Diagnostic Mode for {0} minutes. This may affect the system performance and in case of system overload, this may affect calls.
+diagnostics.continue = Diagnistic Mode
+diagnostics.system_data.tooltip = Collect and download system data.
+diagnostics.diagnostic_mode.tooltip = Activate diagnostic mode for a limited time. This will allow collecting more detailed system data and logs in order to troubleshoot system issues. When selecting Stop and Download the full System Data report and detailed logs will be downloaded.
+diagnostics.diagnostic_mode_stop.tooltip = The full System Data report and detailed logs will be downloaded.
+

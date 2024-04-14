@@ -1,3 +1,4 @@
+cid_management = Modificadores de CID
 menu.cid_management = Modificadores de CID
 module.cid_management = Modificadores de CID
 cid_management.description = Descripción
@@ -29,7 +30,7 @@ cid_management.v.replace_cid_name_with = Campo “Reemplazar con" en configuraci
 cid_management.v.prepend_to_cid_number = Campo “Precedente" en la configuración del número del CID
 cid_management.v.prepend_to_cid_number.invalid = %s es inválido. Sólo se permiten números y símbolos *,#,+
 cid_management.v.append_to_cid_number = Campo “Añadido" en configuración de número de CID
-cid_management.v.append_to_cid_number.invalid = %s es inválido. Sólo se permiten números y símbolos *,#,+ 
+cid_management.v.append_to_cid_number.invalid = %s es inválido. Sólo se permiten números y símbolos *,#,+
 cid_management.v.skip_on_cid_number = Campo “Quitar (Saltear)" en la configuración del número CID
 cid_management.v.cid_number_length = Campo ”Quitar (Longitud)" en la configuración del número CID
 cid_management.v.description.unique = La descripción debe ser única

@@ -1,6 +1,4 @@
 logfiles = Archivos de Registro
-logfiles.appendhostname = Adjuntar Nombre de Host
-logfiles.appendhostname.tooltip = Añade el nombre de host al nombre de los archivos de registro.
 logfiles.dateformat = Formato de Fecha
 logfiles.dateformat.tooltip = Personalizar la visualización de mensajes de depuración (debug) con indicación temporal. Ver el manual de Linux de strftime(3)para especificadores de formato. Tenga en cuenta que también hay un segundo parámetro fraccional que puede ser utilizado en este campo. Use %1q para décimas, %2q para centésimas, etc. Deje en blanco para predeterminado: formato de fecha ISO 8601  AAAA-MM-DD HH:MM:SS (%F %T).
 logfiles.debug = Depurar

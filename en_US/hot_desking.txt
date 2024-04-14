@@ -77,3 +77,15 @@ hot_desking.desktop_username = Username
 hot_desking.desktop_username.tooltip = CloudPhone Desktop application username.
 hot_desking.desktop_password = Password
 hot_desking.desktop_password.tooltip = CloudPhone Desktop application password.
+hot_desking.emergency_cid = Emergency CID
+hot_desking.emergency_cid_name = Name
+hot_desking.emergency_cid_number = Number
+hot_desking.emergency_cid.tooltip = Emergency Caller ID for the device, consisting of two parts: the CID Name and the CID Number. This sets the caller ID text that is displayed when this device calls emergency number on the PBX.</br><strong>Note:</strong> creating an Emergency CID will automatically generate a DID allowing for direct calling to this specific device regardless of extension settings.
+hot_desking.link_extension = Link Device
+hot_desking.confirmation =
+	Are you sure that you want to link device "{0}" to extension  "{1} - {2}" ? </br>
+	* The device will be disconnected from the currently associated extension.</br>
+	* If the selected extension is a hot desk extension then it will be disconnected from the currently associated device.</br>
+	* The device will not be a hot desk device.
+hot_desking.confirm = Confirm
+hot_desking.device_linked = Device Linked

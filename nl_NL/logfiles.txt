@@ -1,6 +1,4 @@
 logfiles = Logboekbestanden
-logfiles.appendhostname = Hostnaam Toevoegen
-logfiles.appendhostname.tooltip = Voegt de hostnaam aan de namen van de logboekbestanden toe.
 logfiles.dateformat = Datumnotatie
 logfiles.dateformat.tooltip = Pas aan hoe de tijdstempels van de foutopsporingsberichten worden weergegeven. Zie strftime(3) Linux-handboek voor notatieaanduiders. Merk op dat er ook een fractionele tweede parameter is die mag worden gebruikt in dit veld. Gebruik %1q voor tienden, %2q voor honderdsten enz. Laat leeg voor standaardinstelling: ISO 8601-datumnotatie jjjj-mm-dd UU:MM:SS (%F %T).
 logfiles.debug = Fouten Opsporen

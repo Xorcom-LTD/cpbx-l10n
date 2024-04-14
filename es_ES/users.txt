@@ -31,6 +31,5 @@ users.theme = Tema GUI
 users.theme.tooltip = Tema de estilo de interfaz gráfica de usuario.
 users.timezone = Zona Horaria
 users.timezone.tooltip = Zona Horaria de este usuario.
-users.username.duplicate = El nombre de usuario %s ya está en uso.
 users.user = Usuario
 users.user.tooltip = Nombre utilizar para ingresar (apodo).

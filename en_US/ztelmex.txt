@@ -25,7 +25,9 @@ module.cloudphone = CUAD
 cloudphone.mobile_subject = CUAD Mobile instructions for extension [extension]
 cloudphone.mobile_body =
 	Congratulations, your CUAD Mobile account is ready.<br>
-	To install and start making calls, please download the app to your device.<br><br>
+	To install and start making calls, please download the app to your device:<br><br>
+        iPhone: https://apps.apple.com/mx/app/cuad-telmex/id1636760466<br>
+        Android: https://play.google.com/store/apps/details?id=com.telmex.cuad.android<br><br>
 	After installing the app, just open it and scan the QR code below.<br>
 	Make sure to have internet connection when you do that.
 cloudphone.desktop_subject = CUAD Desktop instructions for extension [extension]

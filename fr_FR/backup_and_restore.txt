@@ -1,9 +1,9 @@
+backup_and_restore = Sauvegarde
 backup_and_restore.backup = Sauvegarde
 backup_and_restore.intro = Pour restaurer une sauvegarde existante, sélectionnez la sauvegarde dans le menu de droite.
 backup_and_restore.backup_invalid = Echec de chargement du fichier de sauvegarde
 backup_and_restore.backup_created = Sauvegarde crée avec succès
 backup_and_restore.backup_restored = Sauvegarde restaurée avec succès
-backup_and_restore.backup_error = Echec de création de sauvegarde telle que demandée
 backup_and_restore.restore_error = Echec de restauration de la sauvegarde
 backup_and_restore.backups = Sauvegardes
 backup_and_restore.cancel = Annuler

@@ -851,6 +851,7 @@ profiles.group.round_robin_asc = Round-Robin in Ascending Order
 profiles.group.round_robin_desc = Round-Robin in Descending Order
 profiles.channel.fxs_fxo_channel = {0}, ({1}) channel {2}
 
+dahdi_groups = Channel Groups
 profiles.dahdi_groups.name = Name {0}
 profiles.dahdi_groups.name.invalid = Name is required and must be unique.
 profiles.dahdi_groups.name.tooltip = Name of the channel group
@@ -883,6 +884,8 @@ profiles.dahdi_clocksource.clocksources = Clock Sources
 profiles.dahdi_clocksource.save = Save
 profiles.dahdi_clocksource.selection_and_order = Clock source selection and order
 profiles.dahdi_clocksource.span_channel = {0}, span {1} ({2}, channels {3}-{4})
+
+dahdi_spans = Spans
 profiles.dahdi_spans.general = General
 profiles.dahdi_spans.spans = Spans
 profiles.dahdi_spans.no_span_exists = No such span exists

@@ -33,6 +33,7 @@ inbound_route.did.tooltip =
 	<li>! - Zero or more remaining digits and/or characters.</li>
 	<li>[157-9X] - One digit and/or character (1, 5, 7, 8, 9 or X) as specified in brackets.</li>
 	</ul>
+inbound_route.did.invalid = DID pattern must be valid or empty.
 inbound_route.enablerecording = Enable Recording
 inbound_route.enablerecording.tooltip = Enable Call Recording.
 inbound_route.faxdetection = Fax Detection
@@ -77,3 +78,4 @@ inbound_route_cid_source.inbound_route_id.invalid = Inbound route is required an
 inbound_route_cid_source.phonebook_id.invalid = Phonebook is required and must be valid.
 inbound_route.did.wildcards = Wildcards . and ! are only allowed at the end of the DID pattern.
 inbound_route.cid_number.wildcards = Wildcards . and ! are only allowed at the end of the CID pattern.
+inbound_route.cid_number.invalid = CID pattern must be valid or empty.

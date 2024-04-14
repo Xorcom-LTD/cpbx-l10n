@@ -850,6 +850,8 @@ profiles.group.linear_desc = Lineal en Orden Descendente
 profiles.group.round_robin_asc = Circuito Cíclico en Orden Ascendente
 profiles.group.round_robin_desc = Circuito Cíclico en Orden Descendente
 profiles.channel.fxs_fxo_channel = {0}, ({1}) canal {2}
+
+dahdi_groups = Grupos de Canales
 profiles.dahdi_groups.name = Nombre {0}
 profiles.dahdi_groups.name.tooltip = Nombre del grupo de canales
 profiles.dahdi_groups.legend.channels_group = Canales para este grupo
@@ -878,6 +880,8 @@ profiles.dahdi_clocksource.clocksources = Fuentes de Reloj
 profiles.dahdi_clocksource.save = Guardar
 profiles.dahdi_clocksource.selection_and_order = Selección de fuente de reloj y orden
 profiles.dahdi_clocksource.span_channel = {0}, span {1} ({2}, channels {3}-{4})
+
+dahdi_spans = Spans
 profiles.dahdi_spans.general = General
 profiles.dahdi_spans.spans = Spans
 profiles.dahdi_spans.no_span_exists = Ese span no existe

@@ -123,3 +123,5 @@ sip_settings.msg = Make sure that UDPTL rule exists in the Firewall module for T
 sip_settings.anonymous_profile = Anonymous Profile
 sip_settings.anonymous_profile.tooltip = SIP profile used for incoming anonymous calls.
 sip_settings.enabled = Enabled
+sip_settings.rtpkeepalive = RTP Keepalive
+sip_settings.rtpkeepalive.tooltip = Send keepalives in the RTP stream to keep NAT open.

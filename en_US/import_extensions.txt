@@ -59,3 +59,5 @@ import_extensions.technology.invalid = Technology {0} is invalid
 import_extensions.extension_inuse = Extension {0} is referenced by other modules and cannot be removed
 import_extensions.channel.duplicate = Device channel '{0}' is used elsewhere. Device channel must be unique.
 import_extensions.invalid_hotdesk_technology = It is not possible to create {0} hotdesk devices.
+import_extensions.description.emergency_cid_name = Emergency Caller ID name - optional free-text name.
+import_extensions.description.emergency_cid_number = Emergency Caller ID number will automatically generate a DID allowing for direct calling to this specific device.

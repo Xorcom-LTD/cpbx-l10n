@@ -48,3 +48,15 @@ hot_desking.voicemail_uri = URI del Correo de Voz
 hot_desking.voicemail_uri.tooltip = Si el botón de Mensajes del teléfono debe marcar un SIP URI en lugar de abrir la aplicación de correo de voz visual, esta opción especifica qué URI debe marcar el botón de Menjs. Si establece esta opción en la línea principal de un teléfono se desactivará el correo de voz visual.
 menu.hot_desking = Escritorio Compartido
 module.hot_desking = Escritorio Compartido
+hot_desking.emergency_cid = CID de emergencia
+hot_desking.emergency_cid_name = nombre
+hot_desking.emergency_cid_number = Número
+hot_desking.emergency_cid.tooltip = Número de Emergencia para el dispositivo consiste de dos partes: el nombre de identificación y el número de identificación. Esto establece el texto que se despliega para para el número de identificación, cuando este dispositivo realiza una llamada de emergencia en el PBX. </br><strong>Nota:</strong> Al crear un número de identificación de emergencia se generará un DID de forma automática que permite la llamada directa a este dispositivo específico, sin importar la configuración de la extensión.
+hot_desking.link_extension = Relacionar dispositivo
+hot_desking.confirmation =
+	Está seguro que desea relacionar el dispositivo "{0}" con la extensión "{1} - {2}" ?</br>
+	* El dispositivo será desconectado de la extensión a la que está asociada.</br>
+	* Si la extensión seleccionada está configurada en modo host desk, será desconectada del dispositivo al que está actualmente asociada.</br>
+	* El dispositivo no será hot desk.
+hot_desking.confirm = Confirmar
+hot_desking.device_linked = Dispositivo Relacionar

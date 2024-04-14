@@ -275,7 +275,7 @@ profiles_cloudphone_autoanswer_timeout_invalid = Auto answer delay must be great
 profiles.used_as_anonymous_profile = Profile cannot be deleted, it is used by <a onclick="pbx_request('menu43');">SIP Settings</a> for incoming anonymous calls.
 profiles.used_as_anonymous_profile.nohtml = Profile cannot be deleted, it is used for incoming anonymous calls.
 profiles_advanced_enabled = Enabled
-profiles_technology_teams = MS Teams Connect
+profiles_technology_teams = Teams Connector
 profiles_teams_avpf = AVPF
 profiles_teams_avpf_tooltip = Enables inter-operatibility with media streams using the AVPF RTP profile.
 profiles_teams_callerid = Caller ID
@@ -381,4 +381,4 @@ profiles_teams_country_tooltip = Country for this profile.
 profiles_teams_country_invalid = No country specified.
 profiles_teams_outside_line_prefix = Outside Line Prefix
 profiles_teams_outside_line_prefix_tooltip = If your PBX requires dialing a digit for external calls/outside line, enter it here.
-profiles_teams_account_id_missing = MS Teams Connect Account ID not set.
+profiles_teams_account_id_missing = Teams Connector Account ID not set.

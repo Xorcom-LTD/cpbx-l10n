@@ -1,3 +1,4 @@
+dial_profiles = Perfiles de marcado
 menu.dial_profiles = Perfiles de marcado
 module.dial_profiles = Perfiles de marcado
 dial_profiles.name = Nombre

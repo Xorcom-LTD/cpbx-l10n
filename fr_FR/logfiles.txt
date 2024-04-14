@@ -1,6 +1,4 @@
 logfiles = Fichiers log
-logfiles.appendhostname = Ajouter nom d'hôte
-logfiles.appendhostname.tooltip = Ajoute le nom d'hôte à la fin du nom du fichier. Peut être utile pour différencier les logs de plusieurs IPBX
 logfiles.dateformat = Format de la date
 logfiles.dateformat.tooltip = Personalise la date des entrées du fichier Log. Pour connaire les formats de date à utiliser, regardez l'entrée du manuel linux strftime(3).Veuillez noter que les fractions de secondes peuvent également être utilisées. Insérez %1q pour les diziemes, %2q pour les centiemes, etc. Si vide, la date au format ISO 8601 yyyy-mm-dd HH:MM:SS (%F %T) sera utilisée.
 logfiles.debug = Debug

@@ -1,3 +1,4 @@
+phonebook = Phonebooks
 menu.phonebook = Phonebook
 module.phonebook = Phonebook
 phonebook.brands = Brands
@@ -73,3 +74,9 @@ phonebook.contact.empty_names = First name and last name cannot both be empty
 phonebook.contact.phonebook_id.invalid = Phonebook is required and must be valid
 phonebook.dinstar = Dinstar
 phonebook.import_failed = Unable to import phonebook, unable to parse input file.
+phonebook.snom = SNOM
+phonebook.asc = Ascending
+phonebook.desc = Descending
+phonebook.sort = Sort
+phonebook.sort.tooltip = Sort to generate sorted phonebook list for Phone and Export.
+phonebook.htek = HTEK

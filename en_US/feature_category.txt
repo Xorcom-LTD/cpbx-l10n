@@ -8,3 +8,5 @@ feature_category.enabled_features = Enabled Features
 feature_category.general = General
 menu.feature_categories = Feature Categories
 module.feature_category = Feature Categories
+feature_category_member.feature_code_category_id.invalid = Feature category is required and must be valid.
+feature_category_member.feature_code_id.invalid = Feature code is required and must be valid.

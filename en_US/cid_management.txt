@@ -1,3 +1,4 @@
+cid_management = CID Modifiers
 menu.cid_management = CID Modifiers
 module.cid_management = CID Modifiers
 cid_management.description = Description
@@ -19,7 +20,7 @@ cid_management.append_to_cid_number.help = Suffix to be added after the original
 cid_management.strip_off = Skip / Length
 cid_management.strip_off.help = Modify incoming CID number by starting the manipulation a number of digits either from the beginning or end of the CID number, while retaining any number of the original digits.
 cid_management.skip = Skip
-cid_management.skip.help = specify where to start modifying the CID number. A positive skip value of x will ignore the the leading x digits.  A negative value of x will start x digits before the end of incoming CID number.
+cid_management.skip.help = specify where to start modifying the CID number. A positive skip value of x will ignore the leading x digits.  A negative value of x will start x digits before the end of incoming CID number.
 cid_management.length = Length
 cid_management.length.help = determines the length of the modified CID number. If length is zero, all digits after the start position will be used. Define a negative length of x in order to discard the x trailing digits.
 cid_management.v.prepend_to_cid_name = "Prepend" field on CID Name Settings

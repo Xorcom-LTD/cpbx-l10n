@@ -23,3 +23,7 @@ time_condition.description.invalid = Description is required and must be unique.
 time_condition.time_group_id = Time group is required and must be valid.
 time_condition.match_destination_id = Match destination is required and must be valid.
 time_condition.mismatch_destination_id = Mismatch destination is required and must be valid.
+time_conditions.infinite_loop = To avoid a potential infinite loop, The Destination can not point to itself.
+time_condition.time_group_id.invalid = Time group is required and must be valid.
+time_condition.match_destination_id.invalid = Match destination is required and must be valid.
+time_condition.mismatch_destination_id.invalid = Mismatch destination is required and must be valid.

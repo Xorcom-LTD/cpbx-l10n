@@ -62,3 +62,6 @@ system_general.transfer_callback.tooltip = Return callback behavior when the tra
 system_general.return_NA = Return to transferrer if no answer
 system_general.return_NA_VM = Return to transferrer if no answer or voicemail
 system_general.no_return = Do not return to transferrer
+system_general.return_callback_prefix = Return Callback Prefix
+system_general.return_callback_prefix.tooltip = Prefix to prepend to CID Name. Can be used to indicate to the transferrer that call came back from an unanswered transfer call.
+system_general.return_callback_prefix.invalid = Return Callback Prefix is invalid. Only underscore, dash and alphanumeric values are allowed

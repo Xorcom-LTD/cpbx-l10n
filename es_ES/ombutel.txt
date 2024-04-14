@@ -190,3 +190,4 @@ ombutel.fxs = FXS
 ombutel.sip = SIP
 ombutel.iax = IAX2
 ombutel.none = None
+ombutel.export = Exportar

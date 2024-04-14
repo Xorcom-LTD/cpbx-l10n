@@ -4,6 +4,7 @@ accountcode.code.invalid = Customer code is invalid. Use only numbers and the "*
 accountcode.code.tooltip = Customer code number.
 accountcode.description = Description
 accountcode.description.tooltip = Short description to identify this customer code.
+accountcode.description.invalid = Description is required and must be unique.
 accountcode.enabled = Enabled
 accountcode.enabled.tooltip = Enable/Disable This customer code.
 accountcode.general = General

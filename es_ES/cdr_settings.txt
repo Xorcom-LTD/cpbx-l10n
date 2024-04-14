@@ -1,0 +1,28 @@
+cdr_settings = Ajustes de CDR
+cdr_settings.general = General
+cdr_settings.cdr_settings = Ajustes de CDR
+module.cdr_settings = Ajustes de CDR
+menu.cdr_settings = Ajustes de CDR
+cdr_settings.save = Guardar
+cdr_settings.every_minute = Cada un minuto
+cdr_settings.every_10_minutes = Cada 10 minutos
+cdr_settings.every_30_minutes = Cada 30 minutos
+cdr_settings.every_hour = Cada hora
+cdr_settings.every_12_hours = Cada 12 horas
+cdr_settings.every_day = Todos los días
+cdr_settings.write_csv = Escribir el CDR a CSV
+cdr_settings.write_csv.tooltip = Si se deben generar archivos CSV que contengan archivos CDR.
+cdr_settings.upload_csv = Subir CSV
+cdr_settings.upload_csv.tooltip = Si se deben cargar archivos CSV generados a un proveedor de almacenamiento externo.
+cdr_settings.upload_interval = Intervalo de subida
+cdr_settings.upload_interval.tooltip = Intervalo entre intentos de subida
+cdr_settings.resource_id = Destino
+cdr_settings.resource_id.tooltip = Qué proveedor de almacenamiento externo se usará cuando se suben archivos CSV.
+cdr_settings.resource_id.invalid = El distino es requerido y debe ser válido
+cdr_settings.cdr_csv = CDR CSV
+cdr_settings.no_destinations = Para subir un archivo CSV, uno o más {0}Proveedores de Almacenamiento Externo{1} deben ser configurados
+cdr_settings.api.write_csv.invalid = write_csv es requerido
+cdr_settings.api.upload_csv.invalid = upload_csv es requerido cuando write_csv=true
+cdr_settings.api.upload_interval.invalid = upload_interval es requerido cuando upload_csv=true. Solo se permiten los siguientes valores [1, 10, 30, 60, 720, 1440]
+cdr_settings.api.resource_id.invalid = resource_id es requerido y debe ser válido
+cdr_settings.api.resource.cdr_csv_disabled =  cdr_csv debe estar habilitado para el destino elegido

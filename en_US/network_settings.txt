@@ -57,3 +57,5 @@ network_settings.metric = Metric
 network_settings.route_destination_invalid = Route destination "{0}" is not a valid CIDR address.
 network_settings.route_nexthop_invalid = Route next hop "{0}" is not a valid IP address.
 network_settings.route_metric_invalid = Route metric "{0}" is not a positive number.
+network_settings.notice = Notice
+network_settings.no_network_manager = Network Manager is not present on this system.

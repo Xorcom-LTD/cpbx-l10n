@@ -31,6 +31,5 @@ users.theme = GUI-thema
 users.theme.tooltip = Thema voor de GUI-stijl.
 users.timezone = Tijdzone
 users.timezone.tooltip = Landinstellingen voor deze gebruiker.
-users.username.duplicate = De aanmeldingsnaam %s is reeds in gebruik.
 users.user = Aanmeldingsnaam
 users.user.tooltip = Naam die gebruikt wordt voor het aanmelden (bijnaam).

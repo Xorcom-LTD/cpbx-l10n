@@ -1,6 +1,4 @@
 logfiles = 日志文件
-logfiles.appendhostname = 追加主机名称
-logfiles.appendhostname.tooltip = Appends the hostname to the name of the log files.
 logfiles.dateformat = 日期格式
 logfiles.dateformat.tooltip = Customize the display of debug message time stamps. See strftime(3) Linux manual for format specifiers. Note that there is also a fractional second parameter which may be used in this field. Use %1q for tenths, %2q for hundredths, etc. Leave blank for default: ISO 8601 date format yyyy-mm-dd HH:MM:SS (%F %T).
 logfiles.debug = Debug

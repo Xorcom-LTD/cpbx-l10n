@@ -74,4 +74,5 @@ feature_code.recordings_announcements = Enregistrements et annonces
 menu.feature_codes = Codes de fonctions
 module.feature_code = Codes de fonctions
 feature_code.send_vm_msg = Déposer un message vocal
+feature_code.send_vm_msg_ver1 = Déposer un message vocal
 feature_code.spy_ext_barge = Intrusion dans l'appel

@@ -239,7 +239,7 @@ ombutel.previous = Previous
 ombutel.next = Next
 ombutel.paging = Displaying #0-#1 of #2 (out of #3)
 ombutel.rows_per_page = Rows Per Page
-ombutel.request_too_big = The data that you have requested to upload exceeds the file size limit of {0}.<br/>If you are trying to upload a backup file, you can transfer it directly to the /var/lib/ombutel/static/backup/ folder
+ombutel.request_too_big = The data that you have requested to upload exceeds the file size limit of {0}MB.<br/>If you are trying to upload a backup file, you can transfer it directly to the {1} folder by using SCP.
 ombutel.non_utf8_input = Invalid UTF-8 code sequences detected. Please make sure the file format is CSV and that it uses UTF-8 character encoding.
 ombutel.export = Export
 ombutel.export.tooltip = Export to CSV, ODS or JSON format
@@ -257,8 +257,8 @@ ombutel.warnings = Warnings
 ombutel.informational = Informational
 ombutel.info = Info
 ombutel.warning = Warning
-ombutel.used_as_destination = Cannot remove this object, it is used as destination by <a onclick="pbx_request('{0}','{1}','edit',{2});">{3}, {4}</a>.
-ombutel.used_as_destination.nohtml = Cannot remove this object, it is used as destination by {3}, {4}.
+ombutel.used_as_destination = Cannot remove this object, it is used as destination by <a onclick="{0}">{1}, {2}</a>.
+ombutel.used_as_destination.nohtml = Cannot remove this object, it is used as destination by {1}, {2}.
 ombutel.and_n_more = And {0} more.
 ombutel.object_used_by = This object is used by <a onclick="pbx_request('{0}',null,'edit',{1});">{2}, {3}</a>.
 ombutel.object_used_by.nohtml = This object is used by {2}, {3}.
@@ -268,6 +268,20 @@ ombutel.apply_config_running = Cannot apply configuration, already in progress.
 menu.download_cdr_recordings = Download CDR Recordings
 ombutel.uses_recording = Cannot remove this recording, it is used by <a onclick="pbx_request('{0}','{1}','edit',{2});">{3}, {4}</a>.
 ombutel.uses_recording.nohtml = Cannot remove this recording, it is used by {3}, {4}.
-ombutel.teams = MS Teams Connect
+ombutel.teams = Teams Connector
 ombutel.empty_server_response = Received empty response from server.
 ombutel.connection_aborted = Connection aborted unexpectedly.
+ombutel.login = Login
+ombutel.logout = Logout
+login.username = Username
+login.password = Password
+login.username_required = Please enter your user name.
+login.password_required = Please enter your password.
+ombutel.setup_admin_password = Setup Admin Password
+ombutel.setup_admin_password.tooltip = This allows you to configure the password to login with the admin user.
+login.retype_password = Retype Password
+login.retype_required = Please retype your password.
+login.password_mismatch = Please enter the same password.
+ombutel.apply_changes = Apply Changes
+login.or = OR
+ombutel.server_error = Unable to communicate with server. Please refresh your browser. If the problem persists, please contact support.

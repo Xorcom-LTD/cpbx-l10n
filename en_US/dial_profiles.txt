@@ -1,3 +1,4 @@
+dial_profiles = Dial Profiles
 menu.dial_profiles = Dial Profiles
 module.dial_profiles = Dial Profiles
 dial_profiles.name = Name
