@@ -1,2 +1,3 @@
 cpbx.licenses_title.warning = ATENCION!
 cpbx.ombu_allowed_extensions = Ha llegado a su límite de licencia {0} de extensiones. <br/>Para comprar licencia para más extensiones, póngase en contacto con su distribuidor.
+module.search = Search
