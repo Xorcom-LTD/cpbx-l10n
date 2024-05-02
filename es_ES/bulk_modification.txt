@@ -35,3 +35,4 @@ bulk_modification.general = General
 bulk_modification.select_extensions = Seleccione Extensiones
 menu.bulk_modification = Modificación Masiva
 module.bulk_modification = Modificación Masiva
+bulk_modification.bulk-call_waiting.tooltip = Habilitar/Deshabilitar llamada en espera.
