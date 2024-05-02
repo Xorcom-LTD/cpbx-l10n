@@ -1,0 +1,4 @@
+wakeup_call.wakeup_call = Llamada de Despertador
+wakeup_call.extension_id.invalid = La extensión debe ser una extensión válida.
+wakeup_call.when.invalid = La hora debe ser posterior a la hora actual.
+wakeup_call.duplicate = Ya existe una llamada de despertador para esta extensión y hora. 

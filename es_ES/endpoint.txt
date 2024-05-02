@@ -43,6 +43,7 @@ epm.device_mapping.table.brand = Marca
 epm.device_mapping.table.model = Modelo
 epm.device_mapping.table.template = Plantilla
 epm.device_mapping.table.devices = Dispositivos
+epm.device_mapping.lines = Líneas
 epm.device_mapping.reboot_selected_devices = Reiniciar Dispositivos Seleccionados
 epm.device_mapping.unassigned_devices = Dispositivos sin Asignar
 epm.device_mapping.scan_subnet_devices = Subred Búsqueda de Dispositivos

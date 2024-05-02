@@ -86,6 +86,7 @@ complete_concierge.extensions.tooltip = Extensions belonging to this room.
 complete_concierge.extensions.invalid = At least one extension must be selected.
 complete_concierge.extension.invalid = A valid extension must be selected
 complete_concierge.extension_exists.invalid = Extension number {0} already exists
+complete_concierge.guest_name = Guest Name
 complete_concierge.unassigned = Unassigned
 complete_concierge.room_not_found = No such room.
 complete_concierge.edit_room = Edit Room

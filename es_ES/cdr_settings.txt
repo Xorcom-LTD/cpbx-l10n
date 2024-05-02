@@ -21,8 +21,3 @@ cdr_settings.resource_id.tooltip = Qué proveedor de almacenamiento externo se u
 cdr_settings.resource_id.invalid = El distino es requerido y debe ser válido
 cdr_settings.cdr_csv = CDR CSV
 cdr_settings.no_destinations = Para subir un archivo CSV, uno o más {0}Proveedores de Almacenamiento Externo{1} deben ser configurados
-cdr_settings.api.write_csv.invalid = write_csv es requerido
-cdr_settings.api.upload_csv.invalid = upload_csv es requerido cuando write_csv=true
-cdr_settings.api.upload_interval.invalid = upload_interval es requerido cuando upload_csv=true. Solo se permiten los siguientes valores [1, 10, 30, 60, 720, 1440]
-cdr_settings.api.resource_id.invalid = resource_id es requerido y debe ser válido
-cdr_settings.api.resource.cdr_csv_disabled =  cdr_csv debe estar habilitado para el destino elegido

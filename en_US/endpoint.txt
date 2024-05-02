@@ -48,6 +48,7 @@ epm.device_mapping.table.brand = Brand
 epm.device_mapping.table.model = Model
 epm.device_mapping.table.template = Template
 epm.device_mapping.table.devices = Devices
+epm.device_mapping.lines = Lines
 epm.device_mapping.reboot_selected_devices = Reboot Selected Devices
 epm.device_mapping.unassigned_devices = Unassigned Devices
 epm.device_mapping.scan_subnet_devices = Scan Subnet for Devices
