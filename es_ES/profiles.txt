@@ -114,3 +114,5 @@ profiles_technology_iax = IAX2
 profiles_technology_invalid = Tipo de tecnología seleccionada no es válida.
 profiles_technology_sip = SIP
 profiles_technology_tooltip = Tipo de tecnología para este perfil.
+profiles_cloudphone_nat_no_mt_tooltip = No realizar ningún manejo especial de NAT aparte de RFC3581. <b>(La única opción permitida para el sistema MT).
+profiles_teams_nat_no_mt_tooltip = No realizar ningún manejo especial de NAT aparte de RFC3581. <b>(La única opción permitida para el sistema MT).
