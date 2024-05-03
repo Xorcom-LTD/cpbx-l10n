@@ -191,3 +191,4 @@ ombutel.sip = SIP
 ombutel.iax = IAX2
 ombutel.none = None
 ombutel.export = Exportar
+ombutel.export.tooltip = Exportar al formato CSV, ODS o JSON.
