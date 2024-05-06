@@ -1,6 +1,8 @@
 dialrules = Reglas de Restricción de Marcado
 dialrules.allow = Permitir
 dialrules.allow.tooltip = Patrones a Permitir/Rechazar.
+dialrules.apply_locally = Aplicar a llamadas internas
+dialrules.apply_locally.tooltip = Aplicar las reglas también al marcar números internos. <br/>Las reglas siempre se aplicarán a las llamadas externas.  <br/>Predeterminado: 'Sí'
 dialrules.announcement_id = Anuncio
 dialrules.announcement_id.tooltip = Anuncio para escuchar antes de conectar la llamada.
 dialrules.description = Descripción

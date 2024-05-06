@@ -1,4 +1,5 @@
-menu.import_speeddial = Importar/Exportar Marcado Rápido
+menu.import_speeddial = Imp./Exp. Marcado Rápido
+menu.import_speeddial_subsubmenu = Importar/Exportar Marcado Rápido
 module.import_speeddial = Importar/Exportar Marcado Rápido
 import_speeddial = Importar Marcado Rápido
 import_speeddial.tooltip = Formatos de archivo admitidos: CSV, ODS y JSON
