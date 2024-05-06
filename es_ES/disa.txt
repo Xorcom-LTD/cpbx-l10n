@@ -16,3 +16,5 @@ disa.resptimeout = Tiempo de Espera de Respuesta
 disa.resptimeout.tooltip = Tiempo máximo de espera para marcar el primer dígito
 menu.disa = DISA
 module.disa = DISA
+disa.enablerecording = Habilitar grabación
+disa.enablerecording.tooltip = Habilitar grabación de llamadas.

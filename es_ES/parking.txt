@@ -44,3 +44,7 @@ parking.parkpos = Posiciones de Aparcamiento
 parking.parkpos.tooltip = Rango de plazas de aparcamiento para su uso.
 parking.timeout_destination = Tiempo de Espera de Destino
 destination_type.parking_lot = Aparcamiento
+parking.returncallprefix = Prefijo de Devolución de Llamada
+parking.returncallprefix.tooltip = Prefijo para agregar al Nombre de identificador de llamada (CID). Puede ser usado para indicar a la persona que llama desde qué estacionamiento proviene la llamada.
+parking.use_as_default = Usar como predeterminado
+parking.use_as_default.tooltip = Marcar este estacionamiento como predeterminado en todo el sistema.

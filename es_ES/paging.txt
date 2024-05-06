@@ -1,6 +1,8 @@
 menu.paging_and_intercom = Buscapersonas & Intercom
 module.paging = Buscapersonas & Intercomunicador
 paging = Buscapersonas & Intercomunicador
+paging.announcement = Anuncio
+paging.announcement.tooltip = Anuncio para los números localizados por Buscapersonas
 paging.description = Descripción
 paging.description.tooltip = Breve descripción para identificar esta buscapersonas
 paging.duplex = Audio Duplex
