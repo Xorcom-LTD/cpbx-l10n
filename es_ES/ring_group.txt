@@ -25,3 +25,4 @@ ring_group.strategy = Estrategia de Timbrado
 ring_group.strategy.one_by_one = Uno a Uno
 ring_group.strategy.ringall = Timbrar Todas
 ring_group.strategy.tooltip = Estrategia de Timbrado
+destination_type.ringgroup = Grupo de Timbrado

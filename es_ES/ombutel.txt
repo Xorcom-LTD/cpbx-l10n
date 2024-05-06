@@ -192,3 +192,4 @@ ombutel.iax = IAX2
 ombutel.none = None
 ombutel.export = Exportar
 ombutel.export.tooltip = Exportar al formato CSV, ODS o JSON.
+destination_type.terminate_call = Terminar Llamada
