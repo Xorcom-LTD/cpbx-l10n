@@ -180,3 +180,4 @@ queues.agent_login.tooltip = Al definir <b>Sí</b> en este campo, se permitirá 
 queues.dial_profile_id = Perfil de marcación 
 queues.dial_profile_id.invalid = El perfil de marcación debe ser válido o se lo debe dejar en blanco.
 queues.dial_profile_id.tooltip = Perfil con las opciones de marcación que serán usadas cuando se llama a esta cola de atención.
+destination_type.queue = Cola
