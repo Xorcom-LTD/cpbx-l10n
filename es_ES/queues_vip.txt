@@ -4,6 +4,7 @@ queues_vip = Colas VIP
 queues_vip.confirm_delete = ¿Está seguro de que quiere borrar esta lista VIP en cola?
 queues_vip.delete = Eliminar
 queues_vip.description = Descripción
+queues_vip.description.invalid = Se requiere una descripción y debe ser única.
 queues_vip.description.tooltip = Breve descripción para identificar esta lista VIP en cola.
 queues_vip.general = General
 queues_vip.list = Lista VIP
