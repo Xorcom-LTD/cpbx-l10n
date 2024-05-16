@@ -14,7 +14,7 @@ hot_desking.delete = Eliminar
 hot_desking.delete.tooltip = ¿Seguro que desea eliminar este registro %s?
 hot_desking.deny = Negar
 hot_desking.deny.invalid = La denegación no es válida. Por favor introduzca la dirección IP con su Máscara de Subred. Ud. puede utilizar registro CIDR. (Ejemplo: 192.168.40.38/16)
-hot_desking.deny.tooltip = Una o más redes y/o direcciones para bloquear. El valor predeterminado de 0.0.0.0/0 significa bloquear todo. Los valores pueden escribirse como dirección/subred (ej. 192.168.1.1/255.255.255.0) o utilizando notación CIDR (ej. 192.168.1.1/24), separados por coma o espacio.
+hot_desking.deny.tooltip = En una definición de user/peer, es posible limitar el tráfico hacia y desde este punto a una determinada IP o red. (Ejemplo: niegan = 192.168.40.38 / 255.255.255.255 niega el tráfico desde esta dirección IP).
 hot_desking.dev_description = Descripción del Dispositivo
 hot_desking.dev_description.tooltip = Una breve descripción para identificar este dispositivo.
 hot_desking.digit_map = Mapa de Dígitos
@@ -25,20 +25,22 @@ hot_desking.dtmfmode.auto.tooltip = Utilizar RFC2833 si es ofrecido, de lo contr
 hot_desking.dtmfmode.inband.tooltip = Inband audio (requiere 64 kbit codec -alaw, ulaw)
 hot_desking.dtmfmode.info.tooltip = SIP INFO messages (application/dtmf-relay)
 hot_desking.dtmfmode.shortinfo.tooltip = SIP INFO messages (application/dtmf)
-hot_desking.dtmfmode.tooltip = Establecer modo predeterminado de DTMF. Se recomienda usar RFC 2833.
+hot_desking.dtmfmode.tooltip = Establecer dtmf-mode por defecto para el envío de DTMF. RFC2833 predeterminado
 hot_desking.general = General
+hot_desking.host_settings = Configuraciones del Host
 hot_desking.language = Idioma
 hot_desking.language.tooltip = Especifica la configuración de idioma que se utilizará para este dispositivo. Esto obligará a reproducir todos los mensajes guía específicos al usuario en el idioma seleccionado, siempre que el idioma y los mensajes de voz del mismo estén instalados
 hot_desking.nat = NAT
-hot_desking.nat.auto_comedia.tooltip = Activa opción "comedia" si Asterisk detecta NAT.
+hot_desking.nat.auto_comedia.tooltip = Establecer la opción comedia si Asterisk detecta NAT.
 hot_desking.nat.auto_force.tooltip = Establecer la opción force_rport si Asterisk detecta NAT.
 hot_desking.nat.comedia.tooltip = Enviar la media recibida al puerto Asterisk, independientemente del destino que indique el SDP.
 hot_desking.nat.force.tooltip = Simular que había un parámetro rport, incluso si no lo había.
 hot_desking.nat.no.tooltip = No hacer manipulaciones especiales de NAT a excepción de RFC3581.
+hot_desking.nat.no.mt_tooltip = No realizar ningún manejo especial de NAT aparte de RFC3581. <b>(La única opción permitida para el sistema MT)</b>
 hot_desking.nat.tooltip = NAT (Network Address Translation) es la tecnología más utilizada por los cortafuegos (firewall) y routers para permitir que varios dispositivos en una red local con las direcciones "IP Privadas" puedan compartir una única dirección IP pública. Una dirección IP privada es una dirección que sólo puede ser accedida desde la red LAN, pero no desde Internet (fuera de la LAN).
 hot_desking.permit = Permitir
 hot_desking.permit.invalid = Permitir no es válido. Por favor introduzca la dirección IP con la máscara de Subred. Ud. puede utilizar registro CIDR. (Ejemplo: 192.168.40.38/16)
-hot_desking.permit.tooltip = Una o más redes y/o direcciones para incluir en la lista blanca (whitelist). El valor predeterminado 0.0.0.0/0 significa permitir todo. Los valores pueden escribirse como dirección/subred (ej. 192.168.1.1/255.255.255.0) o utilizando notación CIDR (ej. 192.168.1.1/24), separados por coma o espacio.
+hot_desking.permit.tooltip = En una definición de user/peer, es posible limitar el tráfico hacia y desde este punto a una determinada IP o red. (Ejemplo: Permitir = 192.168.40.0 / 255.255.255.0 permite el tráfico de esta red).
 hot_desking.profile_id = Perfil
 hot_desking.profile_id.tooltip = Configuración del perfil para dispositivos
 hot_desking.ring_device = Timbrar Dispositivo
@@ -48,6 +50,7 @@ hot_desking.secret.tooltip = Contraseña asociada a este dispositivo
 hot_desking.technology = Tecnología
 hot_desking.technology.tooltip = Tipo de tecnología para este dispositivo
 hot_desking.user = Usuario de Dispositivo
+hot_desking.user.tooltip = Usuario para este dispositivo.
 hot_desking.user_unique.invalid = El usuario del dispositivo ya existe
 hot_desking.user.invalid = Por favor, introduzca un usuario válido del dispositivo
 hot_desking.user.tooltip = Usuario para este dispositivo.
@@ -55,19 +58,6 @@ hot_desking.voicemail_uri = URI del Correo de Voz
 hot_desking.voicemail_uri.tooltip = Si el botón de Mensajes del teléfono debe marcar un SIP URI en lugar de abrir la aplicación de correo de voz visual, esta opción especifica qué URI debe marcar el botón de Menjs. Si establece esta opción en la línea principal de un teléfono se desactivará el correo de voz visual.
 menu.hot_desking = Escritorio Compartido
 module.hot_desking = Escritorio Compartido
-hot_desking.emergency_cid = CID de emergencia
-hot_desking.emergency_cid_name = nombre
-hot_desking.emergency_cid_number = Número
-hot_desking.emergency_cid.tooltip = Número de Emergencia para el dispositivo consiste de dos partes: el nombre de identificación y el número de identificación. Esto establece el texto que se despliega para para el número de identificación, cuando este dispositivo realiza una llamada de emergencia en el PBX. </br><strong>Nota:</strong> Al crear un número de identificación de emergencia se generará un DID de forma automática que permite la llamada directa a este dispositivo específico, sin importar la configuración de la extensión.
-hot_desking.link_extension = Relacionar dispositivo
-hot_desking.confirmation =
-	Está seguro que desea relacionar el dispositivo "{0}" con la extensión "{1} - {2}" ?</br>
-	* El dispositivo será desconectado de la extensión a la que está asociada.</br>
-	* Si la extensión seleccionada está configurada en modo host desk, será desconectada del dispositivo al que está actualmente asociada.</br>
-	* El dispositivo no será hot desk.
-hot_desking.confirm = Confirmar
-hot_desking.device_linked = Dispositivo Relacionar
-hot_desking.nat.no.mt_tooltip = No realizar ningún manejo especial de NAT aparte de RFC3581. <b>(única opción para el sistema MT).</b>
 hot_desking.mobile-number = Número
 hot_desking.mobile-number.tooltip = Número al que marcar para alcanzar el dispositivo móvil.
 hot_desking.custom-dialstring = Cadena de marcado personalizada
@@ -83,3 +73,15 @@ hot_desking.desktop_username = Nombre de Usuario
 hot_desking.desktop_username.tooltip = Nombre de usuario de la aplicación CloudPhone Desktop.
 hot_desking.desktop_password = Contraseña
 hot_desking.desktop_password.tooltip = Contraseña de la aplicación CloudPhone Desktop.
+hot_desking.emergency_cid = CID de emergencia
+hot_desking.emergency_cid_name = Nombre
+hot_desking.emergency_cid_number = Número
+hot_desking.emergency_cid.tooltip = Número de Emergencia para el dispositivo consiste de dos partes: el nombre de identificación y el número de identificación. Esto establece el texto que se despliega para para el número de identificación, cuando este dispositivo realiza una llamada de emergencia en el PBX. </br><strong>Nota:</strong> Al crear un número de identificación de emergencia se generará un DID de forma automática que permite la llamada directa a este dispositivo específico, sin importar la configuración de la extensión.
+hot_desking.link_extension = Relacionar dispositivo
+hot_desking.confirmation =
+	Está seguro que desea relacionar el dispositivo "{0}" con la extensión "{1} - {2}" ?</br>
+	* El dispositivo será desconectado de la extensión a la que está asociada.</br>
+	* Si la extensión seleccionada está configurada en modo host desk, será desconectada del dispositivo al que está actualmente asociada.</br>
+	* El dispositivo no será hot desk.
+hot_desking.confirm = Confirmar
+hot_desking.device_linked = Dispositivo Relacionar
