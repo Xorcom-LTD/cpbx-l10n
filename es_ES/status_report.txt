@@ -57,11 +57,11 @@ module.status_report = Reporte de Estado
 menu.pbx_reports = Reportes de PBX
 menu.status = Estados
 status_report.statusval =
-[0] Disponible
-[1] En Uso
-[2] Ocupado
-[4] No Disponible
-*[] {1}
+  [0] Disponible
+  [1] En Uso
+  [2] Ocupado
+  [4] No Disponible
+  *[] {1}
 status_report.hot_desking = Escritorio Compartido
 status_report.device = Dispositivo
 status_report.device_description = Descripción del Dispositivo
