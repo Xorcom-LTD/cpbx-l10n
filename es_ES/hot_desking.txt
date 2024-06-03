@@ -8,7 +8,7 @@ hot_desking.cloudphone_send_qrcode = Restablecer Contraseña
 hot_desking.cloudphone_send_qrcode.tooltip = 
 	Genera un nuevo código QR y lo envía a la dirección de correo electrónico de la extensión.
 	Esta acción desconectará inmediatamente la aplicación CloudPhone Mobile de la extensión.
-hot_desking.codecs = Codecs
+hot_desking.codecs = Códecs
 hot_desking.codecs.tooltip = Lista de códecs permitidos. El orden en que se enumeran los códecs determina su orden de preferencia. Si selecciona al menos un códec, el parámetro "disallow = all" será generado.
 hot_desking.delete = Eliminar
 hot_desking.delete.tooltip = ¿Seguro que desea eliminar este registro %s?
@@ -21,9 +21,12 @@ hot_desking.digit_map = Mapa de Dígitos
 hot_desking.digit_map.tooltip = El mapeo de dígitos que se utilizará para esta línea.
 hot_desking.digium_phone_settings = Configuración de Teléfono Digium
 hot_desking.dtmfmode = Modo DTMF
+hot_desking.dtmfmode.rfc2833.tooltip = Usar RFC 2833.
 hot_desking.dtmfmode.auto.tooltip = Utilizar RFC2833 si es ofrecido, de lo contrario Inband
 hot_desking.dtmfmode.inband.tooltip = Inband audio (requiere 64 kbit codec -alaw, ulaw)
+hot_desking.dtmfmode.info = SIP INFO messages (application/dtmf-relay)
 hot_desking.dtmfmode.info.tooltip = SIP INFO messages (application/dtmf-relay)
+hot_desking.dtmfmode.shortinfo = SIP INFO messages (application/dtmf)
 hot_desking.dtmfmode.shortinfo.tooltip = SIP INFO messages (application/dtmf)
 hot_desking.dtmfmode.tooltip = Establecer dtmf-mode por defecto para el envío de DTMF. RFC2833 predeterminado
 hot_desking.general = General
@@ -47,6 +50,7 @@ hot_desking.ring_device = Timbrar Dispositivo
 hot_desking.ring_device.tooltip = Determina si las llamadas entrantes deben hacer que el dispositivo timbre.
 hot_desking.secret = Contraseña
 hot_desking.secret.tooltip = Contraseña asociada a este dispositivo
+hot_desking.system = Sistema
 hot_desking.technology = Tecnología
 hot_desking.technology.tooltip = Tipo de tecnología para este dispositivo
 hot_desking.user = Usuario de Dispositivo

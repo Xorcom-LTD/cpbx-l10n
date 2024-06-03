@@ -3,13 +3,19 @@ inbound_route.alertinfo = Información de Alerta
 inbound_route.alertinfo.tooltip = Todavía no parece haber un estándar establecido sobre cómo indicar a un teléfono SIP que desee que suene con un timbre distintivo. En los teléfonos SIP que admiten un timbre distintivo, el método exacto para especificarlo varía de un modelo a otro. A menudo (¿o siempre?) se realiza mediante el envío de un encabezado SIP "Alert-info", pero el valor de este encabezado no es consistente.
 inbound_route.any_cid = Cualquier CID
 inbound_route.any_did = Cualquier DID
-inbound_route.caller_name_source = Origen del Nombre de CID
-inbound_route.caller_name_source.tooltip = Lista opcional de fuentes de CID para buscar el nombre de CID correspondiente al número de CID entrante. Esta búsqueda se realiza antes de aplicar cualquier modificador de CID.
 inbound_route.channel_id = Canal FXO
 inbound_route.channel_id.duplicate = La Ruta FXO "Canal  -%s/%s" ya existe
 inbound_route.channel_id.tooltip = Canal FXO para para enrutar las llamadas
 inbound_route.cid_number = Patrón CID
-inbound_route.cid_number.tooltip = Un patrón que define números de Identificación de Llamada (CID) que coinciden. Déje en blanco para que coincida con todo. Se admiten los siguientes caracteres y secuencias especiales:<ul> <li>X - Un solo dígito del 0 al 9.</li> <li>Z - Un solo dígito del 1 al 9.</li> <li>N - Un solo dígito del 2 al 9.</li> <li>. - Uno o más dígitos y/o caracteres restantes al final del patrón.</li> <li>! - Cero o más dígitos y/o caracteres restantes al final del patrón.</li> <li>[157-9X] - Un dígito y/o caracter (1, 5, 7, 8, 9 o X) según lo especificado entre corchetes.</li> </ul>
+inbound_route.cid_number.tooltip = 
+  Un patrón que define números de Identificación de Llamada (CID) que coinciden. Déje en blanco para que coincida con todo. Se admiten los siguientes caracteres y secuencias especiales:<ul> 
+  <li>X - Un solo dígito del 0 al 9.</li> 
+  <li>Z - Un solo dígito del 1 al 9.</li> 
+  <li>N - Un solo dígito del 2 al 9.</li> 
+  <li>. - Uno o más dígitos y/o caracteres restantes al final del patrón.</li> 
+  <li>! - Cero o más dígitos y/o caracteres restantes al final del patrón.</li> 
+  <li>[157-9X] - Un dígito y/o caracter (1, 5, 7, 8, 9 o X) según lo especificado entre corchetes.</li> 
+  </ul>
 inbound_route.description = Descripción
 inbound_route.description.tooltip = Breve descripción para identificar este DID.
 inbound_route.description.invalid = Se requiere una descripción y debe ser única
@@ -18,7 +24,15 @@ inbound_route.detectiontime = Tiempo de Detección
 inbound_route.detectiontime.tooltip = Tiempo de Detección.
 inbound_route.did = Patrón DID
 inbound_route.did.duplicate = Esta ruta de entrada "%s/%s" ya existe
-inbound_route.did.tooltip = Un patrón que define números coincidentes de Marcación Directa Entrante (DID). Déje en blanco para que coincida con todo. Se admiten los siguientes caracteres y secuencias especiales:<ul> <li>X: Un solo dígito del 0 al 9.</li> <li>Z: Un solo dígito del 1 al 9.</li> <li>N: Un solo dígito del 2 al 9.</li> <li>.: Uno o más dígitos y/o caracteres restantes.</li> <li>!: Cero o más dígitos y/o caracteres restantes.</li> <li>[157-9X]: Un dígito y/o carácter (1, 5, 7, 8, 9 o X) como se especifica entre corchetes.</li> </ul>
+inbound_route.did.tooltip = 
+  Un patrón que define números coincidentes de Marcación Directa Entrante (DID). Déje en blanco para que coincida con todo. Se admiten los siguientes caracteres y secuencias especiales:<ul> 
+  <li>X: Un solo dígito del 0 al 9.</li> 
+  <li>Z: Un solo dígito del 1 al 9.</li> 
+  <li>N: Un solo dígito del 2 al 9.</li> 
+  <li>.: Uno o más dígitos y/o caracteres restantes.</li> 
+  <li>!: Cero o más dígitos y/o caracteres restantes.</li> 
+  <li>[157-9X]: Un dígito y/o carácter (1, 5, 7, 8, 9 o X) como se especifica entre corchetes.</li> 
+  </ul>
 inbound_route.did.invalid = El patrón DID debe ser válido o estar vacío.
 inbound_route.enablerecording = Habilitar Grabación
 inbound_route.enablerecording.tooltip = Habilita grabación de llamadas.

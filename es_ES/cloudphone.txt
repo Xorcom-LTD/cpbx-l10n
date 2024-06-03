@@ -1,5 +1,6 @@
 menu.cloudphone = CloudPhone
 module.cloudphone = CloudPhone
+
 cloudphone.add_extensions = Agregar extensiones
 cloudphone.bulk-extensions = Lista de extensiones
 cloudphone.default_host = Los dispositivos CloudPhone no funcionarán mientras la dirección de host predeterminada esté configurada como "example.com". <br>Para hacer que los dispositivos CloudPhone sean funcionales, por favor establezca la dirección IP real de la PBX en {0}
