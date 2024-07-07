@@ -36,6 +36,7 @@ external_resources.test_failed = La Prueba ha fallado. Por favor verifique la co
 external_resources.confirm_delete = Está Seguro de que desea eliminar este proveedor de almacenamiento?
 external_resources.region = Región
 external_resources.region.tooltip = Región opcional. Es obligatorio para algunos proveedores como Amazon AWS, CloudFlare y otros.
+external_resources.allowed_for = Autorizado para
 external_resources.use_for_call_recording = Autorizado para grabación de llamadas
 external_resources.use_for_call_recording.tooltip = Si está habilitado, este proveedor de almacenamiento se puede utilizar para almacenar y recuperar grabaciones de llamadas. Puede seleccionar este proveedor de almacenamiento como destino en el módulo de grabación de llamadas.
 external_resources.allowed_for = Autorizado para
