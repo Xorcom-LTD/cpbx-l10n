@@ -53,3 +53,5 @@ users.short_time = Hora Corta
 users.short_time.tooltip = Formato de hora corta utilizado al mostrar horas.
 users.long_time = Hora Larga
 users.long_time.tooltip = Formato de hora larga utilizado al mostrar horas.
+users.require_reset_pass = Requerir cambio de contraseña
+users.require_reset_pass.tooltip = Requiere que el usuario cambie la contraseña después de su próximo inicio de sesión

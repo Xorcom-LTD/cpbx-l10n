@@ -160,3 +160,6 @@ epm.device_modal.title = Configurando {0} - {1}
 epm.device_member.device_id.invalid = Dispositivo no válido
 epm.device_member.extension_id.invalid = La extensión debe ser válida y única
 epm.device_member.index.invalid = El índice debe ser válido y único
+epm.template.duplicate = Duplicar
+epm.template.export = Exportar
+epm.template.import = Importar
