@@ -25,7 +25,6 @@ parking.findslot.next = Siguiente
 parking.findslot.next.tooltip = Utiliza el siguiente espacio de parqueo del utilizado por última vez.
 parking.findslot.tooltip = Establece el método para la selección de plazas de parqueo cuando está parqueada una llamada.
 parking.general = General
-parking.invalid.already_exists = Número de Parqueo no válido {0}. El número está en uso por el módulo {1}.
 parking.mod_dest = Módulo de Destino
 parking.music_group_id = Música en Espera
 parking.music_group_id.tooltip = Música a escuchar cuando la llamada es parqueada.

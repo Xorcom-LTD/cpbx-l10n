@@ -25,7 +25,6 @@ parking.findslot.next = Next
 parking.findslot.next.tooltip = Use the next parking space from the most recently used one.
 parking.findslot.tooltip = Sets the method for selecting parking spaces when a call is parked.
 parking.general = General
-parking.invalid.already_exists = Invalid Paging number {0}. The number is in use by {1} module.
 parking.mod_dest = Destination Module
 parking.music_group_id = Music on Hold
 parking.music_group_id.tooltip = The Music on Hold class to use for the parked channel.

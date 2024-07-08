@@ -33,5 +33,3 @@ nightmode.phone_hint.tooltip = Este es el string (cadena) a agregar en las linea
 nightmode.enabled_destination_source = {0} - Destino habilitado 
 nightmode.disabled_destination_source = {0} - Destino deshabilitado
 destination_type.nightmode = Modo Nocturno
-nightmode.mod_dest_normal = Destino cuando está desactivado
-nightmode.mod_dest_override = Destino cuando activado

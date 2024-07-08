@@ -24,6 +24,8 @@ paging.quiet = Modo Silencioso
 paging.quiet.tooltip = Silencioso, el llamado no escucha pitido 
 paging.record = Grabar Buscapersonas & Intercomunicador
 paging.record.tooltip = Grabe la llamada en un archivo
+paging.password.tooltip = Contraseña para proteger este Grupo de Buscapersonas.
+paging.password.invalid = La contraseña no es válida. Utilice solo números y el símbolo "*" (asterisco).
 paging.seconds =
 	[uno] Un segundo
 	[otro] {0} segundos
