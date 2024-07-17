@@ -14,7 +14,7 @@ hot_desking.delete = Eliminar
 hot_desking.delete.tooltip = ¿Seguro que desea eliminar este registro %s?
 hot_desking.deny = Negar
 hot_desking.deny.invalid = La denegación no es válida. Por favor introduzca la dirección IP con su Máscara de Subred. Ud. puede utilizar registro CIDR. (Ejemplo: 192.168.40.38/16)
-hot_desking.deny.tooltip = En una definición de user/peer, es posible limitar el tráfico hacia y desde este punto a una determinada IP o red. (Ejemplo: niegan = 192.168.40.38 / 255.255.255.255 niega el tráfico desde esta dirección IP).
+hot_desking.deny.tooltip = En una definición de user/peer, es posible limitar el tráfico hacia y desde este punto a una determinada IP o red. (Ejemplo: Negar = 192.168.40.38 / 255.255.255.255 niega el tráfico desde esta dirección IP).
 hot_desking.dev_description = Descripción del Dispositivo
 hot_desking.dev_description.tooltip = Una breve descripción para identificar este dispositivo.
 hot_desking.digit_map = Mapa de Dígitos
@@ -80,7 +80,7 @@ hot_desking.desktop_password.tooltip = Contraseña de la aplicación CloudPhone 
 hot_desking.emergency_cid = CID de emergencia
 hot_desking.emergency_cid_name = Nombre
 hot_desking.emergency_cid_number = Número
-hot_desking.emergency_cid.tooltip = Número de Emergencia para el dispositivo consiste de dos partes: el nombre de identificación y el número de identificación. Esto establece el texto que se despliega para para el número de identificación, cuando este dispositivo realiza una llamada de emergencia en el PBX. </br><strong>Nota:</strong> Al crear un número de identificación de emergencia se generará un DID de forma automática que permite la llamada directa a este dispositivo específico, sin importar la configuración de la extensión.
+hot_desking.emergency_cid.tooltip = Número de Emergencia para el dispositivo que consiste de dos partes: el nombre de identificación y el número de identificación. Esto establece el texto que se despliega para para el número de identificación, cuando este dispositivo realiza una llamada de emergencia en el PBX. </br><strong>Nota:</strong> Al crear un número de identificación de emergencia se generará un DID de forma automática que permite la llamada directa a este dispositivo específico, sin importar la configuración de la extensión.
 hot_desking.link_extension = Relacionar dispositivo
 hot_desking.confirmation =
 	Está seguro que desea relacionar el dispositivo "{0}" con la extensión "{1} - {2}" ?</br>
