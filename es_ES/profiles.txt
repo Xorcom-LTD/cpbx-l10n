@@ -381,4 +381,4 @@ profiles_teams_country_tooltip = País para este perfil.
 profiles_teams_country_invalid = No se especificó ningún país.
 profiles_teams_outside_line_prefix = Prefijo de Línea Externa
 profiles_teams_outside_line_prefix_tooltip = Si tu PBX requiere marcar un dígito para llamadas externas/línea externa, ingréslo aquí.
-profiles_teams_account_id_missing = ID de Cuenta del Conector de Teams no establecido.
+profiles_teams_account_id_missing = ID de Cuenta de Teams Connector no establecido.

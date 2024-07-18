@@ -269,7 +269,7 @@ ombutel.apply_config_running = No se puede aplicar la configuración, ya está e
 menu.download_cdr_recordings = Descargar Grabaciones de CDR
 ombutel.uses_recording = No se puede eliminar esta grabación, está siendo utilizada por <a onclick="pbx_request('{0}','{1}','edit',{2});">{3}, {4}</a>.
 ombutel.uses_recording.nohtml = No se puede eliminar esta grabación, está siendo utilizada por {3}, {4}.
-ombutel.teams = Conector de Equipos
+ombutel.teams = Teams Connector
 ombutel.empty_server_response = Se recibió una respuesta vacía del servidor.
 ombutel.connection_aborted = Conexión abortada inesperadamente.
 ombutel.login = Iniciar Sesión
