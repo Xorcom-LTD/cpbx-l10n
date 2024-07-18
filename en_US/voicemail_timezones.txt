@@ -17,4 +17,4 @@ voicemail_timezones.tzname = Name
 voicemail_timezones.tzname.tooltip = Short name for this time-zone.
 voicemail_timezones.tzname.invalid = Name is required and must be unique.
 voicemail_timezones.voicemail_timezone_id = Zone Messages
-voicemail_timezones.voicemail_timezone_id.tooltip = Time-zone from Zone Messages, If set to 'no' it will be taken by general settings section. Irrelevant if Envelope is 'no'.
+voicemail_timezones.voicemail_timezone_id.tooltip = Time-zone from Zone Messages, If set to 'None' it will be taken by general settings section. Irrelevant if Envelope is 'None'.

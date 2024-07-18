@@ -17,4 +17,4 @@ voicemail_timezones.tzname = Nombre
 voicemail_timezones.tzname.tooltip = Nombre corto para esta zona horaria.
 voicemail_timezones.tzname.invalid = El nombre es obligatorio y debe ser único.
 voicemail_timezones.voicemail_timezone_id = Mensajes de Zona
-voicemail_timezones.voicemail_timezone_id.tooltip = Zona Horaria de Mensajes de Zona, si está seleccionada en "no" será tomada por la configuración general. Irrelevante si es "no".
+voicemail_timezones.voicemail_timezone_id.tooltip = Zona Horaria de Mensajes de Zona, si está seleccionada en "Ninguna" será tomada por la configuración general. Irrelevante si es "Ninguna".

@@ -31,10 +31,10 @@ profiles_iax_peertype_tooltip = Define el tipo de dispositivo. "User" es un disp
 profiles_iax_peertype_user = User
 profiles_iax_qualifyfreq = Frecuencia de Calificador
 profiles_iax_qualifyfreq_invalid = Frecuencia de Calificador debe ser un número empezando desde 0.
-profiles_iax_qualifyfreq_tooltip = Definir el intervalo de calificar en cuestión de segundos. Un valor de cero desactivar esta característica.
+profiles_iax_qualifyfreq_tooltip = Definir el intervalo de calificar en cuestión de segundos. Un valor de cero desactiva esta característica.
 profiles_iax_qualify = Tiempo de Espera de Calificador
 profiles_iax_qualify_invalid = Calificador debe ser un número empezando desde 0.
-profiles_iax_qualify_tooltip = Definir el tiempo máximo de respuesta en milisegundos antes de que un dispositivo se considera inalcanzable. Un valor de cero desactivar esta característica.
+profiles_iax_qualify_tooltip = Definir el tiempo máximo de respuesta en milisegundos antes de que un dispositivo se considera inalcanzable. Un valor de cero desactiva esta característica.
 profiles_iax_requirecalltoken = Llamada de Prueba
 profiles_iax_requirecalltoken_auto = Automático
 profiles_iax_requirecalltoken_invalid = Llamada de Prueba debe ser uno de: Sí, No, Automático.
@@ -87,10 +87,10 @@ profiles_sip_peertype_tooltip = Define el tipo de dispositivo. "User" es un disp
 profiles_sip_peertype_user = User
 profiles_sip_qualifyfreq = Frecuencia de Calificador
 profiles_sip_qualifyfreq_invalid = Frecuencia de Calificador debe ser un número empezando desde 0.
-profiles_sip_qualifyfreq_tooltip = Definir el intervalo de calificar en cuestión de segundos. Un valor de cero desactivar esta característica.
+profiles_sip_qualifyfreq_tooltip = Definir el intervalo de calificar en cuestión de segundos. Un valor de cero desactiva esta característica.
 profiles_sip_qualify = Tiempo de Espera de Calificador
 profiles_sip_qualify_invalid = Calificador debe ser un número empezando desde 0.
-profiles_sip_qualify_tooltip = Definir el tiempo máximo de respuesta en milisegundos antes de que un dispositivo se considera inalcanzable. Un valor de cero desactivar esta característica.
+profiles_sip_qualify_tooltip = Definir el tiempo máximo de respuesta en milisegundos antes de que un dispositivo se considera inalcanzable. Un valor de cero desactiva esta característica.
 profiles_sip_sendrpid = Enviar ID Ubicación Remota
 profiles_sip_sendrpid_invalid = Envío ID remota debe ser uno de: Sí, No, Usar de RFID, Usar PAI.
 profiles_sip_sendrpid_no = No
@@ -118,7 +118,7 @@ profiles_sip_maxcallbitrate = Máxima Tasa de Bits de Llamada
 profiles_sip_maxcallbitrate_tooltip = Tasa máxima de bits para llamadas de video (por defecto 384 kb/s).
 profiles_sip_maxcallbitrate_invalid = La tasa máxima de bits para llamadas de video es obligatoria y debe ser mayor que cero.
 profiles_sip_codecs = Códecs
-profiles_sip_codecs_tooltip = Lista de códecs permitidos. El orden en que se enumeran los códecs determina su orden de preferencia. Si seleccionas al menos un códec, también se generará el parámetro "disallow=all".
+profiles_sip_codecs_tooltip = Lista de códecs permitidos. El orden en que se enumeran los códecs determina su orden de preferencia. Si selecciona al menos un códec, también se generará el parámetro "disallow=all".
 profiles_sip_codecs_alaw = alaw
 profiles_sip_codecs_g729 = g729
 profiles_sip_codecs_g722 = g722
@@ -281,7 +281,7 @@ profiles_teams_avpf_tooltip = Habilita la interoperabilidad con flujos multimedi
 profiles_teams_callerid = Identificación de Llamante
 profiles_teams_callerid_section = Identificación de Llamante
 profiles_teams_codecs = Codecs
-profiles_teams_codecs_tooltip = Lista de codecs permitidos. El orden en el que se enumeran los codecs determina su orden de preferencia. Si seleccionas al menos un codec, también se generará el parámetro "disallow=all".
+profiles_teams_codecs_tooltip = Lista de codecs permitidos. El orden en el que se enumeran los codecs determina su orden de preferencia. Si selecciona al menos un codec, también se generará el parámetro "disallow=all".
 profiles_teams_codecs_alaw = alaw
 profiles_teams_codecs_ulaw = ulaw
 profiles_teams_codecs_g729 = g729
