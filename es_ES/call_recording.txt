@@ -1,7 +1,7 @@
-menu.call_recording_submenu = Grabación de llamadas
-module.call_recording_general = Grabación de llamadas
+menu.call_recording_submenu = Grabación de Llamadas
+module.call_recording_general = Grabación de Llamadas
 call_recording.advanced = Avanzado
-call_recording.call_recording = Grabación de llamadas
+call_recording.call_recording = Grabación de Llamadas
 call_recording.cloud_recording = Grabación en la nube
 call_recording.connection_timeout = Tiempo de espera de conexión. Por favor, verifique su red.
 call_recording.customer_id = ID del cliente
